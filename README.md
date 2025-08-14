@@ -31,30 +31,6 @@ It integrates **LangChain** for text processing, **Pinecone** for vector storage
 - **Uvicorn** – ASGI server
 
   
-📌 Usage
-
-Sign up / Log in to your account
-
-Upload a document (PDF or TXT)
-
-Ask questions – ChatMate will respond based on your document’s content
-
-🎯 Key Highlights
-
-Retrieval-Augmented Generation (RAG) for intelligent Q&A
-
-Document-aware conversations
-
-Efficient text chunking using LangChain
-
-Real-time vector search with Pinecone
-
-
-Anubhav Singh Pathania
-
-GitHub: https://github.com/21anubhav
-
-LinkedIn: https://linkedin.com/in/anubhavsinghpathania
 
 ---
 
@@ -75,7 +51,34 @@ chatmate/
 
 
 ---
+📌 Usage
 
+Sign up / Log in to your account
+
+Upload a document (PDF or TXT)
+
+Ask questions – ChatMate will respond based on your document’s content
+
+---
+
+🎯 Key Highlights
+
+Retrieval-Augmented Generation (RAG) for intelligent Q&A
+
+Document-aware conversations
+
+Efficient text chunking using LangChain
+
+Real-time vector search with Pinecone
+
+---
+Anubhav Singh Pathania
+
+GitHub: https://github.com/21anubhav
+
+LinkedIn: https://linkedin.com/in/anubhavsinghpathania
+
+---
 ## ⚙️ Installation
 
 1️⃣ **Clone the repository**  
