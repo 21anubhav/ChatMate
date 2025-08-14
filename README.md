@@ -66,6 +66,12 @@ Efficient text chunking using LangChain
 Real-time vector search with Pinecone
 
 
+Anubhav Singh Pathania
+
+GitHub: https://github.com/21anubhav
+
+LinkedIn: https://linkedin.com/in/anubhavsinghpathania
+
 ---
 
 ## ⚙️ Installation
