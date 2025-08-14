@@ -30,23 +30,7 @@ It integrates **LangChain** for text processing, **Pinecone** for vector storage
 - **MySQL Connector/Python** – Database connectivity
 - **Uvicorn** – ASGI server
 
----
-
-## 📂 Project Structure
-chatmate/
-│── backend/
-│ ├── main.py # FastAPI entry point
-│ ├── database.py # MySQL connection setup
-│ ├── models.py # SQLAlchemy models
-│ ├── init_db.py # Database initialization
-│ ├── pinecone_utils.py # Pinecone integration functions
-│ └── auth.py # User authentication logic
-│── venv/ # Virtual environment
-│── requirements.txt # Dependencies
-│── README.md # Project documentation
-
-
-
+  
 📌 Usage
 
 Sign up / Log in to your account
@@ -71,6 +55,24 @@ Anubhav Singh Pathania
 GitHub: https://github.com/21anubhav
 
 LinkedIn: https://linkedin.com/in/anubhavsinghpathania
+
+---
+
+## 📂 Project Structure
+chatmate/
+│── backend/
+│ ├── main.py # FastAPI entry point
+│ ├── database.py # MySQL connection setup
+│ ├── models.py # SQLAlchemy models
+│ ├── init_db.py # Database initialization
+│ ├── pinecone_utils.py # Pinecone integration functions
+│ └── auth.py # User authentication logic
+│── venv/ # Virtual environment
+│── requirements.txt # Dependencies
+│── README.md # Project documentation
+
+
+
 
 ---
 
