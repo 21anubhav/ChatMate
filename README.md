@@ -47,34 +47,6 @@ chatmate/
 
 
 
----
-
-## ⚙️ Installation
-
-1️⃣ **Clone the repository**  
-```bash
-git clone https://github.com/your-username/chatmate.git
-cd chatmate
-2️⃣ python -m venv venv
-source venv/bin/activate   # For Mac/Linux
-venv\Scripts\activate      # For Windows
-3️⃣ Install dependencies
-pip install -r requirements.txt
-4️⃣ Set up MySQL Database
-CREATE DATABASE chatbot;
-CREATE USER 'chatbot_user'@'localhost' IDENTIFIED BY 'your_password';
-GRANT ALL PRIVILEGES ON chatbot.* TO 'chatbot_user'@'localhost';
-FLUSH PRIVILEGES;
-5️⃣ Configure Environment Variables
-Create a .env file in the root directory:
-DATABASE_URL=mysql+mysqlconnector://chatbot_user:your_password@localhost/chatbot
-PINECONE_API_KEY=your_pinecone_api_key
-6️⃣ Initialize Database
-python backend/init_db.py
-7️⃣ Run the Backend
-uvicorn backend.main:app --reload
-
-
 📌 Usage
 
 Sign up / Log in to your account
@@ -92,4 +64,40 @@ Document-aware conversations
 Efficient text chunking using LangChain
 
 Real-time vector search with Pinecone
+
+
+---
+
+## ⚙️ Installation
+
+1️⃣ **Clone the repository**  
+```bash
+git clone https://github.com/your-username/chatmate.git
+cd chatmate
+
+2️⃣ python -m venv venv
+source venv/bin/activate   # For Mac/Linux
+venv\Scripts\activate      # For Windows
+
+3️⃣ Install dependencies
+pip install -r requirements.txt
+
+4️⃣ Set up MySQL Database
+CREATE DATABASE chatbot;
+CREATE USER 'chatbot_user'@'localhost' IDENTIFIED BY 'your_password';
+GRANT ALL PRIVILEGES ON chatbot.* TO 'chatbot_user'@'localhost';
+FLUSH PRIVILEGES;
+
+5️⃣ Configure Environment Variables
+Create a .env file in the root directory:
+DATABASE_URL=mysql+mysqlconnector://chatbot_user:your_password@localhost/chatbot
+PINECONE_API_KEY=your_pinecone_api_key
+
+6️⃣ Initialize Database
+python backend/init_db.py
+
+7️⃣ Run the Backend
+uvicorn backend.main:app --reload
+
+
 
