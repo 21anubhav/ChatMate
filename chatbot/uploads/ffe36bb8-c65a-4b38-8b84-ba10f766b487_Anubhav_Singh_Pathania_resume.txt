@@ -1,0 +1,55 @@
+Anubhav Singh Pathania
+anubhav.pathania21@gmail.com
+|
++91 9910529128
+|
+LinkedIn: anubhavsinghpathania
+|
+Github: 21anubhav
+Education
+Thapar Institute of Engineering & Technology, Master of Computer Applications
+Aug 2024 – Present
+Guru Gobind Singh Indraprastha University, Bachelors of Computer Applications
+Sept 2020 – Aug 2023
+Experience
+Data Science Intern, GeeksforGeeks – Remote, India
+Jun 2025 – Present
+• Engineered Python-based data pipelines using Pandas/NumPy for efficient cleaning, transformation, and
+integration of structured and unstructured datasets.
+• Enhanced ML models (Logistic Regression, Random Forest, XGBoost) through feature engineering, boosting
+accuracy by 12% and cutting inference time by 20%.
+• Created data visualizations using Matplotlib/Seaborn to present insights clearly.
+• Collaborated in deploying LangChain-powered LLM applications with real-time retrieval for enhanced user
+experience.
+Front-End Developer Intern, IRCTC – New Delhi, India
+Jul 2022 – Sept 2022
+• Developed and maintained responsive web interfaces using HTML, CSS, and Angular, reducing page load time
+by 25% and increasing user engagement metrics by 15%.
+• Integrated and managed database operations to support dynamic content and enhance data accessibility.
+• Collaborated with the tourism department to understand requirements and deliver user-focused front-end
+solutions.
+Projects
+ChatMate | Python, MySQL, SQLAlchemy, Langchain, Pinecone
+github.com/ChatMate
+• Developed a chatbot application using Python, MySQL, and SQLAlchemy for smooth, real-time conversations.
+• Integrated authentication, document upload, and retrieval features, reducing query time by 35%.
+• Optimized backend queries to cut execution time by 40% and handle 2x more requests without latency.
+Sentiment Analysis on HMPV | Numpy, Pandas, Matplotlib, Seaborn, NLTK, Keras
+github.com/HMPV
+• Built an end-to-end sentiment and emotion analysis pipeline for HMPV-related data using Python, NLP, and
+hybrid ML/DL approaches.
+• Deployed and integrated an ensemble LightGBM model combining multiple algorithms to boost classification
+accuracy.
+• Implemented Streamlit dashboards for sentiment and model insights.
+Sign2Text | Python, Numpy, Tensorflow, OpenCV, Streamlit, ML, NLP
+github.com/Sign2Text
+• Built a real-time bi-directional system enabling speech to Indian Sign Language (ISL) translation for accessibility.
+• Achieved 90+ accuracy using CNNs for gesture recognition and NLP for speech-to-text processing.
+• Implemented a GUI supporting real-time camera/audio input and offline mode using Tkinter/Streamlit.
+Skills
+Programming Languages: C++, Python
+CS Fundamentals : Data Structures & Algorithms, OOPS, Operating Systems, Computer Networks, DBMS, SE
+Core Competencies: Machine Learning, Deep Learning, Natural Language Processing, Artificial Intelligence.
+Libraries: Numpy, Pandas, Matplotlib, Tensorflow, Scikit-learn, Pytorch, Streamlit.
+Developer Tools: VS Code, GitHub, Google Colab, Jupyter.
+Soft Skills: Communication & Presentation, Critical Thinking, Leadership, Decision Making, Problem Solving.

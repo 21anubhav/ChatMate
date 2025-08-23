@@ -1,0 +1,3778 @@
+ROYAL
+ENFIELD
+OWNER’S
+MANUAL
+BS VI
+Royal Enfield Support
+1800 - 210 - 0007
+1.	
+Roadside Assistance
+2.	
+Product Update
+3.	
+Feedback
+4.	
+Dealer Locator
+@royalenfield
+www.royalenfield.com
+Support@royalenfield.com
+Download the ROYAL ENFIELD APP and explore more 
+To access dealer details scan the QR code
+FOREWORD
+Congratulations!
+Welcome to the Royal Enfield family. And to a world of motorcycling that has an enviable heritage, including being the 
+world’s oldest motorcycle marquee in continuous production.
+In your Hunter 350, meet modern technology with an all-new 349 cc air-oil-cooled engine a new frame, unmatched 
+rideability refined experience 
+ 
+Modern Classic design language with RE DNA 
+ 
+Nimble & AGILE  - EASY to ride 
+ 
+Sleek/Lean looks- Nimble in traffic
+ 
+Fun and Simple City Ride- Fun to Ride on city and highway both.
+ 
+Simple yet stylish 
+ 
+Cool motorcycle with vibrant CTG options 
+This manual will guide you and help you to operate and maintain your Hunter 350 motorcycle the right way.
+Please do avail all the services at your nearest Royal Enfield Authorised Service Centre, ensuring your ride gets the
+best care always.
+Do read through the terms and conditions of warranty and other useful information given in this manual before you
+ride. For support and any other information, please call 18002100007, any time between 9am and 9pm, any day of
+the week.
+Let the rides begin!
+Royal Enfield Hunter 350
+02
+Part No. RAM00249/A / Qty / March 2022
+NOTICE
+All information in this manual is based on the latest product information available at the time of publication. Due to continuous 
+improvements. there may be differences between the information provided in this manual and information related to your 
+motorcycle.
+Always consult an authorized Royal Enfield dealer for the latest specifications. features etc. Royal Enfield reserves the right to 
+make production changes at any time without prior notice and without incurring any obligation to make the same or similar 
+changes to a motorcycle previously built or sold.
+All images shown are for reference to explain and need not to be exactly the same on the model you own.
+Accessories and features may not be part of standard equipment. Technical specifications are subject to change without prior 
+notice at the sole discretion of Royal Enfield.
+“© Copyright 2022 Royal Enfield (A unit of Eicher Motors Ltd.). All Rights Reserved. No part of this manual shall be copied. 
+distributed or otherwise dealt without the express permission in writing from Royal Enfield”.
+DISCLAIMER
+1. 
+Do not polish matt finished paint surface in your motorcycle as it will increase the gloss level.
+2. 
+Wash the painted parts only with plain water and do not use any strong solvents cleaning agents or detergents.
+3. 
+Scratches, if happens on the matt finish parts cannot be touched up and corrected / removed.
+4. 
+Warranty is not applicable for any matt finished painted parts of the motorcycle.
+NOTE
+z 
+This motorcycle meets the BS VI emission norms.
+Royal Enfield Hunter 350
+03
+CONTENTS
+Safety definitions ..................................................... 
+4
+Personal and motorcycle information ..................... 
+5
+Safe riding tips / guidelines ...................................... 
+6
+Rules of the road ...................................................... 
+11
+Accessories and luggage .......................................... 
+14
+Technical specifications ........................................... 
+17
+Recommended lubricants ........................................ 
+22
+Motorcycle identification numbers .......................... 
+23
+Engine number details ............................................. 24 
+Location of key parts ................................................ 
+25
+Operation of controls ............................................... 28
+Warning indications and safety systems .................. 45
+Pre-operational checks ............................................ 49
+Running in period ..................................................... 50
+Starting ..................................................................... 
+51
+Gear shifting, riding and stopping ............................ 
+55
+Parking ..................................................................... 58
+Tools kit .................................................................... 59
+First aid kit ................................................................ 60
+Minor maintenance tips ........................................... 
+61
+Rear suspension setting ........................................... 
+75
+Long trip precautions ............................................... 
+77
+Washing procedure .................................................. 78
+Storage precautions ................................................. 
+81
+Environment care ..................................................... 82
+Periodic maintenance chart ..................................... 83
+Warranty terms and conditions ............................... 89
+Emission warranty .................................................... 92
+EVAP ......................................................................... 98
+Service / Maintenance record .................................. 100
+Notes ........................................................................ 101
+Royal Enfield Hunter 350
+04
+SAFETY DEFINITIONS
+The information given under the titles : Warning, Caution and Note are for your safety and for the care and safety to 
+your motorcycle and others. Please read these carefully and if disregarded may result in injury to yourself or others 
+and damages to the motorcycle.
+WARNING
+Indicates a potentially hazardous situation. Disregarding this message will result in injury to rider or other persons.
+CAUTION
+This message, if disregarded, will result in damage to the motorcycle.
+NOTE
+Indicates important and useful messages for better understanding.
+Royal Enfield Hunter 350
+05
+Name
+Door No. / Street
+Locality / Town
+City
+Country
+Contact No.
+Res :
+Off :
+Mobile :
+Email :
+Licence No.
+Valid till :
+Model
+Color :
+Engine No.
+VIN. No.
+Tyre make
+Front :
+Rear :
+Tyre Nos.
+Front :
+Rear :
+Battery make
+Battery No.
+Sold by
+Date of Sale
+PERSONAL AND MOTORCYCLE INFORMATION
+Royal Enfield Hunter 350
+06
+ 
+Before operating your new motorcycle, we request 
+you to carefully read and follow the operating and 
+maintenance instructions detailed in this manual 
+for the safety of your own, your motorcycle and 
+also that of others.
+ 
+Know and adhere to the rules of the road with 
+respect to your driving country.
+ 
+Before starting the motorcycle, check for proper 
+operation of brakes, clutch, gear shifter, handle 
+bar controls, tyre pressures, fuel and oil levels, etc.
+ 
+Use only genuine Royal Enfield spare parts and 
+approved accessories. Use of other manufacturer’s 
+parts may affect the performance of your 
+motorcycle and render the motorcycle void of 
+warranty.
+SAFE RIDING TIPS / GUIDELINES
+ 
+Visit your Royal Enfield Authorised Service Centre 
+for details. 
+ 
+Whenever refueling your motorcycle, please 
+exercise utmost caution and carefully observe the 
+following guidelines.
+ 
+Refuel in a well ventilated area with the 
+engine turned off condition.
+ 
+Open the fuel tank cap slowly.
+ 
+Switch “OFF” mobile phones and other hand 
+held electronic devices.
+ 
+Do not smoke and please ensure that there are 
+no open flames or sparks near the motorcycle, 
+when refueling or servicing the fuel system.
+Royal Enfield Hunter 350
+07
+SAFE RIDING TIPS / GUIDELINES
+ 
+Do not fill the fuel in tank to its brim. Please 
+fill fuel till the bottom of anti splash plate, so 
+as to leave sufficient air space in the fuel tank 
+to allow for fuel expansion.
+WARNING
+Royal Enfield cautions you against the use of certain 
+nonstandard parts such as aftermarket and custom 
+made extended front forks or suspensions, which may 
+adversely affect performance and handling. Removing or 
+altering original parts may adversely affect performance 
+and could result in accident.
+ 
+A new motorcycle must be operated according to 
+the special running-in-procedure. See running-in-
+procedure mentioned in respective section.
+ 
+Operate motorcycle only at moderate speeds 
+and out of traffic until you have become 
+thoroughly familiar with its operation and handling 
+characteristics under all conditions.
+ 
+Do not exceed the legal speed limit or ride too 
+fast for existing conditions. Always reduce speed 
+when poor riding conditions exist. High speed 
+increases the influence of any other condition 
+affecting stability and increases the possibility of 
+loss of control.
+Royal Enfield Hunter 350
+08
+SAFE RIDING TIPS / GUIDELINES
+NOTE
+If you are an inexperienced rider we recommend that 
+you obtain formal training on correct motorcycle riding 
+techniques and become thoroughly familiar with the 
+operation of your motorcycle. New riders should again 
+experience under various conditions while driving 
+moderate speeds.
+Pay strict attention to road surfaces and wind conditions. 
+Any motorcycle may be subject to the following 
+up-setting forces :
+ 
+Wind blasts from passing vehicles.
+ 
+Rough or uneven road surfaces.
+ 
+Slippery road surfaces.
+These forces may affect the handling characteristics of 
+your motorcycle. If this happens, reduce speed of the 
+motorcycle to a controlled condition. Do not apply 
+brake abruptly.
+ 
+Operate your motorcycle defensively. Remember  
+that a motorcycle does not afford the same  
+protection as an automobile in an accident. One of 
+the most common accident situations occurs  
+when the rider / driver of the other motorcycle /  
+vehicle fails to see or recognise a motorcycle and 
+turns into the oncoming motorcyclist.
+ 
+Wear an approved helmet, clothing and footwear 
+suited for riding a motorcycle. Bright / light colours 
+are best for greater visibility in traffic, especially at 
+night. Avoid loose, flowing garments and scarves.
+Royal Enfield Hunter 350
+09
+SAFE RIDING TIPS / GUIDELINES
+ 
+When carrying a pillion rider, it is your 
+responsibility to instruct them on proper riding 
+procedures.
+ 
+Do not allow other individuals, under any 
+circumstances, to operate your motorcycle unless 
+you know they are experienced, licensed riders 
+and are thoroughly familiar with the operating 
+conditions of your motorcycle.
+WARNING
+ 
+Regularly inspect shock absorbers and front 
+forks and look for leaks. Replace worn out parts. 
+Worn out parts can adversely affect stability and 
+handling.
+ 
+For your personal welfare, all the listed service 
+and maintenance recommendations should be 
+performed. Lack of regular maintenance at the 
+suggested intervals may affect the safe / durability 
+/ longevity operation of your motorcycle.
+ 
+Avoid any contact with the exhaust system when 
+hot. Wear clothing that will completely cover the 
+legs while riding. The exhaust system gets very hot 
+when the engine is running and remains too hot to 
+touch, even after the engine is turned off. Failure to 
+wear proper or protective clothing could result in 
+serious injury.
+ 
+Exhaust gas contains poisonous carbon monoxide 
+and chemicals, known to cause cancer, birth 
+defects or other reproductive defects, durability / 
+longevity operation of your motorcycle.
+Royal Enfield Hunter 350
+10
+SAFE RIDING TIPS / GUIDELINES
+WARNING
+ 
+Motorcycle batteries contain lead, acids and  
+chemicals known to cause cancer, birth defects 
+or other reproductive harm. Exercise extreme 
+caution while handling a battery, wash hands 
+thoroughly whenever a battery is handled.
+ 
+Consult your Royal Enfield Authorised Service  
+Centre regarding any questions or problems that 
+occur in the operation of your motorcycle. Failure 
+to do so may aggravate an initial problem, cause 
+costly repairs and jeopardize your personal safety.
+ 
+Do not tow a motorcycle. The steering and 
+handling of the towed motorcycle will be impaired 
+due to the force of the towline. If a motorcycle 
+must be transported, use a truck or a trailer.
+ 
+Do not pull a trailer behind a motorcycle. Towing a 
+trailer may cause reduced braking efficiency, tyre 
+overloading and unstable handling, as it may cause 
+loss of control of the motorcycle in the front, 
+leading to an accident.
+Royal Enfield Hunter 350
+11
+RULES OF THE ROAD
+ 
+Be sure your number plate is installed in the 
+position specified by law and it is clearly visible at 
+all times.
+ 
+Ride at a safe speed that is consistent with the 
+type of road surface you are on. Pay strict attention 
+while riding on the following surfaces:
+ 
+Dusty
+ 
+Oily
+ 
+Icy
+ 
+Wet
+ 
+Sand
+ 
+Do not tow a motorcycle. The steering and handling 
+of the towed motorcycle will be impaired due to 
+the force of the towline. If a motorcycle must be 
+transported, use a truck or a trailer.
+ 
+Keep to the correct side of the road center line, 
+when meeting oncoming vehicles.
+ 
+Actuate your turn signals and exercise caution 
+when passing other vehicles going in the same 
+direction. Never try to pass another vehicle going 
+in the same direction at street intersections, on 
+curves, or when going up / or down a hill.
+ 
+At street intersection give the right-of-way to the 
+motorcycle on your left or right. Do not presume 
+you have the right-of-way.
+ 
+Adhere to the rules of the road with respect to your 
+country when preparing to stop, turn or pass. While 
+turning either right or left, watch for pedestrians, 
+animals, as well as other vehicles.
+Royal Enfield Hunter 350
+12
+RULES OF THE ROAD
+ 
+All traffic signs, including manual controls at 
+intersections, should be obeyed promptly. Slow 
+down at traffic signs near schools and caution signs 
+at rail road crossings.
+ 
+Do not leave the curb or parking area without 
+signaling. Be sure your way is clear to enter moving 
+traffic. A moving line of traffic always has the right-
+of-way.
+ 
+When parking the motorcycle, park on a firm and 
+flat surface to prevent it from falling over.
+ 
+Protect your motorcycle against theft. After 
+parking your motorcycle, ensure that the steering 
+head is locked and then remove the ignition key.
+ 
+When intending to turn, signal 
+at least 100 feet (30.5 m) before 
+reaching the turning. Be close to 
+the center line (unless local rules 
+require otherwise), slow down 
+and then turn carefully.
+ 
+Never jump a traffic light. When 
+a change is imminent from 
+go to stop (or vice versa) at 
+intersections, slow down and wait 
+for the light to change to green. 
+Never run through a yellow or red 
+traffic light.
+Yellow
+Green
+Yellow
+Red
+Royal Enfield Hunter 350
+13
+RULES OF THE ROAD
+SIDE VIEW MIRRORS
+Your motorcycle is equipped with convex mirrors and 
+have a curved surface. This type of mirror is designed 
+to give a much wider view of the rear than a normal flat 
+mirror. However, vehicles and other objects seen in this 
+type of mirror will look smaller and farther away than 
+when seen in a flat mirror.
+Use care when judging the size or distance of vehicles / 
+objects seen in these mirrors.
+NOTE
+To establish the relative distance of vehicles / objects 
+behind your motorcycle through the mirrors, adjust 
+each mirror in such a way, that a small portion of your 
+shoulder is visible and a large portion behind your 
+motorcycle is seen clearly with reference to your riding 
+posture.
+Royal Enfield Hunter 350
+14
+ACCESSORIES AND LUGGAGE
+We strongly advise that you do not add any accessory 
+rack that were not specifically designed for your vehicle 
+by Royal Enfield or make modifications to your vehicle 
+from its original design. Doing so can make it unsafe.
+Modifying your vehicle may also void your warranty and 
+make your vehicle illegal to operate on public roads. 
+Before deciding to install accessories on your vehicle be 
+certain the modification is safe and legal.
+Please adhere to the following guidelines when carrying 
+a pillion, luggage or when fitting any accessories.
+ 
+Do not exceed 110 kmph when riding solo, carrying 
+a pillion or payload on an accessory equipped 
+motorcycle.
+ 
+Keep luggage weight concentrated close to the 
+motorcycle and as low as possible; this minimizes 
+sudden shift in the motorcycle’s center of gravity.
+ 
+Distribute weight evenly on both sides of the 
+motorcycle.
+ 
+Do not load bulky items behind the rider or add 
+weight to the handlebars or front forks.
+ 
+Re-check the luggage periodically to ensure it is 
+secured and will not shift while riding. Accessories 
+mounted loosely may affect the riding of the 
+motorcycle and affect the handling and stability of 
+the motorcycle.
+ 
+Large surfaces such as fairings, windshields, 
+backrests and luggage racks can adversely affect 
+handling of the motorcycle. Use only Royal Enfield 
+genuine motorcycle accessories which are model 
+specific and follow installation procedure.
+Royal Enfield Hunter 350
+15
+ACCESSORIES AND LUGGAGE
+WARNING
+ 
+Do not load weight or install accessories incorrectly 
+on the motorcycle. Doing so may affect the 
+motorcycle’s stability, handling characteristics 
+and safe operation and could result in an accident 
+causing serious injury or loss of life.
+ 
+Royal Enfield offers a range of genuine motorcycle 
+accessories that have been fully approved and 
+extensively tested alongside the motorcycle.
+ 
+Royal Enfield cautions you against use of non 
+standard parts such as aftermarket and custom 
+made extended front forks which may adversely 
+affect the performance and handling of the  
+motorcycle. Removing or altering original parts  
+may adversely affect the performance of the 
+motorcycle, causing an accident, which could  
+result in serious injury or loss of life.
+ 
+Do not ignore model / design specifications. Doing 
+so constitutes both motorcycle and accessories 
+misuse which may adversely affect the handling 
+and performance of the motorcycle causing an 
+accident, which could result in serious injury or 
+loss of life.
+Royal Enfield Hunter 350
+16
+ACCESSORIES AND LUGGAGE
+ 
+Total weight and axle loads influence the handling 
+characteristic of the motorcycle.
+ 
+The total weight consists of the following:
+A. 
+Motorcycle ready for operation and with a 
+full tank.
+B. 
+Rider
+C. 
+Passenger
+D. 
+Protective clothing and helmet.
+ 
+Do not exceed the maximum permissible overall 
+weight or the axle loads.
+ 
+If your motorcycle is equipped with saddlebags, a 
+windshield or a passenger backrest, be prepared to 
+reduce operating speed to maintain stability.
+WARNING
+ 
+A high payload alters the handling characteristic  
+and increases the stopping distance of the  
+motorcycle.
+ 
+Riding off-road, riding with more than one 
+passenger, or carrying weight exceeding the 
+maximum weight rating can make handling 
+difficult, which may cause loss of control of the 
+motorcycle which may case injury to the rider.
+Royal Enfield Hunter 350
+17
+TECHNICAL SPECIFICATIONS
+ENGINE
+Engine type .........................   Single cylinder,4 stroke, 
+SOHC
+Bore .....................................  72 mm
+Stroke ..................................  85.8 mm
+Engine capacity (cc) ............  349.34 cc
+Compression ratio ...............  9.5:1
+Max power ..........................   20.2 bhp @ 6100 rpm
+Max torque ..........................  27 Nm @ 4000 rpm
+Idle RPM ..............................  1050 ± 100 rpm
+Starting ................................  E-Start
+Air filter element .................  Paper element
+IGNITION SYSTEM
+Ignition type ........................   ECU controlled  
+(with ECU map number)
+Spark plug gap .....................  0.7 to 0.8 mm
+Spark plug ...........................  YR7MES / M12 Bosch
+Royal Enfield Hunter 350
+18
+TECHNICAL SPECIFICATIONS
+TRANSMISSION
+Clutch ..................................  Conventional wet clutch
+Primary drive .......................  Gear
+Primary ratio........................  2.313
+Gear box ..............................  Constant mesh
+Gear ratio 
+ 1st 
+2.615
+ 
+ 2nd 1.706
+ 
+ 3rd 
+1.300
+ 
+ 4th 
+1.040
+ 
+ 5th 
+0.875
+Final drive ............................  Chain
+Secondary sprocket ratio ....  2.800:1
+Drive chain links ..................  104 links
+CHASSIS
+Frame ..................................   Twin downtube spine 
+frame
+Suspension
+ 
+ 
+ Front ..........................   Telescopic, 41 mm forks, 
+130 mm travel
+ 
+ 
+ Rear ...........................   Twin tube emulsion 
+shock absorbers with  
+6 step adjustable 
+preload, 90 mm travel
+Brakes
+ 
+ 
+ Front disc ...................   300 mm fixed disc with  
+twin piston floating 
+caliper
+ 
+ 
+ Rear disc ....................   270 mm disc, single 
+piston floating caliper
+ 
+ 
+ ABS ............................  Dual channel
+Royal Enfield Hunter 350
+19
+TECHNICAL SPECIFICATIONS
+Tyre size
+Type of Wheel
+Standard type
+Front
+Alloy wheel - 
+110/70-17’’54P 
+(tubeless tyre)
+Rear
+Alloy wheel - 
+140/70-17’’66P 
+(tubeless tyre)
+Tyre pressure
+Tyre pressure
+Solo
+With pillion
+Front
+29 psi
+29 psi
+Rear
+32 psi
+36 psi
+Steering lock ........................   Integrated with ignition 
+lock 43 (deg)
+Fuel type ..............................   Petrol,  
+upto E10 minimum 
+Fuel tank capacity ...............  13* l
+Minimum octane rating .......  91 RON
+Low fuel warning .................   4* l  
+(Including dead stock)
+Fuel dead stock ...................  1.5 ± 0.5* l
+* The above values are approximate and the actual fuel 
+filling capacity will vary from the values mentioned.
+Royal Enfield Hunter 350
+20
+TECHNICAL SPECIFICATIONS
+ELECTRICALS
+Generation ..........................  Alternator (ACG)
+Battery ................................   12 V - 8 Ah VRLA 
+(maintenance free)
+Starter motor ......................  12 V - 0.7 kW
+Head lamp ...........................   12 V, H4 - 60/55 W Bulb
+Position lamp ......................  12 V, W5W Bulb
+Brake / Tail lamp ..................  12 V, LED type - 4.8/0.5 W 
+Speedometer lamp .............  12 V - LED
+Hi-beam indicator ...............  12 V - LED
+Neutral lamp tell tale ...........  12 V - LED
+Turn signal tell tale ..............  12 V - LED
+Turn signal ...........................  12 V, 10 W x 2 nos
+Hazard warning ...................  12 V - 10 W x 4 nos
+Horn ....................................  Single tone - 2.5 A
+Charger Port ........................   USB 2.0 Type A - 5 V 2 A 
+output
+WARNING
+ 
+Using bulbs / other electrical gadgets other than 
+specified rating may lead to over loading / erratic 
+behaviour / premature failure of electrical system. 
+Modifications on the motorcycle which are not 
+approved by Royal Enfield may not only disqualify 
+for warranty, but also affects performance of the 
+motorcycle.
+Royal Enfield Hunter 350
+21
+TECHNICAL SPECIFICATIONS
+DIMENSIONS
+Length .................................  2055 mm
+Width ...................................  800 mm (without mirrors)
+Wheel base ..........................  1370 mm
+Ground clearance ................  150 mm
+Total height .........................   1055 mm*  
+(without wind shield)  
+*Mirrors are excluded for 
+height measurement.
+Saddle height ......................  800 mm
+WEIGHTS
+Kerb weight (90% fuel) ......  181 kg
+Gross vehicle weight ...........  360 kg
+NOTES
+ 
+Values / Dimensions given above are for your 
+guidance only.
+ 
+In view of continuous improvements being done on 
+our products, the specifications are likely to change 
+without prior notice.
+ 
+Do not use the vehicle beyond the allowed gross 
+weight. The suspensions and tyres are designed 
+to perform only to the maximum gross vehicle 
+weight.
+Royal Enfield Hunter 350
+22
+RECOMMENDED LUBRICANTS
+Engine Oil
+Grade
+SAE 15W 50 API SL Grade JASO MA2 
+Semi synthetic
+Capacity
+Refill 
+ : 1.7 l (Approx.)
+Dry fill : 2.2 l (Approx.)
+Front Fork Oil
+Grade
+Royal Enfield 
+Fork Oil
+Capacity
+452 ± 2.5 cc
+Brake Fluid
+Grade
+“SWASTIK
+DOT 4”
+Capacity
+Front : 87 ml
+Rear   : 54 ml
+CAUTION
+Use of wrong grade / mixed grade oil will reduce the life of the moving parts and seriously affect performance.
+NOTE
+Recommendation subject to change without notice.
+* Do not mix DOT 4 & other brake fluids together
+Royal Enfield Hunter 350
+23
+MOTORCYCLE IDENTIFICATION NUMBERS
+The VIN is a 17 digit number punched on the right side steering head tube in the form of label.
+FRAME NUMBER
+Sample VIN : 
+Manufacturer’s code
+Engine family name 
+Engine capacity
+Model
+(Hunter 350)
+Type of transmission 
+Type of fuel system 
+Month of manufacturing
+A - Jan., H - Aug., K - Sep., N - Dec.)
+Production year
+(2020:L, 2021:M, 2022:N)
+Manufacturing plant
+(1-Oragadam, 2-Vallam vadagal)
+Production serial no.
+ME3 J 3
+D
+5
+F X X
+2 XXXXXX
+ME353D5FXX2XXXXXX
+Royal Enfield Hunter 350
+24
+ENGINE NUMBER - DETAILS
+Identification of the engine serial number and its production details. It is illegal to tamper with the engine number as 
+it is the only means of identifications of the engine.
+Engine family
+Engine capacity 
+Type of cooling
+Type of transmission  
+Type of fuel system  
+Production month
+(A - Jan., H - Aug., K - Sep., N - Dec.)
+Year of manufacturing  
+(2020:L, 2021:M, 2022:N)
+Manufacturing plant  
+0 -Oragadam, 2-Vallam vadagal)
+Production serial nos  
+J
+3
+A
+5
+F
+X
+X 2 XXXXXX
+J3A5FBL2001052
+ENGINE NUMBER
+Royal Enfield Hunter 350
+25
+LOCATION OF KEYPARTS
+8
+9
+12
+11
+3
+1
+13
+2
+10
+5
+6
+7
+4
+100
+80
+60
+40
+20
+10
+30
+50
+70
+90
+0
+20
+40
+60
+80
+100
+120
+140
+160
+MPH
+km/h
+E
+PM
+AM
+GEAR
+ECO
+F
+00:00
+km
+miles
+ODO TRIP F AB 
+00000.8
+0
+1. 
+Turn signal switch
+2. 
+Horn button
+3. 
+Rear view mirror left side
+4. 
+Info switch
+5. 
+High beam / Low beam switch
+6. 
+Day flash switch
+7. 
+Charging port
+8. 
+Instrument cluster
+9. 
+Ignition key
+10. 
+Electric start switch / Kill switch
+11. 
+Rear view mirror right side
+12. 
+Hazard switch
+13. 
+Fuel tank cap
+Royal Enfield Hunter 350
+24
+LOCATION OF KEYPARTS
+3
+2
+7
+8
+9
+5
+6
+1
+4
+1.	
+Right trafficator rear
+2.	
+Right side panel
+3.	
+Starter motor
+4.	
+Spark plug
+5.	
+Brake lever front
+6.	
+Right trafficator front
+7.	
+Horn
+8.	
+Brake pedal
+9.	
+Center stand
+Royal Enfield Hunter 350
+25
+2
+4
+5
+1
+6
+7
+3
+1.	
+Left trafficator front
+2.	
+Fuel tank
+3.	
+Left side panel
+4.	
+Seat
+5.	
+Left trafficator rear
+6.	
+Gear change pedal
+7.	
+Side stand
+LOCATION OF KEYPARTS
+Royal Enfield Hunter 350
+28
+OPERATION OF CONTROLS
+IGNITION SWITCH
+OFF
+ON
+STEERING LOCK
+ 
+Turn the handle bar to extreme 
+left position.
+ 
+Push the key inside in “OFF” 
+position, press and further turn 
+to anticlockwise direction to 
+lock the steering system.
+ 
+Turn the key in the clockwise direction to unlock 
+the steering.
+FUEL TANK CAP
+ 
+Turn key clockwise to 
+open.
+ 
+Press cap to lock with 
+key in position.
+WARNING
+ 
+Do not overfill the fuel tank.
+ 
+Fill fuel only till the bottom of anti splash plate.
+ 
+Over filling may result in gasoline entering the  
+EVAP canister and may damage the evaporative 
+emission system.
+Royal Enfield Hunter 350
+29
+OPERATION OF CONTROLS
+CAUTION
+Gasoline vapour is highly explosive. Please ensure there 
+are no open flames or sparks nearby while refuelling and 
+fill fuel only in a well ventilated area.
+Please ensure gasoline does not spill on painted surfaces. 
+In case fuel spills over the painted surfaces wipe it off 
+immediately as it may leave a permanent stain.
+Do not smoke while refuelling or when fuel tank cap is 
+open.
+FUEL TANK
+1. 
+Fuel tank mouth
+2. 
+Splash arrestor
+3. 
+Maximum fuel level
+WARNING
+Do not overfill the fuel tank. Fill upto maximum fuel level 
+& stop filling when the fuel reaches the bottom of splash 
+arrestor. Failure to do so will lead to canister damage or 
+can cause fuel spill out of fuel tank.
+Petrol is highly explosive. Please ensure there are no 
+open flames or sparks nearby while refuelling and fill fuel 
+tank only in a well ventilated area.
+Please ensure petrol does not spill on painted surfaces. 
+Wipe immediately incase fuel spills over as otherwise it 
+will leave a permanent stain on the painted surfaces.
+Royal Enfield Hunter 350
+30
+OPERATION OF CONTROLS
+ENGINE STOP SWITCH
+ 
+Engine “OFF”
+ 
+Engine “ON”
+CAUTION
+ 
+In case of prolonged stoppage of vehicle, please 
+turn off ignition key to avoid discharge of battery.
+(ǳ67$576:,7&+
+Push & hold till  
+ 
+engine starts
+HAZARD LIGHT SWITCH
+      Hazard Light “ON”
+        OFF
+WARNING
+ 
+Turn signals do not work when the hazard light 
+switch is “ON”.
+ 
+All the trafficator lamps will flash simultaneously.
+Royal Enfield Hunter 350
+31
+OPERATION OF CONTROLS
+HORN
+
+Press
+DAY FLASH
+ 
+Push for head light flash.
+TURN SIGNAL SWITCH
+Ȩ  Left turn signal “ON”
+ȩ  “OFF” (Push to cancel)
+Ȫ  Right turn signal “ON”
+DIMMER SWITCH
+ 
+ 
+High beam
+ 
+ 
+Low beam
+Royal Enfield Hunter 350
+32
+OPERATION OF CONTROLS
+SEAT
+ 
+Insert ignition key and  
+turn it clockwise.
+ 
+Pull the side panel 
+outside for opening the 
+same.
+ 
+Pull the seat release 
+cable  to release seat 
+lock.
+  
+Lift the seat from rear 
+end and slide it towards 
+tail lamp to remove 
+seat.
+Royal Enfield Hunter 350
+33
+OPERATION OF CONTROLS
+INFO BOTTON MANAGEMENT DETAILS
+ 
+LCD SEQUENCE (Info 
+switch press <1 s):-  
+ 
+If Trip F enabled.
+ 
+If Trip F not enabled.
+PASS
+i
+ODO
+TRIP A
+TRIP B
+TRIP F
+ODO
+TRIP A
+TRIP B
+NOTE
+ 
+For trip re-set press info button for T>3 s.
+Royal Enfield Hunter 350
+34
+DISCLAIMER 
+ 
+Cluster unit display may look dull during sun overhead conditions this is normal and due to impact of direct 
+sunlight on the unit customers  to refer during other riding conditions. 
+0
+0
+20
+40
+60
+80
+100
+20
+40
+60
+80
+100
+120
+140
+160
+MPH
+km/h
+E
+PM
+GEAR
+ECO
+F
+00:00
+0
+11
+10
+9
+4
+6
+3
+5
+15
+1
+14
+13
+12
+2
+8
+7
+km
+miles
+ODO TRIP F AB 
+00000.8
+OPERATION OF CONTROLS
+INSTRUMENT CLUSTER
+1. 
+ABS MIL
+2. 
+Low battery
+3. 
+Low fuel indicator
+4. 
+Left turn indicator
+5. 
+Speedometer
+6. 
+ODO meter / Trip 
+meter (A/B/F)
+7. 
+Clock
+8. 
+Fuel gauge
+9. 
+Service reminder
+10. ECO mode
+11. 
+Gear indicator
+12. 
+Right turn indicator
+13. 
+High beam
+14. EFI MIL
+15. 
+Neutral indicator
+Royal Enfield Hunter 350
+35
+OPERATION OF CONTROLS
+MAIN LCD
+1. Clock
+2. Service reminder
+3. Odometer
+4. Trip value (A/B & F)
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F AB 
+F
+00.00
+0
+00000.8
+4
+3
+2
+1
+ECO
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F  AB 
+F
+00.00
+0
+00000.8
+ECO
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F  AB 
+F
+00.00
+0
+00000.8
+ECO
+CLOCK
+ 
+Display in 12 hour 
+format with AM / PM 
+indication.
+ 
+Will reset to 12:00 AM         
+when battery is 
+disconnected.
+ECO MODE
+ 
+Indicated when driven 
+under optimum 
+conditions.
+Royal Enfield Hunter 350
+36
+Function
+Switch
+Pressure time (s)
+Action
+Clock 
+setting
+mode
+INFO
+Press and hold INFO switch for 
+3 seconds and release
+In Ign “ON” and current display in ODO mode and no 
+speed input (safety), press info button for specified time 
+to enter into clock setting mode (hours will blink)
+INFO
+Press and release INFO switch
+Hours in the clock will increase
+INFO
+Press and hold INFO switch for 
+3 seconds and release
+Enter into minutes mode (minutes to blink)
+INFO
+Press and release INFO switch
+Minutes in the clock will increase
+INFO
+Press and hold INFO switch for 
+3 seconds and release
+Enter into unit mode (AM / PM will blink)
+INFO
+Press and release INFO switch
+Toggle between AM or PM
+INFO
+Press and hold INFO switch for 
+3 seconds and release
+Save data and exit clock setting mode
+OPERATION OF CONTROLS
+NOTE
+ 
+Incase no action is observed between clock setting function for more than 20 secs last shown value to be 
+displayed.
+Royal Enfield Hunter 350
+37
+OPERATION OF CONTROLS
+SERVICE REMINDER
+ 
+In case of service 
+reminder symbol is 
+“ON”. Please plan for 
+scheduled service at 
+an authorised service 
+center.
+ 
+Displays the cumulative 
+kilometers the vehicle 
+has covered.
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F AB 
+F
+00.00
+0
+00000.8
+ECO
+ 
+Service reminder can be reset only by authorised 
+personnel at service centre after service is 
+completed.
+ 
+Service reminder symbol will flash on as per below 
+distance input from odometer. 
+i) 1st service - 450 km 
+ii) 2nd service - 4,900 km 
+iii) From there on for every 5,000 km from 
+previous value (ex: 9,900, 14,900 etc.)
+WARNING
+ 
+Do not use spray and wipe of any fluids like petrol, 
+oil, soap oil.
+ODOMETER
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F AB 
+F
+00.00
+0
+00000.8
+ECO
+Royal Enfield Hunter 350
+38
+OPERATION OF CONTROLS
+TRIP A
+ODO
+TRIP B
+Action
+Function
+Switch
+Turning Ignition key “ON” displays ODO km in cluster 
+and enter into Trip A mode
+Trip A display mode and enter into Trip B mode
+Trip B display mode and enter into ODO/Trip F(If enable) mode 
+Reset Trip A km value
+Reset Trip B km value
+Pressure time (s)
+INFO
+INFO
+INFO
+INFO
+INFO
+Press and release INFO switch
+Press and release INFO switch
+Press and release INFO switch
+Press and hold INFO switch for 
+3 seconds and release
+Press and hold INFO switch for 
+3 seconds and release
+Royal Enfield Hunter 350
+39
+OPERATION OF CONTROLS
+TRIP “F” MODE
+TRIP “F” CONDITION
+ 
+Distance driven after 
+low fuel tell tale is “ON”. 
+ 
+Cannot be re-set will 
+be visible only when 
+low fuel condition is 
+sensed, will vanish if fuel 
+is filled above low fuel 
+condition.
+ 
+Trip F will update only when kill switch is in “ON”. 
+condition.
+ 
+After fuel filling above reserve level Trip F will 
+continue to show for few min which is a normal 
+behaviour, this is to avoid wrong indication.
+ 
+Trip F reset will occur when riding in mid to rough 
+roads condition due to frequent fuel oscillations 
+this features to be used for reference purpose only 
+and on smooth road surfaces.
+ 
+Trip F will update only when side stand is removed.
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F AB 
+F
+00.00
+0
+00000.8
+ECO
+ 
+Display can be toggled using info button during 
+this condition but will auto appear after 25 s linked 
+with stand switch to avoid re-set when in side 
+stand condition.
+ 
+If ridden > 200 km in Trip F condition “Low Fuel” 
+will flash continuously on LCD. It is recommended 
+not to ride vehicle in these condition as it will 
+result in fuel pump damage.
+NOTE
+ 
+Fuel Indication will vary on rough road, uphill and 
+downhill conditions, for accurate indication refer 
+during slow speed or flat surfaces.
+Royal Enfield Hunter 350
+40
+OPERATION OF CONTROLS
+TRIP A / B
+GEAR POSITION INDICATION
+ 
+Trip A / B indicates 
+distance travelled in 
+particular trip.
+ 
+Displays the gear 
+position in which the 
+vehicle is traveling.
+ 
+When in neutral the 
+indication will be “0”.
+ 
+When in gear the 
+appropriate number 
+between 1 to 5 will be 
+displayed.
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F AB 
+F
+00.00
+0
+00000.8
+ECO
+WARNING
+ 
+Never attempt to operate the info buttons while 
+riding the motorcycle. Doing so will cause loss of 
+concentration and unstable riding, leading to a 
+potential accident. Resulting in serious injury to 
+both rider and other road users, besides causing 
+severe damage to the motorcycle.
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F AB 
+F
+00.00
+0
+00000.8
+ECO
+Royal Enfield Hunter 350
+41
+OPERATION OF CONTROLS
+TELL TALES
+ 
+(1) Turn left : Left turn 
+signal “ON”.
+ 
+(2) Low fuel Indication:  
+Last segment blinking 
+along with low fuel tell 
+tale “ON” for low fuel 
+condition.
+2
+3
+4
+5
+6
+7
+8
+1
+  
+(3) Low battery indication : Indicator will glow 
+continuously if ignition switch is “ON” & engine is 
+not running. Indication will switch off as soon as 
+engine is started. If battery voltage is below 12 V, 
+indicator will glow continuously indicating a low 
+battery.
+ 
+(4) ABS MIL : Will be continuously “ON” during 
+initial check up (until or after vehicle running for a 
+particular distance / speed) and will turn “OFF” if 
+system is ok, then will light up again in case of any 
+ABS system malfunction.
+ 
+(5) Neutral indicator : Transmission is in neutral.
+ 
+(6) EMS malfunction indication : Will be 
+continuously “ON” in case of EMS malfunction.
+ 
+(7) High beam indication : Head lamp high beam 
+“ON”.
+ 
+(8) Turn right : Right turn signal “ON”.
+CAUTION
+ 
+Do not run motorcycle incase the malfunction 
+remains “ON” continuously as it can cause severe 
+damage to the ECU & Sensors. Please visit 
+the nearest authorised Royal Enfield dealer to 
+diagnose & rectify the defect in the EMS.
+ 
+Do not run motorcycle incase the ABS indicator 
+lamp continuously “ON”.
+Royal Enfield Hunter 350
+42
+OPERATION OF CONTROLS
+ABS INDICATOR LAMP
+FUEL GAUGE
+ 
+When the ignition 
+and engine kill 
+switch are switched 
+in “ON” position the 
+ABS sign will glow 
+and remain “ON” 
+till the motorcycle 
+attains a speed of 
+5 kmph / 3.1 mph 
+and turns “OFF”. If 
+light up again in case 
+of any ABS system 
+malfunction.
+ 
+Digital with 7 
+segment bar graph.
+ 
+Last segment 
+blinking along with 
+low fuel tell tale 
+“ON” for low fuel 
+condition.
+ABS Indicator lamp lights up is 
+indicate Status or error messag-
+es relating to ABS
+E
+PM
+GEAR
+km
+miles
+ODO TRIP F AB 
+F
+00.00
+0
+00000.8
+ECO
+WARNING
+ 
+Do not use the motorcycle for long duration with 
+the fuel indication in last segment blinking. Refuel 
+at the earliest.
+ 
+Failure to do so will cause the motorcycle to run 
+out of fuel and get stranded. In addition to causing 
+serious damage to the fuel pump.
+CAUTION
+ 
+Do not run the motorcycle incase of ABS indicator 
+lamp is “ON” continuousely above 5 kmph / 3.1 mph.
+Royal Enfield Hunter 350
+43
+OPERATION OF CONTROLS
+CHARGER PORT
+ 
+Charger port is located 
+on left side handle bar 
+beneath the turn signal 
+switch.
+WARNING
+ 
+Recommended not to use in rainy conditions to 
+avoid damages to smart phones and charger, RE 
+shall not be liable for any damage to smart phones.
+ 
+Do not use any other device other than mobile 
+phones, only one mobile shall be charged at one 
+point of time.
+ 
+Ensure proper insertion of USB cable, damages 
+due to hard / wrong insertion of cable will not be 
+entertained in warranty.
+ 
+Do not leave the USB port cap partially opened / 
+closed to avoid any short circuit when not in use.
+ 
+Do not insert any metal or conductive materials 
+inside USB charging port which may lead to short 
+circuit.
+Royal Enfield Hunter 350
+44
+OPERATION OF CONTROLS
+NOTE
+ 
+Charging port is provided only for charging purpose 
+and no data transfer is enabled.
+ 
+Provided is only constant charging mode, fast / 
+dash charging is not provided to be compatible 
+with multiple make mobile phones and cannot 
+be compared with performance of original smart 
+phone chargers.
+ 
+Duration of charging can be higher and will vary 
+for different make mobile phones depending on 
+smart phone battery capacity, SOC and smart 
+phone charging circuits.
+CAUTION
+ 
+Customer to ensure USB port cap is closed and 
+locked properly when not in use, warranty will not 
+be provided if port cap is damaged and not sealed 
+properly.
+ 
+If high current draw greater than 2.5 A is observed 
+USB charger will shutdown please check your 
+smart phone battery current ratings before using.
+ 
+USB charger will function only when engine is in 
+running condition.
+ 
+Use standard approved and high quality USB 
+cables for proper functioning.
+Royal Enfield Hunter 350
+45
+WARNING INDICATIONS AND SAFETY SYSTEMS
+$17,ǳ/2&.%5$.,1*6<67(0$%6
+ 
+Anti-lock braking 
+system (ABS) will help 
+prevent the brakes 
+from locking the 
+wheels, during sudden 
+application of the 
+brakes at high speeds or at low friction surfaces. 
+This will help the rider to have better traction 
+and control over the motorcycle and prevent the 
+motorcycle from skidding which can cause an 
+accident.
+ 
+In the event of a sudden and hard application 
+of the brakes by the rider, the sensors in the 
+braking system will signal the ABS modulator 
+to momentarily and continuously reduce the 
+hydraulic pressure and thereby prevent the brakes 
+from locking the wheels while reducing the speed 
+of the vehicle. This will help the rider to control the 
+motorcycle.
+ 
+An ABS indicator lamp is provided in the cluster (as 
+shown in the adjacent image) to warn the rider in 
+the event of any malfunction of the ABS.
+ 
+When the ignition and engine kill switch are 
+switched in “ON” position the ABS sign will glow 
+and remain “ON” till the motorcycle attains a speed 
+of 5 kmph and turns “OFF”. This indicates the ABS 
+is functioning properly. If the ABS indicator lamp 
+does not switch “OFF” and remains continuously 
+“ON” at higher speeds, it is recommended not to 
+drive the ABS motorcycle. Get the brake system 
+inspected and corrected through a nearest 
+Authorised Royal Enfield Service Centre. Failure 
+to do so can result in a serious injuries and loss of 
+life. Smart phone battery capacity, SOC and smart 
+phone charging circuits.
+Royal Enfield Hunter 350
+46
+WARNING INDICATIONS AND SAFETY SYSTEMS
+&$87,21$%6
+ 
+ABS is a safety feature to help prevent locking of 
+wheels during panic application of brakes. It is by 
+no means a substitute for good riding practices 
+and anticipatory braking.
+ 
+Please ride carefully and apply brakes cautiously, 
+especially while cornering. ABS cannot estimate 
+the “weight shifts” and momentum of the 
+motorcycle while negotiating a corner and 
+therefore prevent skidding due to loss of traction.
+ 
+Please anticipate the stopping distance required 
+for the speed of travel and apply brakes well in 
+advance so as to bring the motorcycle to a safe 
+stop.
+ 
+Ensure instrument cluster is in proper functioning 
+as it is an integral part of ABS system.
+ 
+Please apply both brakes simultaneously to stop 
+with better traction and control of the motorcycle.
+ 
+Failure to adhere to the above can cause an 
+accident resulting in serious injuries and loss of life.
+WARNING
+ 
+Always use the approved front / rear tyres and 
+sprockets by Royal Enfield to ensure correct ABS 
+operation.
+ 
+Do not make any changes to the suspension  
+travel.
+ 
+Only use recommended spare parts on the  
+brake system which have been approved by Royal 
+Enfield.
+ 
+ABS does not reduce braking distance. In certain 
+circumstances, ABS may result in a longer stopping 
+distance.
+Royal Enfield Hunter 350
+47
+WARNING INDICATIONS AND SAFETY SYSTEMS
+&$87,21$%6
+ 
+Visually inspect for 
+damaged teeth on the 
+front and rear ABS tone 
+rings.
+ 
+Inspect for damages 
+and dents on the face of 
+the teeth.
+ 
+The teeth edges should be consistent in 
+appearance. In case if a toner ring is found to 
+be damaged or bent, it is recommended to visit 
+nearest dealership for necessary action.
+ 
+Inspect for debris at the end of the wheel speed 
+sensors - front & rear, if contamination is observed, 
+it is recommended to clear it suitably or you may 
+visit to nearest dealership for necessary action.
+ROLL OVER SENSOR
+In the event of motorcycle falling over in either of its 
+sides with the engine running and the gears engaged 
+the roll over sensor will “Disable” both ignition and fuel 
+systems and switch “OFF” the engine. This is to prevent 
+any damage to the motorcycle and its rider. To reset 
+the roll over sensor and reactivate the ignition and fuel 
+systems.
+ 
+Ensure the motorcycle is made upright and is on its 
+center stand.
+ 
+Ensure gears are in correct neutral and the neutral 
+lamp is glowing in the instrument console.
+ 
+Switch “OFF“ both ignition & stop switches, wait 
+for a few seconds and switch “ON” the ignition and 
+stop switch again, to start the engine.
+Royal Enfield Hunter 350
+48
+WARNING INDICATIONS AND SAFETY SYSTEMS
+'2Ŗ6$1''21Ŗ76$%6
+DO’S
+DONT’S
+ 
+While starting the engine do check the ABS 
+indicator glows “ON” and turns “OFF” when the 
+vehicle speed exceeds 5 kmph (3.1 mph).
+ 
+Please check the brake fluid at “MAX” level in the 
+front and rear brake reservoir and ensure there is 
+no leak in the brake systems.
+ 
+Apply both the brakes simultaneously for better 
+efficiency.
+ 
+In the event of the ABS indicator remaining 
+continuously “ON”, please take the motorcycle to 
+a nearest Authorised Royal Enfield Service Centre 
+to inspect the brake system.
+ 
+Do not release the brake lever / pedal when 
+pulsations are felt during hard application of the 
+brakes in an emergency situation. The pulsations 
+only indicate that the ABS is activated.
+ 
+Do not apply only the front or rear brake as it can 
+lead to inefficient braking.
+Royal Enfield Hunter 350
+49
+PRE-OPERATIONAL CHECKS
+A careful check of the following must be carried out 
+every time before riding and specially after long periods 
+of storage to determine if any additional maintenance 
+is necessary.
+1. 
+Adequate fuel in the tank.
+2. 
+Tyres for correct pressure, abrasions or cuts.
+3. 
+Rear chain for proper tension and sufficient  
+lubrication.
+4. 
+Brakes, steering and throttle for proper 
+responsiveness.
+5. 
+Cable for fraying or crimping and free operation.
+6. 
+Engine oil level.
+7. 
+Wheels for proper tightness.
+8. 
+Headlamp, tail lamp, brake lamp and indicator 
+lamps for proper functioning.
+9. 
+Smooth operation and free play in front and rear 
+brake levers.
+10. Brake fluid level is above the “MIN” mark in the 
+master cylinder.
+11. 
+Ensure the clutch free play and clutch function.
+WARNING
+For your personal welfare and safety, all the points 
+mentioned above should be performed periodically. 
+Failure to do so may affect safe operation, damage 
+your motorcycle and could result in an accident causing 
+serious injury.
+Royal Enfield Hunter 350
+50
+RUNNING IN PERIOD
+The Royal Enfield motorcycle as you would be 
+experiencing is capable of consistent high speeds. 
+However as with any new motorcycle, a “Running-in” 
+procedure is essential to help in proper “Bedding-in” 
+of the various moving parts in your motorcycle and 
+to achieve optimum performance like gear shifting 
+subsequently.
+1. 
+Do not exceed maximum specified pay load. Tyres 
+for correct pressure, abrasions or cuts.
+2. 
+Warm up the engine for a few minutes at idling 
+speed to allow engine oil to lubricate all the 
+moving parts in the engine before riding the 
+motorcycle. Brakes, steering and throttle for 
+proper responsiveness.
+3. 
+Avoid full throttle operation and do not ride at  
+constant throttle continuously. Vary the speed by 
+10% while riding.
+4. 
+Ride at proper speed and avoid sudden 
+accelerations and braking.
+5. 
+Avoid riding motorcycle continuously for over an 
+hour, it is recommended to take brief stop.
+NOTE
+During the running-in period, do not exceed following 
+speed limits.
+Gear
+Motorcycle speed
+First 500 km
+501 - 2,000 km
+1
+20 kmph
+25 kmph
+2
+30 kmph
+35 kmph
+3
+45 kmph
+50 kmph
+4
+60 kmph
+65 kmph
+5
+70 kmph
+80 kmph
+Royal Enfield Hunter 350
+51
+STARTING
+km
+miles
+00000.8
+ 
+To  shift  into neutral, move the motorcycle back and 
+forth gently, while simultaneously shifting the gear. 
+Ensure gear is in neutral position and the neutral 
+lamp is glowing in the instrument cluster.
+ 
+Turn ignition key to “ON” position and engine kill 
+switch on right hand side handle bar to “RUN” 
+position.
+ 
+When both the ignition 
+and engine kill switch is 
+in “ON” 
+ position and 
+after the vehicle is started, 
+the MIL will glow for a 
+few seconds and turns 
+“OFF”, this indicates that 
+all the function of the 
+electronic fuel injection 
+(EFI) system is functioning 
+normally. In the event of 
+any malfunction in the EFI 
+system the MIL will glow 
+continuously.
+Royal Enfield Hunter 350
+52
+STARTING
+CAUTION
+ 
+In case the malfunction 
+indicator does not 
+turn “OFF”, get the 
+motorcycle checked 
+through an Royal Enfield 
+Authorised Service 
+Centre for rectification.
+ 
+Disengage clutch by 
+pulling in the clutch 
+lever and hold it in 
+depressed condition.
+ 
+Push and hold electric 
+start switch until engine 
+starts for a maximum of 
+5 s.
+ 
+Check the fuel level indicator in the cluster for 
+adequate fuel in the fuel tank. In case the last bar 
+is blinking continuously, it indicates low fuel level in 
+the tank. Please re-fuel immediately.
+Royal Enfield Hunter 350
+53
+STARTING
+NOTE
+ 
+In case the engine does not start within 5 s, 
+release starter switch and wait for about 5 s before 
+attempting to start the engine again.
+ 
+In case vehicle not starting on multiple continuous 
+attempts, please turn “OFF” and turn “ON” ignition 
+switch and then start again.
+CAUTION
+ 
+If the engine does not start. Do not hold the 
+starter switch in depressed condition for long 
+periods, this will cause the battery to drain 
+below the threshold level of 10 V. Please get the 
+motorcycle checked through an Royal Enfield 
+Authorised Service Centre to identify and correct 
+the reason for not starting.
+ 
+Never accelerate as soon as the engine starts, 
+especially in cold condition. The engine should be 
+allowed to run in idle rpm for atleast 120 s for the 
+engine oil to circulate and lubricate all the internal 
+moving parts and for the engine temperature 
+to raise. Failure to adhere to this important 
+information will cause serious damage to the 
+engine internals.
+PRECAUTIONS
+ 
+Vehicle may start with side stand in “ON” condition 
+but will turn-off when gear is engaged, this side 
+stand cut-off feature is provided for rider safety 
+ensure side stand is removed before vehicle moving 
+/ starting.
+Royal Enfield Hunter 350
+54
+STARTING
+ 
+Accelerate only after the idling rpm has stabilised 
+and it is consistent.
+ 
+Ensure side stand is in fully retracted position. 
+Failure to do so will cause the engine to switch 
+“OFF” as soon as gear is engaged.
+WARNING
+Please exercise extreme care while riding the 
+motorcycle. Failure to do so can result in an accident 
+causing injury to you or to other road users / passerby.
+ 
+Ensure gear in neutral position and the neutral 
+lamp is glowing in the speedometer. To shift into 
+neutral, move the motorcycle back and forth 
+gently, while simultaneously shifting the gear.
+CAUTION
+Do not attempt to shift gears without moving the 
+motorcycle back and forth as it will damage the gears 
+mechanism.
+ 
+Depress and hold the  
+clutch Lever.
+ 
+Press starter button 
+and hold till engine 
+starts. Do not release 
+the button before 
+engine starts.
+ 
+Do not press the starter button more than 
+5 s after three successive cranking, wait for 
+15 to 20 s the battery to recover.
+Royal Enfield Hunter 350
+55
+GEAR SHIFTING, RIDING AND STOPPING
+ 
+Warm up engine for 2 minutes - till idling is 
+consistent / stable.
+ 
+GEAR SHIFT PATTERN
+ 
+1 -- N -- 2 -- 3 -- 4 -- 5
+ 
+Press clutch lever towards the hand grip.
+ 
+Press gear pedal with toe towards down to engage 
+1st gear.
+ 
+Gently open throttle and release clutch 
+simultaneously. If clutch is released suddenly, the 
+engine may stall and cause a jerky start.
+ 
+It is recommended to use half clutch condition 
+when commuting in the city traffic condition along 
+(engine rpm around idling to 2,000 rpm) at 1st gear 
+condition. In other gears and higher rpm avoid 
+using half clutch which will proportionately reduce 
+CAUTION
+The clutch must be fully disengaged before attempting 
+a gear shift. Failure to fully disengage the clutch may 
+cause a jerky start or stalling the engine besides causing 
+damage to transmission parts.
+ 
+Press the gear pedal 
+either upward with toe 
+or downward with heel 
+to engage 2nd gear.
+ 
+Follow the same 
+procedure for 3rd, 4th 
+and 5th gear.
+the clutch life. During acceleration / deceleration 
+disengage the clutch completely, shift the gear and 
+engage the clutch.
+Royal Enfield Hunter 350
+56
+GEAR SHIFTING, RIDING AND STOPPING
+ 
+Always start 
+motorcycle with gear in 
+neutral position.
+ 
+Always move the 
+motorcycle in first gear 
+position only.
+CAUTION
+ 
+If the clutch ever is released abruptly and throttle 
+opening is done insufficiently the motorcycle will 
+have rough start and cause the engine to stall.
+ 
+If the acceleration is very high and clutch lever is 
+released abruptly, it will cause motorcycle to move 
+suddenly, which will lead to loss of control leading 
+to an accident resulting in injury and or loss of 
+life to rider / other road users / passed by besides 
+damage to the motorcycle.
+ 
+Always exercise utmost caution while releasing 
+clutch and riding the motorcycle.
+ 
+Press the gear pedal either upward with toe or 
+downward with heel to shift subsequent gears.
+ 
+When engine speed decreases or while climbing a 
+gradient or running at a reduced speed, shift to the 
+appropriate lower gear to prevent the engine from 
+stalling or straining to pull.
+The clutch lever must be fully depressed before 
+attempting a gear shift. Failure to fully depress the clutch 
+lever will cause a rough start or stalling of the engine 
+besides causing damage to transmission parts.
+ 
+When the vehicle is in neutral position, press gear 
+shift lever down with toe to engage 1st gear.
+NOTE
+ 
+GEAR SHIFT PATTERN
+ 
+1 -- N -- 2 -- 3 -- 4 -- 5
+Royal Enfield Hunter 350
+57
+GEAR SHIFTING, RIDING AND STOPPING
+Recommended up shift speeds
+Gear Change
+kmph
+(mph)
+1st - 2nd
+20
+12.4
+2nd - 3rd
+30
+18.6
+3rd - 4th
+40
+24.8
+4th - 5th
+55
+34.2
+Recommended downshift speeds
+Gear Change
+kmph
+(mph)
+5th - 4th
+50
+31.1
+4th - 3rd
+35
+21.7
+3rd – 2nd
+25
+15.5
+2nd - 1st
+15
+9.3
+Always start motorcycle with the gear in neutral position.
+When the engine speed decreases or while climbing 
+a gradient or running at a reduced speed, shift to the 
+appropriate lower gear to prevent the engine from 
+stalling or straining to pull.
+ 
+Always shift to lower gears as appropriate 
+whenever slowing down to stop the vehicle.
+ 
+Shift gears to neutral position just before bringing 
+the vehicle to a complete stop always.
+ 
+Close throttle fully and release the clutch lever 
+slowly ensuring the motorcycle is in neutral 
+position and neutral lamp is glowing.
+NOTE
+Royal Enfield Hunter 350
+58
+PARKING
+PARKING MOTORCYCLE ON CENTER STAND
+PARKING MOTORCYCLE ON SIDE STAND
+ 
+Select a firm, flat 
+surface.
+ 
+Hold handle bar 
+straight.
+ 
+Lower center stand and 
+ensure that both the 
+legs of the stand are resting evenly on firm ground.
+ 
+Select a firm, flat 
+surface.
+ 
+Lower side stand and 
+gently tilt motorcycle 
+to the left till it rests 
+firmly.
+WARNING
+Always park the motorcycle on a firm and flat surface. 
+Parking in a soft ground may cause stand to sink and the 
+motorcycle to fall, causing injury to you or to others and 
+damage to the motorcycle parts.
+ 
+Apply pressure on the fulcrum lever on the center 
+stand and pull motorcycle backwards, gently.
+Royal Enfield Hunter 350
+59
+TOOLS KIT
+S.No.
+Description
+Qty.
+1
+Allen key 6 mm
+1
+2
+Fuse puller
+1
+3
+Tool spark plug
+(8x16 Box Spanner)
+1
+4
+Ring spanner 24x14-24 (Eye 
+wrench) x 14 (Open end)
+combination
+1
+5
+Open end spanner 17 x 13
+1
+6
+D/E spanner 10 x 12
+1
+7
+Screw driver 06 x 120/135
+1
+8
+C-spanner
+1
+9
+Extension tube 28x7 & 24 x 14
+1
+7
+6
+1
+3
+4
+9
+8
+5
+2
+The tool kit is located in the right side panel of the motorcycle.
+Royal Enfield Hunter 350
+60
+FIRST AID KIT
+A first aid kit is provided with the motorcyle for any emergency requirements.Please inspect the kit regularly and 
+replace materials upon expiry.
+S.No.
+Description
+1
+Antiseptic cream 5 gms
+2
+Wash proof plaster 1.9 cm x 7.2 cm
+3
+Gauze bandage 5 cm x 2 cm
+4
+Sterilized Gauze Swab 5 cm x 5 cm
+5
+Sterilized elastic plaster 7 cm x 6 cm
+6
+Elastic gauze bandage 8 cm x 1 m.
+7
+First aid kit pouch
+Royal Enfield Hunter 350
+61
+MINOR MAINTENANCE TIPS
+The following simple maintenance activities will help in 
+maintaining your motorcycle. However for an elaborate 
+maintenance, we recommend you to get in touch with a 
+Royal Enfield Authorised Dealer / Service centre.
+CONTROL CABLES
+Lubricate after water washing motorcycle or if used 
+during rainy conditions.
+HAND LEVER PIVOTS
+Wipe the area free of dirt / 
+grease. 
+Apply a few drops of oil on 
+the pivots.
+CENTER / SIDE STAND PIVOTS
+Apply a few drops of oil on the pivots after cleaning the 
+area of dirt.
+Royal Enfield Hunter 350
+62
+MINOR MAINTENANCE TIPS
+OIL LEVEL INSPECTION
+
+Ensure vehicle is 
+in center stand.
+
+Switch on the 
+engine and 
+gently raise the 
+rpm for 10 s.
+
+Leave the vehicle 
+in idling condition 
+for 15 s.
+
+Switch off the engine & wait for the oil to settle 
+down (approx 60 - 120 s).
+
+Engine oil level should be max level.
+
+In case of oil level is not as max condition, then 
+top up oil to “MAX” condition and repeat the 
+procedure as mentioned above.
+
+Always use recommended engine oil only.
+CAUTION
+
+Use of wrong grade or spurious oil can seriously 
+affect motorcycle performance & damage to 
+moving parts.
+
+Do not check the engine oil level in cold condition.
+
+Do not sit on the vehicle while engine oil inspection.
+
+Do not inspect the oil level window immediately 
+working up allow it to settle properly.
+
+Do not overfill the engine oil above “MAX”.
+Royal Enfield Hunter 350
+63
+MINOR MAINTENANCE TIPS
+DRIVE CHAIN
+Clean the drive chain 
+carefully. Apply 
+chain lubricant while 
+simultaneously 
+rotating the rear 
+wheel. Wipe off the 
+excess lubricant.
+0
+1
+2
+3
+4
+5
+6
+10
+11
+12
+cm
+ 
+Ensure the motorcycle is in upright on a firm and 
+flat surface.
+ 
+Hold the spindle from the LH with a screw driver 
+and loosen the spindle nut with a 24 mm ring 
+spanner and loosen the LH & RH chain adjuster 
+by using 6 mm allen key.
+ 
+Align the line mark in the adjuster and swing arm in 
+both the sides & set the drive chain free play for 25 
+to 30 mm by using steel rule.
+ 
+Tighten the LH & RH chain adjusters in the swing 
+arm using a 6 mm allen key.
+ 
+Tighten the spindle nut fully.
+ 
+Ensure the chain tension should be 25 to 30 mm 
+using a ruler / scale.
+WARNING
+ 
+Chains slackness should be maintained between  
+25 - 30 mm.
+ 
+Maintain drive chain slackness within the 
+specified limits at every 1,000 km interval.
+ 
+Please check the front and rear wheels are cor-
+rectly aligned, after the chain adjustment.
+ 
+After the chain adjustment make sure left and 
+right side of the chain adjuster’s markings are 
+matched perfectly.
+Royal Enfield Hunter 350
+64
+MINOR MAINTENANCE TIPS
+SPARK PLUG
+CLEANING AND ADJUSTING PLUG CAP
+ 
+Remove the spark plug cap from the spark plug.
+ 
+Remove spark plug using the plug spanner and 
+tommy bar.
+ 
+Clean the insulator tip and electrodes of the plug 
+carefully.
+ 
+Check and set the electrode gap between 0.70 to 
+0.80 mm.
+ 
+Refit the spark plug on the cylinder head and refit 
+the spark plug cap on the spark plug.
+CAUTION
+ 
+Ensure ignition & kill switch are in “OFF” condition 
+before accessing the spark plug.
+ 
+Before opening the spark plug blow away the dust 
+in surrounding area to prevent it falling inside  
+cylinder head.
+ 
+Ensure spark plug is being replaced with  
+recommended specification only.
+Royal Enfield Hunter 350
+65
+MINOR MAINTENANCE TIPS
+CHECKING BRAKE FLUID
+MIN
+MAX
+MIN
+          Front Brake
+          Rear Brake
+Place your motorcycle in an upright position on a firm, 
+level surface.
+Front : Check that the brake fluid reservoir is horizontal 
+and that the fluid level is above  of the “MIN” level mark.
+Rear : Check that the brake fluid reservoir is horizontal 
+and that the fluid level is between the “MAX” level and 
+“Min” level marks.
+CAUTION
+
+Brake fluid is highly corrosive and can cause damage 
+to painted parts. Please ensure that brake fluid 
+does not spill on any part of the motorcycle. In the 
+event of a spill, please clean the area immediately 
+with a soft cloth (preferably a wet cloth) to avoid 
+damage. 
+
+Do not mix Swastik DOT 4 & other brake fluid 
+together.
+Royal Enfield Hunter 350
+66
+MINOR MAINTENANCE TIPS
+NOTE
+ 
+Clean the filler cap before removing. Use only 
+Swastik DOT 4 brake fluid from sealer container.
+ 
+Use only the specified brake fluid; otherwise, the 
+rubber seals may deteriorate, causing leakage.
+ 
+Refill with the same type of brake fluid. Adding a 
+brake fluid other than DOT 4 may result in a harmful 
+chemical reaction.
+ 
+Be careful that water or dust does not enter the 
+brake fluid reservoir when refilling. Water will 
+significantly lower the boiling point of the fluid and 
+may result in vapor lock and dirt may clog the ABS 
+hydraulic unit valves.
+WARNING
+ 
+An insufficient brake fluid level will cause the brake 
+system to fail.
+ 
+Old brake fluid reduces the braking effect.
+ 
+Make sure that brake fluid for the front and rear 
+brake is changed in accordance with the periodic 
+maintenance schedule.
+ 
+Keep brake fluid out of the reach of children.
+ 
+Do not allow brake fluid to come into contact with 
+the skin, the eyes or clothing.
+ 
+Brake fluid is highly corrosive and can cause 
+damage to painted parts. Ensure brake fluid does 
+not spill on any part of the motorcycle, in the event 
+of spill please clean the area immediately with a 
+soft cloth to avoid damage.
+Royal Enfield Hunter 350
+67
+MINOR MAINTENANCE TIPS
+INSPECTION OF TYRES AND WHEELS
+ 
+Inspect the tyres periodically for tread wear, cracks 
+and cuts.
+Minimum tread depth :
+Front tyre : 1 mm
+Rear tyre : 1 mm
+ 
+Check and remove stone, 
+splinters, nails or other 
+particles embedded in the 
+tyre treads.
+ 
+Periodically inspect 
+wheels for spokes break-
+age and wheel rim run out.
+ 
+Check proper seating of the tyre beading on the 
+rim whenever the tyre is reassembled.
+ 
+Use only recommended tyres & tubes, inflated to 
+correct air pressure.
+Type
+Front
+Rear
+Solo 
+29 psi
+32 psi
+With Pillion
+29 psi
+36 psi
+WARNING
+ 
+It is recommended to operate the motorcycle 
+with correct tyre pressure as under inflated tyres 
+may cause tyre to overheat and may result in tyre 
+damage and may cause injury to the rider.
+ 
+It is recommended to use Royal Enfield 
+recommended tyre specification in case of 
+replacement of new tyres, it is recommended 
+to use the same specification of the tyre 
+recommended by Royal Enfield, failure to adhere 
+the same may result in tyre damage and may cause 
+injury to the rider.
+Royal Enfield Hunter 350
+68
+MINOR MAINTENANCE TIPS
+BRAKE PADS
+ 
+The front and rear brake pads 
+must be checked for wear at the 
+intervals specified in the periodic 
+maintenance chart.
+Front/Rear : The pads need to be 
+replaced if a brake pad is worm to the 
+indicator.
+NOTE
+ 
+Royal Enfield Motorcycles fitted with disc brakes 
+have the optimum braking systems and are built 
+to give a superior and safer braking performance 
+under all conditions. 
+ 
+Disc/drum braking systems can produce a mild 
+noise under certain riding conditions. This is 
+absolutely normal and characteristic of the disc 
+brake pads across the motorcycle industry. This 
+in no way will affect the performance of the 
+motorcycle or the braking system. 
+ 
+At Royal Enfield, we have robust and rigorous 
+testing and development protocols and adhere 
+to global validation standards of quality and 
+durability. We are committed to giving our 
+customers the best possible ownership experience 
+with our motorcycles.
+Wear indicator
+Royal Enfield Hunter 350
+69
+MINOR MAINTENANCE TIPS
+BATTERY AND MAINTENANCE
+ 
+The motorcycle is 
+provided with 12 V - 
+8Ah VRLA battery.
+ 
+The battery must be 
+periodically checked 
+for cleanliness 
+and corrosion free 
+terminals.
+NOTE
+The poor contact or loose fitments of battery terminals 
+may cause electrical / electronic parts failure.
+CAUTION
+ 
+The battery must be periodically checked for  
+cleanliness and corrosion free terminals.
+ 
+The poor contact or loose fitment of battery 
+terminals may cause electrical / electronic parts 
+failure.
+ 
+Always disconnect the black negative (-ve) battery 
+cable first and then the red positive (+ve) cable 
+while removing the battery connections.
+ 
+For checking the battery voltage check with 
+multimeter in voltage mode or contact Royal 
+Enfield Authorised Service Centre or battery 
+service center.
+Royal Enfield Hunter 350
+70
+ 
+Clean the wire terminals free from corrosion and 
+keep the terminals coated with petroleum jelly.
+ 
+Keep the (+ve) positive terminal and (-ve) negative 
+terminal cables firmly connected to the respective 
+battery terminals. Failure to do so may result in 
+damage to the motorcycle electrical system.
+MINOR MAINTENANCE TIPS
+HEADLIGHT BEAM ADJUSTMENT
+The headlight beam focus can be adjusted in vertical 
+direction by using the adjusting three mounting screws.
+ 
+Loosen the bottom 
+mounting screw to 
+adjust headlamp 
+position.
+ 
+After adjusting the 
+focus tighten the 
+bottom mounting 
+screw.
+NOTE
+This may be required to increase the visibility and to help 
+prevent the other riders / vehicles passing nearby.
+Royal Enfield Hunter 350
+71
+MINOR MAINTENANCE TIPS
+CHANGING ELECTRICAL COMPONENTS
+HEADLAMP BULB DISMANTLING
+ 
+Gently loosen the headlamp 
+mounting bolt both sides 
+from headlamp bowl.
+ 
+Gently pullout the headlamp 
+rim along with reflector 
+assembly.
+ 
+Disconnect head lamp 
+coupler.
+ 
+Remove the protective rubber 
+cap over the bulb.
+ 
+Gently press the bulb holding 
+clip and release it from the 
+slot in the reflector.
+ 
+Remove the bulb from the 
+reflector.
+Royal Enfield Hunter 350
+72
+NOTE
+ 
+Never touch the bulb with your fingers. Finger 
+prints will etch the glass and decrease bulb life.
+ 
+Always hold the bulb with clean dry cloth during 
+handling.
+ 
+Do not disturb the vent cap provided in the inner 
+body mould.
+MINOR MAINTENANCE TIPS
+HEADLAMP BULB REPLACEMENT
+ 
+Locate the 3 lugs in the bulb 
+correctly in the reflector.
+ 
+Locate the bulb holding clip 
+over the bulb and lock it in 
+the slot in the reflector.
+ 
+Put the protective rubber cap 
+over the bulb correctly such 
+that the vent pipe is facing 
+downwards.
+ 
+Connect head lamp coupler 
+on the bulb terminals 
+correctly.
+ 
+Assemble the 2 screws and 
+tighten firmly.
+Royal Enfield Hunter 350
+73
+MINOR MAINTENANCE TIPS
+Fuse & Fuse carrier located in RH side cover.
+25A
+25A
+15A
+10A
+10A
+15A
+F6
+HORN
+LIGHTNING SYSTEM
+SPARE FUSE 25A
+SPARE FUSE 15A
+SPARE FUSE 10A
+F1  CHARGING  SYSTEM
+  MAIN FUSE
+PART NO:
+IGNITION SYSTEM
+F2
+F3
+SIGNALLING
+F4
+F5
+15
+15
+25
+25
+25
+15
+10
+10
+10
+15
+10
+10
+15
+10
+15
+MAIN FUSE BOX
+ABS FUSE BOX
+F6
+F5 F4
+F3 F2
+F1
+SF5
+F7
+SF4
+F8
+SF3
+SF2
+SF1
+Royal Enfield Hunter 350
+74
+MINOR MAINTENANCE TIPS
+MINI BLADE FUSE USAGE LIST
+Fuse ID 
+number
+Color
+Rating
+Remarks
+F1
+WHT
+25 A
+Charging system
+F2
+WHT
+25 A
+Main fuse
+F3
+BLU
+15 A
+Ignition system
+F4
+RED
+10 A
+Signaling fuse
+F5
+RED
+10 A
+Horn fuse
+F6
+BLU
+15 A
+Lighting system
+ABS fuse list
+F7
+RED
+10 A
+ABS fuse-1
+F8
+BLU
+15 A
+ABS fuse-2
+Spare fuse list
+SF1
+WHT
+25 A
+Spare fuse
+SF2
+BLU
+15 A
+SF3
+RED
+10 A
+SF4
+BLU
+15 A
+SF5
+RED
+10 A
+WARNING
+Please get the electrical system of your motorcycle 
+checked thoroughly and get the faults corrected 
+immediately after experiencing any fuse failure. Failure 
+to do so may result in repeated fuse failure.
+Usage of fuses other than specified rating or usage of 
+any other conductive materials or low grade fuses will 
+damage the complete electrical system.
+Royal Enfield Hunter 350
+75
+REAR SUSPENSION SETTING
+ 
+Rest the motorcycle on 
+center stand.
+ 
+Ensure the tyre pressure 
+is at recommended 
+specification.
+ 
+Ensure adjuster are clear 
+of all dirt and debris 
+before adjusting, if they have dirt or debris please 
+clean it suitably before adjusting.
+ 
+The adjuster is a 5 step adjuster and it is kept at 
+first notch position.
+ 
+Adjust shock preload by rotating the adjuster 
+clockwise using C-spanner to increase the preload.
+ 
+Adjust shock preload by rotating anti-clockwise 
+using C-spanner to decrease preload (to make it to 
+first notch position).
+ 
+Make the same adjustments on both sides, uneven 
+adjustment may lead to discomfort to the rider.
+Loosen
+Tighten
+NOTE
+ 
+Adjusting the suspension 
+requires a C-spanner. 
+It is we recommend to 
+use the C-spanner that 
+is given in your vehicle 
+tool kit. Extension tube 
+to be used for leverage 
+purposes.
+Adjuster
+ 
+The best spring preload setting is achieved when 
+it is set for the weight of the rider and that of any 
+luggage and a passenger.
+ 
+We recommend to increase the preload and keep it 
+at final notch for fully loaded (GVW condition), thus 
+ensuring an ideal compromise between handling 
+and stability.
+Royal Enfield Hunter 350
+76
+REAR SUSPENSION SETTING
+Condition
+Max reference payload
+Suspension 
+setting notch
+Tyre pressure (psi)
+Front
+Rear
+Unladen / One up Loading / Rider only.
+Rider upto 90 kg
+1st 
+29
+32
+Laden / Two up / Rider + Pillions / Rider 
++ Pillion + Accessories
+Upto a maximum of 180 kg 
+payload (Inc of rider weight, 
+pillion weight and accessories)
+6th 
+29
+36
+*Ensure the preload is set equally on the LH and RH rear suspension.
+Royal Enfield Hunter 350
+77
+LONG TRIP PRECAUTIONS
+CHECKS PRIOR TO THE COMMENCEMENT 
+OF A LONG JOURNEY
+ 
+Service the motorcycle at Royal Enfield Authorised 
+Service Centre.
+ 
+Ensure sufficient quantity of fuel is always available 
+in the fuel tank for the journey planned.
+ 
+Check and correct tyre pressure if necessary.
+CHECKS AFTER EVERY 1000 KM OF RUN
+ 
+Any loose fasteners.
+ 
+Condition of the tyres.
+ 
+Correct oil level in engine.
+ 
+Working of all lights and horn.
+ 
+Proper drive chain tension.
+ 
+Clutch cable free play.
+ ITEMS TO BE CARRIED
+ 
+Tools kit.
+ 
+First aid kit.
+ 
+Bulbs for headlight, trafficator light and fuse.
+ 
+Accelerator and clutch cables.
+ 
+Spark plug, spark plug cap, fuel hose.
+Royal Enfield Hunter 350
+78
+WASHING PROCEDURE
+PRECAUTIONS
+ 
+Remove ignition key and seal the ignition key barrel 
+slot using adhesive tape.
+ 
+Please remove tool kit, first aid kit and other  
+relevant documents if any inside the right side 
+panel before proceeding for washing of the  
+motorcycle.
+ 
+Cover the silencer tail pipe, horn and control 
+switches with suitable plastic bags and tie if firmly 
+to prevent water entry.
+ 
+Wash the motorcycle only when the engine is in 
+cold condition.
+ 
+Do not remove side panel while washing to avoid 
+water entry.
+ 
+Brush engine area with a recommend non corrosive 
+solvent to remove dirt or grease.
+ 
+Use low pressure water jet to clean.
+ 
+Never spray water with great force on head lamp, 
+meter / cluster unit, flasher lights, front and rear 
+wheel hubs, electrical connections and wires, 
+control cables, EFI components, spark plug, 
+battery, side panels.
+ 
+Do not use high pressure washers or steam jet 
+cleaners near the seal of headstock bearing or 
+steering stem bearing, seal of wheel bearing, brake 
+calipers, air intakes & exhaust outlets.
+ 
+Do not apply any corrosive solvent on painted 
+surfaces or rubber parts.
+Royal Enfield Hunter 350
+79
+WASHING PROCEDURE
+ 
+Use lukewarm water and mild detergent on the 
+painted components to remove dirt, etc.
+ 
+Clean motorcycle thoroughly with plain water to 
+remove the detergent.
+ 
+Never spray water towards bottom side of 
+instrument cluster directly to avoid water entry 
+through breather holes.
+ 
+If possible, use compressed air and blow off water 
+particles from the obscure areas of the motorcycle, 
+electrical connections etc.
+ 
+Once the motorcycle has been ridden in salty 
+conditions (i.e. during winter in places where road 
+salt is used) or near coastal areas it is recommended 
+to wash your motorcycle with cold water after the 
+ride to prevent corrosion or rust build-up. Please do 
+not use warm water for washing as it may damage 
+the motorcycle due to chemical reaction with the 
+salt. After washing process once the motorcycle 
+is completely dry it is recommended to apply anti 
+corrosion spray on all the metal and chrome plated 
+areas to protect the parts from corrosion.
+ 
+It is recommended not to apply the anti-corrosion 
+spray on the brake discs.
+ 
+Do not use petrol, brake oil or other flammable 
+liquids to clean or wash on electronic parts.
+ 
+The parts chosen using motorcycle configurator 
+should not be washed with soap or chemical, use 
+only with plain water.
+Royal Enfield Hunter 350
+80
+WASHING PROCEDURE
+AFTER WASHING
+ 
+Ensure, the motorcycle is thoroughly dry by wiping 
+with a clean soft lint free absorbent cloth or  
+chamois leather.
+ 
+Remove all adhesive tapes.
+ 
+Lubricate control cables, pivots for footrest, side 
+stand, center stand, brake and gear shifter linkages, 
+drive chain etc., with lube oil.
+ 
+Polish the painted and plated surfaces using 
+recommended automobile polishing wax.
+ 
+Start the engine and allow to run at an idling speed 
+for a few minutes to warm up engine.
+ 
+Drive the motorcycle slowly, apply both the brakes 
+intermittently to dry up the water in brake pads.
+ 
+Please clean / wipe out water spoils completely 
+inside the RH side panel before keeping tools kit, 
+first aid kit and other relevant documents inside 
+the right side panel.
+Royal Enfield Hunter 350
+81
+In-case your motorcycle is not going to be used for a 
+month or more, the following precautions should be 
+taken.
+ 
+Get the motorcycle serviced through a Royal 
+Enfield Authorised Service Centre.
+ 
+Drain the fuel completely from the fuel tank and 
+induction system.
+ 
+Remove spark plug, Pour in about 5 ml of clean 
+engine oil through spark plug hole. Close the hold 
+and crank engine several times and refit spark plug.
+ 
+Clean drive chain thoroughly and apply Royal 
+Enfield recommended chain lubricant.
+ 
+Wipe off excess lubricant after 5 min of application.
+ 
+Remove charging circuit fuse from the fuse box.
+ 
+Store the battery in a cool, dry and well ventilated 
+place.
+STORAGE PRECAUTIONS
+ 
+Cover the silencer with suitable bags to prevent 
+moisture entry. Set the motorcycle on its center 
+stand.
+ 
+Apply anti rust solutions on all plated parts. Take 
+care not to apply this solution on chrome, rubber 
+or pained parts. Store motorcycle in a clean 
+covered area free of moisture and dust.
+ 
+For re-use after storage, it is preferable to get 
+the motorcycle prepared through a Royal Enfield 
+Authorised Service Centre to ensure the motorcycle 
+is restored to its peak operating conditions.
+ 
+Battery (+ve) connector to be disconnected to 
+avoid battery drain issue in long term. Before 
+reconnecting the connector, check the battery 
+voltage is within specification. If not, recharge it 
+from authorized service center / battery dealer. 
+Royal Enfield Hunter 350
+82
+ENVIRONMENT CARE
+BE AN ENVIRONMENTALLY CONSCIOUS RIDER
+You’ve ridden through some beautiful places on your Royal Enfield. Won’t you like to keep them that way? Here are 
+some tips to help you keep those places unspoilt so that others can enjoy them too:
+Disposal of end of life - Parts / Vehicle
+While your liquid waste like engine oil, coolant and other cleaning solvents need to be regularly replaced, what 
+happens to them? Make sure they are not dumped in the soil or water bodies.
+You shall store them in a container and handover to an Govt authorized recycling agent, If any or RE Service Centre.
+In the case of battery, tyres, plastic parts, electric or electronic parts and oil filter shall be handed over only to an 
+authorized recycling agent, If any or RE Service Centre.
+The cleaning solvents or sprays whichever used for cleaning your bike shall be disposed in an environmentally 
+friendly manner.
+In case you want to dispose your vehicle considered as an end of life vehicle, please handover the vehicle only to an 
+authorized / registered vehicle scrapping facility near you or contact local authorities to follow due process.
+Royal Enfield Hunter 350
+83
+PERIODICAL MAINTENANCE
+The maintenance schedule detailed here will help you maintain your Hunter 350 motorcycle meticulously and to get 
+a long trouble free service. The schedule provided herein is based upon average riding conditions and indicates the 
+km, at which regular inspections, adjustments, replacements and lubrications are to be carried out. The frequency 
+of the maintenance must be shortened depending upon the severity of the driving condition or if the motorcycle is 
+used in a very dusty environment. Contact the nearest Royal Enfield Authorised Dealer / Service Centre for expert 
+advice and to carry out the required maintenance.
+Sl. No.
+DESCRIPTION
+PERIODICAL MAINTENANCE
+Km (x 1,000)
+0.5
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Months
+1.5
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+1
+Engline oil (level check / replace)
+R
+I
+R
+I
+R
+I
+R
+I
+R
+I
+R
+Check level at every 1,000 km or earlier and topup as required
+2
+Engline oil filter element
+R
+R
+R
+R
+R
+R
+3
+Engline oil strainer on crankcase LH
+C
+C
+C
+C
+C
+C
+4
+Inlet / exhaust tappet setting
+I&A
+I&A
+I&A
+I&A
+I&A
+I&A
+Royal Enfield Hunter 350
+84
+Sl. No.
+DESCRIPTION
+PERIODICAL MAINTENANCE
+Km (x 1,000)
+0.5
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Months
+1.5
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+5
+Rubber hose-intake adapter
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+6
+Evaporative emission equipment rubber hoses 
+& drain the overfilled by removing plug.
+I
+I
+I
+I
+I
+I
+I
+I
+R
+I
+I
+7
+Spark plug
+C&A
+R
+C&A
+R
+C&A
+8
+HT lead for crack
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+9
+Air filter element
+C
+C
+R
+C
+R
+C
+R
+C
+R
+C
+R
+Clean / Replace more frequently if operated in dusty condition
+10
+Vent pipe under air filter box
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+11
+Starter motor & starter relay connections
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+12
+Battery terminals (apply petroleum jelly)
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+C
+PERIODICAL MAINTENANCE
+Royal Enfield Hunter 350
+85
+PERIODICAL MAINTENANCE
+Sl. No.
+DESCRIPTION
+PERIODICAL MAINTENANCE
+Km (x 1,000)
+0.5
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Months
+1.5
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+13
+Earth wire eyelet contact
+I
+I
+14
+Injector hose
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+15
+Fuel filter in fuel pump
+R
+16
+Front fork oil
+I
+I
+I
+I
+R
+I
+I
+I
+R
+I
+I
+17
+Steering ball races play
+Inspect / Adjust, if required lubricate for every 5,000 km  
+or earlier as required. Replace if necessary.
+18
+Spokes tightness / Wheel rim run out front & rear
+I
+I
+I
+I
+I
+I
+19
+Swing arm pivot bush & spacer
+I
+Inspect, if required lubricate for every 5,000 km or earlier as 
+required. Replace if necessary.
+20
+Tire wear pattern (front & rear)
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+Royal Enfield Hunter 350
+86
+Sl. No.
+DESCRIPTION
+PERIODICAL MAINTENANCE
+Km (x 1,000)
+0.5
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Months
+1.5
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+21
+Rear wheel drive chain
+Clean, lubricate every 500 km / Clean, lubricate & adjust every 
+5,000 km or earlier as required.
+22
+Rear wheel cush drive rubbers
+I&R
+I&R
+23
+Front & rear brake hose & banjo bolt
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+24
+Brake fluid level, front & rear disc
+I
+I
+I
+I
+R
+I
+I
+I
+R
+I
+I
+25
+Clutch lever / Cable free play
+Adjust every 1,000 km or earlier as required & replace if required.
+26
+Hand levers & foot levers
+Lubricate every 1,000 km or earlier as required.
+27
+Pivot-side stand, center stand, pillion foot rest, gear 
+shifter, brake pedal, levers
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+L
+PERIODICAL MAINTENANCE
+Royal Enfield Hunter 350
+87
+PERIODICAL MAINTENANCE
+Sl. No.
+DESCRIPTION
+PERIODICAL MAINTENANCE
+Km (x 1,000)
+0.5
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+Months
+1.5
+6
+12
+18
+24
+30
+36
+42
+48
+54
+60
+28
+Throttle cable
+Adjust every 5,000 km or earlier if required.
+29
+Brake pads - front & rear
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+30
+Side stand switch operation
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+31
+All mounting fasteners in vehicle for tightness
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+I
+32
+Throttle body - cleaning
+Throttle body should be removed from the vehicle and cleaned 
+with a dry microfibre cloth, usage of throttle body cleaners or 
+any similar solvent or alcohol based liquids for cleaning is strictly 
+prohibited. Throttle body cleaning every 10,000 km / 12 months 
+or earlier as required.
+Royal Enfield Hunter 350
+88
+A : Adjust C : Clean D : De-carbonise I : Inspect (Clean, Adjust, Lubricate or replace if necessary) L : Lubricate 
+R : Replace
+The maintenance schedule detailed here will help you to maintain your Royal Enfield motorcycle meticulously 
+and to get a long trouble free service. The frequency of the maintenance must be shortened depending upon the 
+severity of the driving condition or if the motorcycle is used in a very dusty environment, severe climatic cold and 
+hot conditions, bad roads, stagnant water etc., Contact a nearest Royal Enfield Authorised Dealer / Service Centre 
+for expert advice and to carry out the periodical maintenance.
+NOTE
+For maintenance after 50,000 km, please repeat the same frequency levels specified above, in consultation with a 
+Royal Enfield Authorised Dealer / Service Centre.
+PERIODICAL MAINTENANCE
+Royal Enfield Hunter 350
+89
+WARRANTY TERMS AND CONDITIONS
+Royal Enfield Motorcycles are manufactured by following best quality practices in respect of the material and 
+workmanship.
+Royal Enfield (RE) warrants its motorcycle to be free from manufacturing and material defect under normal use 
+subject to following conditions.
+1. 
+RE will replace or repair defective part(s) at their dealerships and Authorised Service Centre, free of charge 
+within a period of 36 months / 30,000 km from the date of sale, whichever is earlier.
+2. 
+In order to avail warranty benefits by second or subsequent owner, the second / subsequent owner should 
+inform the nearest Royal Enfield Service Centre about the purchase of the bike and shall fill in the requisite 
+details in the form as requested by Royal Enfield.
+3. 
+The warranty shall be applicable only if all the services are availed in the respective period / kilometer ranges as 
+per the schedule in the owner’s manual from RE Authorised Dealer / Service Centre.
+4. 
+During the warranty period, RE’s obligations shall be limited to repairing / replacing part(s) of the motorcycle 
+for free, only if the part(s), on examination is deemed to have a manufacturing defect. Defective part(s) which 
+have been replaced will become the sole property of RE.
+5. 
+Cost of oil, oil filter and fuel are chargeable to the customer.
+Royal Enfield Hunter 350
+90
+6. 
+Claims on proprietary items like tyres, tubes, spark plug, battery etc., should be taken up with the respective 
+manufacturer or their authorised agents in the area directly by the customer. RE shall not be liable in any 
+manner to replace them through their dealers. RE will, however, provide assistance in preferring such claims on 
+the respective manufacturer.
+7. 
+The warranty terms of motorcycle configurator parts is similar to that of the motorcycle warranty, i.e. 36 
+months or 30,000 km. from the date of purchase whichever is earlier.
+8. 
+Warranty shall not apply to:
+(a) Normal ageing, deterioration or rusting of plated parts, paints coat, rubber parts, soft items, glass items, 
+plastic parts etc.
+(b) Components like fuel filter, oil filter, air filter paper element, control cables, brake shoes / brake pads, 
+clutch, drive chain & sprocket kit, steering ball races, electrical equipment, wiring harness etc., which are 
+subjected to normal wear and tear.
+(c) Failures occurred due to use of non recommended grade lubricants, fuel or improper level.
+(d) Damages due to use of non-genuine parts, lack of proper maintenance, incorrect riding habits.
+(e) Parts damaged due to accidents, collision, abuse etc.
+(f) Irregularities not recognised as affecting the quality or function of the motorcycle such as slight vibration, 
+oil leakage, discoloration of exhaust pipe bend and cat region / silencer / soft or hard shock absorber etc.
+WARRANTY TERMS AND CONDITIONS
+Royal Enfield Hunter 350
+91
+(g) Warranty is not applicable for discoloration of exhaust pipe & silencer, as it is a natural process that will 
+happen during usage.
+(h) Defects arising from fitment of unauthorised or additional electrical loads.
+(i) 
+Motorcycle serviced or repaired at unauthorised service centres.
+(j) 
+Motorcycle used for competitions / racing / stage rallying etc.
+(k) Electrical component like bulbs, fuses etc., and electronic components failure including ECU due to repairs 
+by arc welding.
+(l) 
+Motorcycle found with tampering / drilling / welding mark on any part of the frame.
+(m) Normal maintenance operations like adjustment of brakes, cleaning fuel system, engine tune-up and other 
+such adjustments.
+(n) Oxidization of buffed / painted / powder coated items etc.
+9. 
+RE reserves the right to finally decide on all warranty claims.
+10. RE reserves the right to make changes in design of the motorcycle without any obligation to install these 
+changes on previously supplied motorcycles.
+WARRANTY TERMS AND CONDITIONS
+Royal Enfield Hunter 350
+92
+EMISSION CONTROL SYSTEM WARRANTY
+In compliance with the provisions of Rule 115(2) of the Central Motor Motorcycle Rules, 1989, Royal Enfield certifies 
+that the following warranty is applicable to those components liable to affect the emission of the gaseous pollutants 
+in its range of motorcycle, in normal use to which it may be subjected to.
+This emission warranty is valid for 30,000 km / 3 years from the date of first sale whichever earlier, to the first 
+customer and is in addition to and parallel to the warranty policy, conditions and obligations laid down in the owner’s 
+manual.
+Royal Enfield further warrants that if on examination by its Royal Enfield Authorised Service Centre, the motorcycle 
+fails to meet the specified emission standards, then the Authorised Service Centre shall take necessary corrective 
+measures and shall, at its sole discretion, repair or replace free of charge components of the emission control system 
+to meet the required emission standards.
+The method/s of examination to determine the warranty conditions of the emission warranty related components 
+will be at the sole discretion of Royal Enfield and / or our Authorised Service Centre and results of such examination 
+will be final and binding. If on examination the warranty conditions of the part/s is / are not established, Royal Enfield 
+will have the right to charge all, or part of the cost of such examination to the customer in addition to the cost of the 
+components.
+In case of acceptance of the component/s under emission warranty, Royal Enfield will replace free of charge the 
+component/s as required. However, the consumables like fuel, lubricants, solvents etc., shall be chargeable to the 
+customer as per actuals.
+Royal Enfield Hunter 350
+93
+In case any of the components covered under emission warranty or the associated parts are not independently 
+replaceable. Royal Enfield will have the sole discretion to replace either the entire assembly or parts of the assembly 
+through suitable repairs.
+Royal Enfield reserves the right to carry out necessary consequential repairs to the motorcycle or replace any part, in 
+addition to the repair or replacement of the components covered under emission warranty, to establish compliance 
+to in-use emission standards. Such repairs / replacements will be chargeable to the customer. 
+All parts removed for replacement under warranty will become the property of Royal Enfield.
+Royal Enfield will not be responsible for the cost of transportation of the motorcycle to the nearest Authorised 
+Service Centre or for any loss due to non availability of the motorcycle during the period of examination and repairs 
+by Royal Enfield and / or their Authorised Service Centre.
+Royal Enfield will not be responsible for any penalties that may be charged by statutory authorities on account of 
+failure to comply with the in-use emission standards.
+The cost incurred to check emission of the motorcycle will have to be borne by the customer.
+Emission warranty will be applicable irrespective of the change of ownership of the motorcycle provided all the 
+conditions as laid down in this document are met from the date of original sale of the motorcycle.
+EMISSION CONTROL SYSTEM WARRANTY
+Royal Enfield Hunter 350
+94
+EMISSION CONTROL SYSTEM WARRANTY
+THE WARRANTY SHALL APPLY IF THE CUSTOMER
+ 
+Observes all the important instructions and any other precautions listed in the owner’s manual.
+ 
+Under all circumstances uses lubricants and fuel as recommended by Royal Enfield.
+ 
+Regularly obtains and carries out maintenance in accordance with Royal Enfield guidelines and enters the 
+details in the log book.
+ 
+Immediately approaches the nearest RE Authorised Dealer / Service Centre upon discovery of failure to 
+comply with the emission standard inspite of having maintained and used the motorcycle in accordance with 
+the instructions in the owner’s manual and having carried out such repairs and adjustments as may be required 
+with a view to establish such compliance.
+ 
+Production of a valid pollution under control certificate is necessary to claim emission warranty.
+ 
+Produces the owner’s manual and log book for verification details.
+ 
+Produces receipts covering maintenance of the motorcycle is specified in the owner’s manual from the date of 
+original purchase of the motorcycle.
+ 
+Produces valid certificate of Insurance and RTO Registration Certificate (R.C. Book).
+Royal Enfield Hunter 350
+95
+THE EMISSION WARRANTY SHALL NOT APPLY IF
+ 
+A valid “Pollution under control” certificate is not produced.
+ 
+The motorcycle is not serviced by RE Authorised Dealer / Service Centre as per the service schedule described 
+in the maintenance chart.
+ 
+The motorcycle has been subjected to abnormal use, abuse, neglect and improper maintenance or has met 
+with an accident.
+ 
+Replacement parts not specified and approved by Royal Enfield have been used.
+ 
+The motorcycle, or parts there of, has been altered, tampered with or modified or replaced in an unauthorised 
+manner.
+ 
+The odometer is not functioning or the odometer and / or its reading has been changed / tampered with, so 
+that the actual distance covered cannot be readily determined.
+ 
+The motorcycle has been used for competitions, races and rallies or for the purpose of establishing records.
+ 
+On examination by Royal Enfield or its Authorised Dealer / Service Centre, if the motorcycle shows that any of 
+the conditions stipulated in the owner’s manual with regard to use and maintenance have been violated.
+EMISSION CONTROL SYSTEM WARRANTY
+Royal Enfield Hunter 350
+96
+ 
+The motorcycle has been run on adulterated / leaded fuel or lubricant other than those specified by Royal 
+Enfield in the owner’s manual or any other document given to the customer at the time of sale of the 
+motorcycle.
+ 
+The emission related components are tampered with.
+ 
+All service and parts related bills and vouchers incurred during the tenure of the emission warranty is not 
+produced.
+ 
+All maintenance activities carried out on the motorcycle during the tenure of the emission warranty are not 
+entered in the log book.
+EMISSION CONTROL SYSTEM WARRANTY
+TIPS TO BE ON THE RIGHT SIDE OF LAW
+ 
+Always get your motorcycle checked to meet the emission regulations through an authorised emission checking 
+centre.
+ 
+Always carry a valid “Pollution Under Control” certificate with you, as and if applicable by law.
+Royal Enfield Hunter 350
+97
+TIPS TO REDUCE POLLUTION
+ 
+Ensure that the periodical maintenance is carried out as stipulated in the owner’s manual through a Royal 
+Enfield Authorised Service Centre.
+ 
+Use only unleaded petrol (91 RON or higher) from reputed fuel pumps.
+ 
+Ensure the fuel used is not adulterated.
+ 
+Use correct spark plug as recommended in the owner’s manual.
+ 
+Use lubricants as per recommendations given on grade / brand in the owner’s manual.
+EMISSION CONTROL SYSTEM WARRANTY
+Royal Enfield Hunter 350
+98
+EVAPORATIVE EMISSION CONTROL SYSTEM WARRANTY
+The following warranty applies to the evaporative emission control system.
+Royal Enfield motors warrants the first owner and each subsequent owner, that this motorcycle is designed and 
+built so as to conform, at the time of sale, with applicable regulations specified by the evaporative emission control 
+system related parts fitted to this motorcycle are free from defects in materials and workmanship which may cause 
+this motorcycle not to meet applicable regulations period of 24 months from the date of first use of the motorcycle.
+The Warranty period shall begin either on the date the motorcycle is delivered to the first retail purchaser or from the 
+first date the motorcycle is used as a demonstrator or as a display and / or trial motorcycle.
+THE FOLLOWING ARE NOT COVERED BY THE EVAPORATIVE EMISSION CONTROL 
+SYSTEM WARRANTY
+1. 
+Failures which may arise as a result of misuse, alterations, accidents or non performance of routine 
+maintenance, as specified in the owner’s manual.
+2. 
+Replacing, removing or modifying any portion of the Evaporative Emission Control System (consisting of fuel 
+tank, fuel tank cap, canister, purge valve, throttle body, vapor hoses, fuel hoses and hose connectors) with 
+parts not certified by Royal Enfield.
+Royal Enfield Hunter 350
+99
+EVAPORATIVE EMISSION CONTROL SYSTEM WARRANTY
+3. 
+Loss of time, inconvenience, loss of motorcycle use or any other consequential loss or damages.
+4. 
+Any motorcycle in which the ODO meter has been tampered with or the speedo cable has been disconnected 
+for any reason or is broken and not replaced immediately, due to which the exact distance covered cannot be 
+determined.
+5. 
+Normal ageing of parts such as fuel hoses, vapor hoses, gaskets and rubber components.
+RECOMMENDATIONS FOR REQUIRED MAINTENANCE
+It is recommended that the routine maintenance of the motorcycle be carried out at specified intervals and any 
+maintenance to the evaporative emission control systems should be performed only by an Authorised Royal Enfield 
+Service Centre and using only genuine Royal Enfield spare parts.
+Royal Enfield Hunter 350
+104
+SERVICE / MAINTENANCE RECORD
+S.No.
+Type of service
+Schedule
+Date
+Job card No.
+km
+Dealer code
+Brief details of service
+1.
+1st Free service*
+500 km / 45 Days
+2.
+2nd Free service*
+5,000 km / 6 Months
+3.
+3rd Free service*
+10,000 km / 12 Months
+4.
+4th Free service*
+15,000 km / 18 Months
+* Labour is free for this services alone.
+NOTE
+Cost of parts, lubricants, filters and other consumables are chargeable to the customer on their respective service 
+activities. Refer the periodic maintenance chart for the respective service activities.
+Royal Enfield Hunter 350
+101
+NOTES
+Royal Enfield Hunter 350
+102
+5R\DO(QŰHOG
+UHFRPPDQGHG/XEULFDQWV
+5R\DO(QŰHOG
+UHFRPPDQGHGDGGRQVWR
+PDLQWDLQ\RXUYHKLFOH
+Edition : March 2022
+Part No. RAM00249/A
+WWW.ROYALENFIELD.COM

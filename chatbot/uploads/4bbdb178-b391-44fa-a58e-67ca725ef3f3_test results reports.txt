@@ -1,0 +1,16 @@
+ANUBHAV SINGH PATHANIA
+OC6815455
+1Z0-1110-25 - Oracle Cloud Infrastructure 2025  Data Science Professional
+19-AUG-2025
+10d1232e-b25b-4fab-af32-f3cba6699f9f
+84%
+68%
+Pass
+Create & Mange Jobs for custom tasks
+Create and Export a Dataset using OCI Data Labeling
+Create and Manage Spark Applications using Data Flow and OCI Data Science
+Discuss ADS and OCI Generative AI Integration
+Discuss LangChain Application deployment to Data Science.
+Discuss Operators
+Manage models using Model Catalog
+Use different data sources to fetch data.

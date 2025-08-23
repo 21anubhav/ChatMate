@@ -1,0 +1,5282 @@
+Vehicle Manual
+_________________________________________________________________________________
+Issue Date: February 2025
+Issued by: Mahindra Electric Automobile Limited (hereinafter appearing as “Mahindra”)
+NOTE: Carefully read, understand and follow the instructions provided in this Quick Reference Vehicle Manual, and keep it in a safe place
+for future reference. If you have any doubt whatsoever regarding the use or care of your vehicle, please refer to the more detailed Vehicle
+Manuals available at links listed on Page 3 of this Quick Reference Vehicle Manual and / or visit your Authorised Mahindra Dealer for
+assistance or advice.
+Please note that this Quick Reference Vehicle Manual contains a list of all the features available in the BE 6 vehicles. However, not all
+features are enabled in each variant of the BE 6 vehicles. Therefore, please refer to only those features which are enabled for the particular
+variant of the BE 6 vehicle purchased by you. For more information on the features available for the variant of BE 6 vehicle purchased by
+you, contact your Authorised Mahindra Dealer.
+This Quick Reference Vehicle Manual should be considered as an integral part of the vehicle and should remain in the vehicle.
+Information provided in the Vehicle Manual (the Quick Reference Vehicle Manual and the more detailed Vehicle Manuals available at links
+listed on Page 3 of this Quick Reference Vehicle Manual) (together the “Vehicle Manual”) is explicit at the time of publication. However, as
+Mahindra continues to make changes and improve products, it reserves the right to make changes in the Vehicle Manual or any product at
+any time, without notice and without any obligations.
+The Vehicle Manual serves as a reference for the safe use and maintenance of your BE 6. It does not grant or imply any warranty or
+guarantee unless the vehicle is officially sold to a customer and registered as per applicable law and as per Mahindra’s policies. Therefore
+any mention to ‘warranties / warranty’ or the ‘Warranty & Service Information Guide (WSIG)” in the Vehicle Manual placed in BE 6 vehicles or
+the more detailed Vehicle Manuals available at links listed on Page 3 of this Quick Reference Vehicle Manual does not grant any warranty
+rights to the recipients of the BE 6 Vehicles unless the vehicles are sold to the customers as per applicable law and as per Mahindra’s
+policies.
+Mahindra Electric Automobile Limited., Mahindra Towers, Pandurang Budhkar Marg, Worli, Mumbai 400018, Maharashtra
+www.mahindraelectricsuv.com
+FOREWORD
+Thank you for choosing Mahindra vehicle.
+We are privileged to welcome you to the Mahindra family.
+Your vehicle represents Robust Quality, Ruggedness, Safety, Precision Workmanship and Distinctive Styling, which are our traditional
+values.
+This Quick Reference Vehicle Manual along with the more detailed Vehicle Manuals available at links listed out on page 3 of this
+Quick Reference Vehicle Manual (together the ‘Vehicle Manual’) contains important information on vehicle operation, that will help
+you make full use of the technical features available. To exercise better control on road, we suggest you to please take time to read,
+understand and familiarise with vehicle and its features. Following the instructions and recommendations in Vehicle manual will
+help assure safe and enjoyable operation of your vehicle. Please note Mahindra, including its directors, officers or key managerial
+personnels, do not carry any liability arising due to any action or inaction, with respect to your vehicle, on your part that may not be
+in accordance with, or in contradiction of, the Vehicle Manual, WSIG and any other ancillary documents that may be provided to you
+with your BE 6.
+When it comes to service, note that your Mahindra Authorised Dealer knows your vehicle best, has company trained Technical
+Experts, Mahindra Genuine Parts and very much cares about your satisfaction. You are advised to carry out service, maintenance
+and repairs at Mahindra Authorised Dealers and Mahindra Authorized service centers throughout the life of your vehicle. You are
+also advised to always use Mahindra Genuine Parts for continued performance of your vehicle. Avoid modification, non-genuine
+spare parts and/ or accessories fitment on your vehicle. Any vehicle damage and performance issues caused by such use of non-
+genuine spare parts and/ or accessories fitment will not be covered by the warranty under the Vehicle Manual and the WSIG.
+Mahindra, including its directors, officers or key managerial personnels, do not carry any liability arising due to it.
+Warranty Disclaimer
+Mahindra shall not be liable for any indirect, incidental or consequential damages arising from improper vehicle usage,
+unauthorised modifications, or failure to adhere to the explanations, warnings and guidelines set out in the Vehicle Manual.
+We extend our best wishes for safe and pleasurable motoring
+MAHINDRA ELECTRIC AUTOMOBILE LIMITED.
+This is a Quick Reference Vehicle Manual. This Quick Reference Vehicle Manual is a summary version of the more detailed Vehicle
+Manual containing explanations and warning available at any of the following links/location
+1.
+Brand Website – www.mahindraelectricsuv.com
+2.
+Mobile App - Interactive Vehicle manual in the Me4U (Mahindra eSUV for You)
+(together called the ‘Vehicle Manual’)
+Note: In view of our policy of continuously improving our products, we reserve the right to alter specifications, designs or features without
+prior notice and without liability. We recommend you to refer the Variant Matrix in the Brand official website or contact the nearest
+Authorised Mahindra Dealer for the list of features applicable to your vehicle.
+The vehicle's software and security measures are subject to ongoing development. Similar to computers and mobile device operating
+systems, the software and security features of the vehicle might also receive irregular updates.
+1
+General And Safety Information.....................................1-1
+Safety Symbols................................................................1-2
+INGLO Platform...............................................................1-3
+Vehicle Power and Charging Information ........1-3
+Additional Safety Precautions.................................1-6
+End Of Life - Disposal...................................................1-7
+General Safety Information and
+Instructions .......................................................................1-8
+To Users of a Mahindra Vehicle.............................1-9
+Mahindra Genuine Parts.........................................1-10
+Mahindra Genuine Accessories ..........................1-11
+Vehicle Safety................................................................1-12
+Disclaimers.....................................................................1-13
+Software Update .........................................................1-15
+Me4U .................................................................................1-15
+2
+Overview ......................................................................................2-1
+Front Overview................................................................2-1
+Rear Overview .................................................................2-2
+Interior Overview...........................................................2-3
+Steering Controls overview ......................................2-5
+Driver Information Display Overview .................2-6
+Technical Specifications .............................................2-8
+Dimensions ....................................................................2-10
+Vehicle Identification Number (VIN).................2-10
+3
+Convenience System .............................................................3-1
+Doors....................................................................................3-1
+Child Safety Rear Door lock......................................3-2
+Open /Close Tailgate....................................................3-2
+Frunk Removal ................................................................3-4
+Charging - Lid Opening and Closing....................3-5
+Luggage Compartment...............................................3-6
+Smart Key Remote.........................................................3-7
+Switches..............................................................................3-9
+Intelli Command Center Switch (ICC)...............3-10
+Mobile Charging ..........................................................3-11
+Electric Adjustable ORVM (If equipped)..........3-12
+Table of Contents
+4
+Seats and Safety.......................................................................4-1
+Important Safety Precautions.................................4-1
+Child Restraint System (CRS) ...................................4-2
+Supplemental Restraint System (SRS) .............4-10
+5
+Information Display ...............................................................5-1
+Driver Information Display Overview .................5-1
+Instrument Cluster Screen Flow ............................5-1
+Driver Information Display telltale
+Overview.............................................................................5-2
+Center Information Display......................................5-3
+6
+Starting and Driving...............................................................6-1
+START/STOP Button......................................................6-1
+Shift Lever..........................................................................6-1
+One Pedal Drive..............................................................6-2
+Brakes ..................................................................................6-2
+Drive Modes......................................................................6-5
+Virtual Engine Sound Simulators (VESS)............6-8
+7
+Advanced Driver Assistance System (If
+equipped) ....................................................................................7-1
+ADAS Control Switches ...............................................7-3
+8
+VisionX (If equipped)..............................................................8-1
+9
+Parking Assist System ...........................................................9-1
+Parking Assist System (PAS) (If equipped)........9-1
+Auto Park Assist (APA).................................................9-2
+Rear View Camera (RVC) (if equipped) ...............9-4
+360° camera (If equipped) ........................................9-4
+Driver Occupant Monitoring System (DOMS)
+(If equipped) .....................................................................9-5
+10
+Climate Controls System..................................................10-1
+Air Vents...........................................................................10-2
+Climate Control Through Infotainment
+Screen ...............................................................................10-3
+Remote Cooling ..........................................................10-4
+11
+Charging and Energy Consumption...........................11-1
+Electric Vehicle..............................................................11-1
+Table of Contents
+Charging System .........................................................11-2
+Combined Charging System 2 (CCS2) -
+Charge Port....................................................................11-3
+Charge Port LED indication ...................................11-4
+Electric Vehicle Supply Equipment (EVSE) /
+Charger — 11 kW / 7.2 kW (if equipped)........11-4
+Electric Vehicle Supply Equipment (EVSE) –3
+kW Charger.....................................................................11-5
+Fast Charging ................................................................11-6
+Manual Plug Override .............................................11-6
+12
+Emergency Situations ........................................................12-1
+Hazard Warning Lamp.............................................12-1
+Towing...............................................................................12-2
+Emergency Assistance ............................................12-3
+Spare wheel and Tool Kit location.....................12-6
+Tool Kit removal...........................................................12-7
+Spare Wheel Removal ..............................................12-7
+Warning Triangle ........................................................12-8
+Jack Points.......................................................................12-9
+Wheel Bolt Loosening...............................................12-9
+13
+Maintenance...........................................................................13-1
+Motor Compartment ................................................13-1
+Fuses & Relays..............................................................13-2
+Table of Contents
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-1
+1 General And Safety Information
+Introduction to Your Vehicle
+Congratulations on choosing a BE 6, a symbol of innovation, sustainability, and the future of mobility. Unlike traditional
+vehicles, your BE 6 is designed from the ground up as an electric vehicle, ensuring that every aspect–from performance to
+efficiency–reflects the cutting-edge advancements in electric mobility.
+Your Born Electric Vehicle is more than just a mode of transportation; it's a commitment to reducing your carbon footprint
+without compromising on driving pleasure.
+Powered entirely by electricity, it offers zero-emission driving, a quieter and smoother ride, and instant torque for an
+exhilarating driving experience.
+This vehicle is equipped with a state-of-the-art battery system, advanced regenerative braking, and smart connectivity
+features that make every drive more efficient and enjoyable.
+Whether you're commuting to work or embarking on a long road trip, your BE 6 is engineered to provide a seamless and
+intuitive experience.
+In the Vehicle Manual, you'll find detailed information on the features and operations of your BE 6 , as well as tips on how to
+maximize its range, charge efficiently, and take full advantage of its technological capabilities.
+We encourage you to explore the following pages to become familiar with the innovative features that make your BE 6
+vehicle truly exceptional.
+Welcome to the future of driving.
+General And Safety Information
+1-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1.1 Safety Symbols
+To get a detailed understanding of all the information and
+procedures
+regarding
+safety,
+use,
+maintenance,
+etc.
+carefully read, understand and follow the safety symbols/
+instructions given in this Quick Reference Vehicle Manual
+and the more detailed Vehicle Manuals available at links
+listed on Page 3 of this Quick Reference Vehicle Manual.
+Please note that only referring to this Quick Reference
+Vehicle Manual may not provide the customer with the
+complete information.
+Legend of the Symbols
+To emphasis the information and procedures regarding
+safety, use, maintenance, etc., the following symbols are
+used throughout the manual:
+DANGER
+indicates
+an
+imminently
+hazardous
+situation
+which, if not avoided, will result in death or serious injury
+and
+all
+passengers
+must
+evacuate
+the
+vehicle
+immediately.
+WARNING indicates a potentially hazardous situation which,
+if not avoided, could result in death or serious injury.
+CAUTION indicates a potentially hazardous situation which,
+if not avoided, may result in minor or moderate injury and/
+or property damage.
+NOTICE indicates important information relevant to the
+vehicle, the vehicle's use or to sections of this manual to
+which particular attention must be paid for optimum use of
+the vehicle.
+If you see this symbol, it indicates “no,” “ do
+not,” “do not do this,” or “never”.
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-3
+1.2 INGLO Platform
+INGLO
+is
+an
+‘electric-origin’
+Architecture.
+Unlike
+many
+mainstream EVs adapted from traditional combustion-
+engine designs, INGLO was built exclusively for electric
+vehicles. This difference fundamentally changes the way the
+vehicle performs and feels.
+INGLO
+was
+designed
+with
+modularity,
+scalability,
+and
+versatility.
+This electric-origin approach also enables us to design one
+of the lightest skateboard structures in the industry, paired
+with high-density battery technology. This foundation allows
+us to optimize every inch of space, enhance stability, and
+maximize performance, which means you, our customers,
+will experience a drive that is lighter, more agile, and yet
+incredibly spacious and comfortable.
+1.3 Vehicle Power and Charging Information
+Your BE 6 is equipped with a high-voltage (HV) battery pack,
+approximately 409 V/307 V, which powers the vehicle. The
+vehicle must be charged before driving, as the battery
+stores energy needed for operation.
+Once the ignition is turned ON, the battery begins to
+discharge gradually. If the battery charge is depleted
+completely (0%), the vehicle will not be able to drive until the
+battery is recharged.
+Charging times may vary based on the current state of
+charge (SOC) of the battery and environmental conditions.
+For detailed information on how to charge the battery,
+please refer to the "Charging" section.
+Your vehicle features an Integrated Electronic Booster with
+ABS and ESP, along with regenerative braking for added
+efficiency.
+Your
+vehicle
+is
+eco-friendly
+and
+produces
+no
+toxic
+emissions, such as carbon monoxide, carbon dioxide, or
+nitrogen oxide.
+Since the electric motor is quiet, you may hear sounds from
+the tires, wind, and other external sources. During charging,
+you might also hear noises from the fan, compressor,
+contactor, and relay.
+General And Safety Information
+1-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Always check and ensure enough SOC is available in the HV
+battery before starting the journey. Verify the same with the
+help of "State of charge (SOC)" & "Range" values displayed
+in the Driver Information Display (DID).
+Pay special attention to the pedestrians since there is no
+engine noise. The pedestrian may not know that the vehicle
+is approaching or moving or about to move, and can step
+into the path of vehicle travel.
+Virtual Engine Sound Simulators (VESS) available in the
+vehicle can be enabled for more safety. Refer “Virtual Engine
+Sound Simulators (VESS)” content for more details.
+For preventing damage to the HV battery pack:
+•
+Never allow the HV battery to be fully discharged.
+•
+Discharging the HV battery to 0% may cause damage to
+vehicle components. Persistent deep discharges can
+cause permanent battery degradation.
+•
+Do not leave the vehicle at 100% SOC for prolonged
+periods, as it may reduce battery longevity.
+•
+Always charge in a well- ventilated area, away from
+flammable materials.
+•
+Do not use the Battery as a stationary power source. This
+will void the warranty.
+•
+Do not expose the vehicle to very high or freezing
+temperatures for longer duration.
+•
+Do not use High-Voltage (HV) battery for any other
+purpose, consult your Mahindra Authorised Dealer or
+manufacturer for help.
+If you let the battery discharge to 0%, other components
+may be damaged or need to be replaced (Ex., Low voltage
+battery).
+In
+these
+cases,
+you
+are
+liable
+for
+repair
+and/or
+transportation costs.
+The warranty does not cover discharge-related expenses.
+BE 6 uses high voltage and current. Failure to follow the
+proper handling instructions may cause serious injury or
+death.
+BE 6 cannot be push started or tow-started. Attempting to
+do so may cause internal power train/ motor damage.
+BE 6 uses high voltage systems, these systems may be hot
+during charging & driving, also sometimes in shut off
+condition. Be careful of both the high voltage and the high
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-5
+temperature. Obey the labels that are attached to the
+vehicle.
+Never disassemble, remove or replace high-voltage parts
+and cables as well as their connectors. High voltage cables
+are colored orange.
+Connecting
+unauthorized
+electrical
+accessories
+is
+not
+recommended.
+Disassembling, removing or replacing HV components or
+cables can cause severe burns or electric shock that may
+result in serious injury or death. The vehicle high voltage
+system has no user serviceable parts. Take your vehicle to
+the
+Mahindra
+Authorized
+Dealer
+for
+any
+necessary
+maintenance/repair.
+•
+Ensure to apply the parking brake before turning off the
+ignition and take the key out of the vehicle before
+leaving.
+•
+Always engage the parking brake before getting out of
+the vehicle
+•
+Strictly do not allow untrained / non designated people
+to access EV system and appraise first responders that
+this vehicle is an Electric Vehicle, in case of any kind of
+unexpected incident/ events
+•
+The vehicle will not run with completely discharged
+battery. At low SOC avoid continuous & (frequent
+acceleration and deceleration) this will result in higher
+energy consumption. Try to maintain a steady speed with
+moderate
+acceleration
+for
+getting
+the
+maximum
+efficiency.
+•
+Driving in down gradient, when accelerator pedal is
+released, regenerative braking will provide some energy
+to recharge battery pack and simultaneously assists in
+deceleration.
+•
+You may hear some sounds and feel vibrations during
+the drive this is normal;
+–
+Traction
+motor
+makes
+lighter
+sound
+during
+its
+operation, also will be higher in deceleration of
+vehicle.
+–
+HV contactor makes “tak” noise when vehicle is
+switched ON/OFF
+–
+AC compressor makes sound while in operation
+•
+If the ambient temperature is between –10 °C to 0 °C,
+there will be a considerable increase in charging time,
+also performance drop during drive
+•
+The Performance of battery will decrease with time and
+usage. This does not indicate any defect in the battery
+pack.
+General And Safety Information
+1-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+•
+Once the HV battery pack has reached its end of life, its
+charge holding capacity reaches below specific level, it
+may require an inspection from Mahindra Authorised
+Dealer and may require battery pack replacement.
+•
+It is recommended and mandatory that during the
+process of battery or vehicle / components disposal, the
+owner should contact Mahindra Authorised Dealer for
+guidance
+and
+information
+on
+recycling
+or
+proper
+disposal without causing any environmental pollution.
+If the vehicle cannot be assessed for extent of damage, do not
+touch vehicle and contact nearest Authorized service center or
+the customer care executive for Mahindra support.
+Don’t carry out any welding work on vehicle outside
+Mahindra Authorised Dealer.
+1.4 Additional Safety Precautions
+1.
+In BE 6 “Drive enable” does not get activated and
+vehicle will not move unless charge gun is unplugged
+from charge port.
+2.
+It
+is
+recommended
+to
+apply
+park
+brake
+before
+switching OFF the ignition and before leaving the
+vehicle.
+3.
+The vehicle should be driven within 20 kmph speed on
+speed breakers and rough roads to avoid damage to
+the battery pack under the vehicle.
+4.
+Tyres used in the vehicle are tubeless, designed for all
+weather conditions. They provide the best driving
+range with improved road grip.
+In case of vehicle shutdown contact Mahindra Authorised
+Dealership.
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-7
+1.5 End Of Life - Disposal
+As this is an electric vehicle, many electric and electronic
+parts are used in its system. It should be disposed without
+causing pollution to the environment.
+Your vehicle contains a sealed LFP-Blade type high voltage
+battery. If the battery is disposed improperly, there is a risk
+of severe burns and electrical shock that may result in
+serious
+injury
+or
+death
+and
+there
+is
+also
+a
+risk
+of
+environmental damage.
+Composition
+BE 6 is made from Steel, Aluminum, Lead, Copper, Wood,
+Other
+plastics,
+Glass,
+Rubber
+and
+miscellaneous
+components. Some of these component are reusable by
+recycling while others are hazardous to the environment
+and living beings Hence, such components are to be
+disposed of as per local pollution board regulations.
+Disposal
+•
+Since
+batteries
+contain
+chemical
+compounds
+and
+solvents as electrolytes which can be harmful to the
+environment, they must be disposed of in accordance
+with
+local
+pollution
+control
+regulations.
+Improper
+disposal
+may
+result
+in
+legal
+consequences,
+environmental harm, or personal injury.
+•
+Similarly, ABS and other plastic panels and materials
+should be disposed of through accredited agencies for
+proper recycling.
+•
+Most other
+materials are reusable, so components
+should be sorted into hazardous and non-hazardous
+categories and disposed of through accredited recycling
+agencies.
+It
+is
+recommended
+to
+contact
+Mahindra
+Authorised Service center for proper disposal.
+•
+The company shall not be liable / responsible for any
+damages / injuries, including consequential damages /
+injuries, resulting from improper disposal of batteries or
+other
+vehicle
+components.
+Owners
+should
+consult
+Mahindra Authorised Dealers for appropriate recycling or
+disposal services.
+The BE 6 has a sealed LFP-Blade type battery pack.
+Improper disposal of battery could lead to risk of severe
+burns and electrical shock that may result in serious injury
+or death and also may cause damage to environment.
+General And Safety Information
+1-8
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1.6 General Safety Information and Instructions
+Failure to follow the warnings and instructions provided in
+this manual could result in failure of the vehicle, an
+accident and/or serious personal injury.
+1.
+Carefully read, understand and follow the warnings
+and instructions given in this manual. This manual is
+an essential part of the product. Keep it in the vehicles
+glove box for future reference
+2.
+Never use mobile phones or Infotainment while
+driving. This may take your focus off the road and lead
+to accidents
+3.
+Please be advised that many service and repair tasks
+require specialized knowledge, tools and experience.
+General mechanical skill set may not be sufficient to
+properly service or repair your vehicle with 350 DC
+volt. If you have any doubt whatsoever regarding the
+ability to properly service or repair your vehicle,
+please contact Authorised Mahindra Dealer
+4.
+Inspect the seat belt system periodically, checking for
+cuts, frays or wear in the seat belt webbing, or loose
+buckles, retractors, anchors or other loose parts.
+Damaged parts must be replaced immediately
+5.
+Examine tyres for excessive tread wear and uneven
+wear patterns. Check for stones, nails, glass, or other
+objects lodged in the tread and check sidewalls for
+any cuts, cracks, or other signs of wear. Replace as
+necessary
+6.
+Always maintain the safety labels affixed to your
+vehicle in a good legible condition
+7.
+All signal lamps, buzzers, shields, guards and other
+protective safety devices must always remain in place
+and in good, proper working conditions
+8.
+The life span of Mahindra products depends on many
+factors. Improper use, abuse or harsh use in general
+may compromise the integrity of the vehicle and
+significantly reduce its life span. The vehicle is also
+subject to wear over a period of time. Please have
+your vehicle regularly inspected by an Authorised
+Mahindra Dealer. If the inspection reveals any damage
+or excessive wear, immediately replace or have the
+component serviced
+9.
+We recommend that you use only genuine parts
+supplied by Mahindra. The use of non-Mahindra parts
+will not be covered by warranty
+10.
+Never crawl under or be in close proximity to the
+vehicle when it is lifted off the ground (by a jack),
+unless the vehicle is properly supported with jack
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-9
+stands, wheel chocks and other appropriate safety
+devices
+11.
+Never attempt any repairs or adjustments to any
+component while the vehicle is in motion. Always turn
+off the ignition of the vehicle and keep the vehicle key
+away before performing any repairs or adjustments
+12.
+The vehicle identification plates are the only legal
+identification reference, hence it is necessary to keep
+them in good condition. Never modify data on the
+plates or remove them. The customer is responsible
+for any possible tampering with the plates, which will
+immediately void the warranty
+13.
+Do not attempt sharp turns, abrupt maneuvers, or
+other unsafe driving actions that can cause loss of
+vehicle control. When the vehicle is fully loaded, drive
+at a slow speed, especially when turning. Note that the
+center of gravity of the vehicle changes when the
+vehicle is fully loaded, and also if luggage is mounted
+on the roof carrier
+1.7 To Users of a Mahindra Vehicle
+When driving the vehicle after long periods of non-usage,
+you may experience a temporary drive disturbance. This is a
+characteristic of the tyres and there should be no reason for
+any concern. The condition should correct itself within 5-15
+km of driving. If the disturbance persists, have the vehicle
+checked by a Mahindra Authorised Dealer immediately.
+Driving and Alcohol: Your driving ability can be seriously
+impaired by alcohol even if the blood alcohol level is far
+below the legal minimum. Drunken driving is one of the
+most frequent causes of accidents.
+Never drink and drive. Drinking and driving may lead to an
+accident
+Driving and Drugs/Medication
+Your driving ability can be seriously impaired through the
+use of prescription or non-prescription drugs or medication
+(even cough syrup). If you are taking any sort of drug or
+medication, be sure that it will not affect your driving ability.
+General And Safety Information
+1-10
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Mobile Phones Warning
+Use of electronic devices such as mobile phones, handheld
+devices, computers, portable radios or other by the driver
+while driving is dangerous. In exceptional conditions, if use
+of a mobile phone is necessary, use a hands-free system to
+ensure that the hands are free to drive the vehicle. Even
+hands-free does not ensure distraction free drive. Please
+comply
+with
+the
+legal
+regulations
+in
+your
+country,
+concerning the use of communication equipment in vehicles
+.
+Driving Long Distances
+When you are driving over long distances, follow these tips
+so that you have a safe journey:
+•
+Take breaks at regular intervals
+•
+Lack of sleep or fatigue will impact your ability to drive
+safely
+•
+Exercise your eyes by shifting the focus of your eyes to
+different parts of the road
+•
+Use stimulating beverages such as coffee or tea
+•
+Relax and stay calm
+1.8 Mahindra Genuine Parts
+Mahindra uses high quality parts for building vehicles. In the
+event that any parts need replacement, we recommend that
+you use only Mahindra genuine parts.
+Non-Mahindra parts may effect the vehicle performance
+and will not be covered under Mahindra warranty.
+The warranty does not cover problems caused by using non
+genuine parts
+Any unauthorized modifications or alterations to this
+vehicle or failure to use appropriate specification and
+quality spare parts could seriously affect vehicle road
+worthiness and safety leading to an accident, resulting in
+serious injury
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-11
+1.9 Mahindra Genuine Accessories
+A wide selection of quality accessories is available through
+your Mahindra Authorised Dealer. These accessories have
+been specifically engineered to allow you to personalize
+your vehicle to suit your requirements and complement its
+style and aerodynamic appearance.
+Each accessory is made from high quality materials and
+meets
+Mahindra's
+rigid
+engineering
+and
+safety
+specifications. Every Mahindra accessory installed according
+to the Mahindra installation provisions comes with the
+respective accessory warranty.
+Consult your Mahindra Authorised Dealer for detailed
+information about accessories available for your specific
+model variant.
+For
+maximum
+vehicle
+performance
+and
+safety
+considerations, always keep the following information in
+mind:
+•
+The company shall not be liable / responsible for any
+damages / injuries, including consequential damages /
+injuries,
+resulting
+due
+to
+fitment
+of
+unauthorised
+aftermarket accessories and / or tapping / cutting wires
+in
+the
+wiring
+harness
+When
+adding
+accessories,
+equipment, passengers and luggage to your vehicle, do
+not exceed the total weight capacity of the vehicle or of
+the front and rear axle. Consult Mahindra Authorised
+Dealer for specific weight information
+•
+Bull bars and nudge guards are not recommended
+•
+Accessories causing any change in vehicle specifications
+like
+wheel
+rims,
+bull
+bars,
+etc.,
+may
+affect
+the
+performance of safety systems
+•
+Mobile communication systems such as two-way radios,
+telephones and theft alarms that are equipped with
+radio transmitters and installed in your vehicle should
+comply with the local regulations and should be installed
+only by your Mahindra Authorised Dealer they can
+potentially affect the vehicle performance.
+General And Safety Information
+1-12
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1.10 Vehicle Safety
+When leaving your vehicle unoccupied:
+•
+Always turn OFF the ignition before parking the vehicle
+•
+Do not leave any valuables in your vehicle. If you must
+leave something in your vehicle, hide them and securely
+lock all the doors
+•
+Close all the windows completely and lock all the doors
+•
+Please lock and take the key fob with you
+When Sleeping in Your Vehicle
+•
+Do not sleep in a parked vehicle with closed windows. In
+particular, if you stay or sleep in the parked vehicle and
+the air conditioner or heater turned on, you may
+suffocate to death
+Hazardous Materials: Do not store any flammable items or
+disposable lighters in the console box or other spaces. In
+hot weather, they can explode and cause a fire.
+Fire Extinguisher: For safety, we strongly recommend that
+you have fire extinguisher in your vehicle. Keep it ready for
+use at any time. Be familiar with how to use it
+Only class ‘ABC’ type fire extinguishers to be used.
+When Passing the Intersection or Railway Crossing
+When passing the intersection or railway crossing, stop the
+vehicle to check the safety and drive through carefully. If the
+vehicle is turned off in the middle of the intersection or
+railway crossing, get someone to help you and move the
+vehicle to a safe place quickly.
+Do Not Modify This Vehicle: If unauthorised modifications
+are made on the vehicle, the company is not liable for
+repairing the modified parts even during the term of
+warranty. Other part problems caused by modification are
+also
+not
+covered.
+Additionally,
+Mahindra
+shall,
+in
+no
+circumstance
+whatsoever,
+be
+liable
+for
+any
+damage,
+malfunctions,
+or
+safety
+risks
+resulting
+from
+such
+unauthorized modifications.
+•
+The vehicle you bought is equipped with a large number
+of precision parts that have passed through countless
+experiments and tests.
+•
+These parts are deeply and systematically interwoven.
+Therefore, if any part is modified or altered without
+authorization, it may underperform or cause critical
+damage to the vehicle and human life
+•
+Mahindra does not accept liability for any personal injury,
+death, or vehicle damage resulting from unauthorized
+modifications or the use of non-approved parts and
+accessories.
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-13
+Protecting Our Environment: As responsible citizens, all of
+us have an important role to play in protecting our
+environment.
+Judicious
+vehicle
+usage
+and
+ensuring
+hazardous
+waste
+disposal
+(including
+cleaning
+and
+lubrication fluids) are important steps towards this initiative.
+Body Repairs: In the event of a collision involving an electric
+vehicle, safety is paramount. Avoid contact with high voltage
+cables (orange colored), damaged battery components or
+leaking fluids, as these can be toxic or conductive.
+Be aware that airbags may deploy even after the vehicle is
+stationary,
+and
+high-voltage
+battery
+is
+automatically
+disconnected in severe collisions to reduce risks. Occupants
+should exit the vehicle immediately if it is safe to do so and
+move to a safe distance, avoiding re-entry unless absolutely
+necessary.
+After the collision, notify Roadside Assistance that an
+electric vehicle is involved, and do not attempt to charge the
+vehicle until it has been inspected by a qualified Mahindra
+technician.
+Only a flatbed is allowed for towing to prevent further
+damage, and have the vehicle towed to a Mahindra
+Authorised Dealer.
+1.11 Disclaimers
+1.11.1 Event Data Recorder (EDR)
+Note: EDR data is recorded by your vehicle only if a non-
+trivial crash situation occurs; no data is recorded by the EDR
+under normal driving conditions and no personal data (for
+example,
+name,
+gender,
+age,
+and
+crash
+location)
+is
+recorded. However, other parties, such as law enforcement,
+could combine the EDR data with person identifying data
+they routinely acquire during a crash investigation.
+1.11.2 Vehicle Telematics
+The vehicle is equipped with electronic modules that
+monitor and record data from various vehicle systems,
+including the motor, Autopilot components, Battery, braking
+and electrical systems.
+The electronic modules record information about various
+driving
+and
+vehicle
+conditions,
+including
+braking,
+acceleration, trip and other related information regarding
+your vehicle. These modules also record information about
+the vehicle’s features such as charging events and status,
+the
+enabling/disabling
+of
+various
+systems,
+diagnostic
+trouble codes, VIN, speed, direction and location.
+The data is stored by the vehicle and may be accessed, used
+and stored by Mahindra service technicians during vehicle
+General And Safety Information
+1-14
+© Copyright Mahindra Electric Automobile Ltd. 022025
+servicing or periodically transmitted to Mahindra wirelessly
+through the vehicle’s telematics system in compliance with
+Mahindra’s Privacy Policy.
+This data may be used by Mahindra for various purposes,
+including, but not limited to: providing you with Mahindra
+telematics services; troubleshooting; evaluation of your
+vehicle’s quality, functionality and performance; analysis
+and
+research
+by
+Mahindra
+and
+its
+partners
+for
+the
+improvement and design of our vehicles and systems; to
+defend Mahindra from legal action; and as otherwise may
+be required by law or any judicial authority, including any
+tribunals. In servicing your vehicle, Mahindra can potentially
+resolve issues remotely simply by reviewing your vehicle’s
+data log.
+Mahindra’s telematics system, wirelessly transmits vehicle
+information to Mahindra on a periodic basis. The data is
+used as previously described and helps ensure the proper
+maintenance of your vehicle. Additional features may use
+your
+vehicle’s
+telematics
+system
+and
+the
+information
+provided, including features such as charging reminders,
+software updates, and remote access to, and control of,
+various systems of your vehicle.
+Mahindra does not disclose the data recorded in your
+vehicle to any third party except when:
+•
+An agreement or consent from the vehicle’s owner (or
+the leasing company for a leased vehicle) is obtained.
+•
+Officially
+requested
+by
+the
+police
+or
+other
+judicial
+authorities.
+•
+Used as a defense for Mahindra in legal proceedings.
+•
+Ordered by a court of law including a tribunal.
+•
+Used for research purposes without disclosing details of
+the vehicle owner or identification information.
+•
+Disclosed to a Mahindra affiliated company, including
+their successors or assigns, or our information systems
+and data management providers.
+•
+To
+access
+the
+Privacy
+Policy
+please
+visit
+www.
+mahindraelectricsuv.com.
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-15
+1.11.3 Data Sharing
+Note: Although BE6 GPS is associated with driving and
+operation, as discussed in this document, Mahindra does
+not record or store vehicle-specific GPS information, except
+the location where a crash occurred.
+Consequently, Mahindra is unable to provide historical
+information
+about
+a
+vehicle's
+location
+(for
+example,
+Mahindra is unable to tell you where parked/traveling at a
+particular date/time).
+To
+access
+the
+Privacy
+Policy
+please
+visit
+www.
+mahindraelectricsuv.com.
+1.11.4 Feature Availability Statement
+Note: In view of our policy of continuously improving our
+products, we reserve the right to alter specifications,
+designs or features without prior notice and without liability.
+We recommend you to refer the Variant Matrix in the Brand
+official website or contact the nearest Authorised Mahindra
+Dealer for the list of features applicable to your vehicle.
+The vehicle's software and security measures are subject to
+ongoing development. Similar to computers and mobile
+device
+operating
+systems,
+the
+software
+and
+security
+features of the vehicle might also receive updates from time
+to time.
+1.12 Software Update
+For the latest software download and install procedure refer
+Vehicle Manual
+1.13 Me4U
+The Me4U mobile app offers real-time information about
+your vehicle's location and status, while also enabling you to
+control certain vehicle features and monitor battery health,
+all in a secure manner. Available for both Android and iOS
+platforms,
+it
+provides
+a
+seamless
+connected
+vehicle
+experience. For access to connected vehicle features, please
+use the Me4U app.
+Kindly use the Me4U mobile app for connected vehicle
+related features.
+General And Safety Information
+1-16
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1.13.1 KYC ( Know Your Customer) Registration
+To activate connected vehicle features including access to
+Me4U
+mobile
+App,
+KYC
+process
+must
+be
+completed
+successfully.
+•
+Customer
+must
+produce
+valid
+mobile
+number,
+communication address & email ID for KYC registration.
+for registration purpose.
+•
+Preferred
+mobile
+number
+entered
+during
+the
+KYC
+process will be the login for Me4U mobile app.
+•
+After
+successful
+KYC
+registration,
+customer
+must
+download the “Me4U” mobile application from Google
+Play store or iOS app store.
+– Subscription for the connected vehicle is free for a
+specified period, depending on the model variant. Post
+expiry of the free subscription, the same can be renewed by
+the user for an extended period from App store.
+•
+In the event that the customer does not renew the
+connected vehicle subscription, then the customer will
+only have access to the following features:
+FEATURES
+DESCRIPTIONS
+SOS-E-Call
+By pressing the SOS icon or In case of
+accident, Emergency call will be triggered from
+vehicle to the 108 Emergency service, SMS will
+be sent to Me4U app & Emergency contacts
+along with the current vehicle location.
+RSA
+By pressing the RSA icon, a call is triggered to
+the Roadside Assistance provider’s helpline.
+Ask Mahindra
+By pressing the ASK Mahindra icon, a call is
+triggered to the dedicated Mahindra support
+center. This feature helps the customer to
+connect with Mahindra executive for any
+queries/ support related to vehicle.
+External
+Charger
+Malfunction
+Alert
+An alert will be sent to the mobile app if the
+external charger is faulty.
+Low
+Charge
+Alert
+Notify the user through the mobile app when
+the charge is low. Charge at the earliest.
+LV
+Battery
+Drain Alert
+Alert the user in mobile app when LV battery
+is getting discharged continuously.
+Contact Authorised Mahindra Dealer for
+assistance.
+Note: Mahindra may, at its sole discretion, provide additional features
+and/ or restrict access to the aforesaid features, in the event customer
+does not renew the connected vehicle subscription
+For a complete list of connected car features, please refer to the more
+detailed Vehicle Manual
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1-17
+1.13.2 Login & Registration
+Follow the steps below for Login and Registration:
+•
+You can select sign up option from login page which
+redirects to sign up page
+•
+Then enter registered Mobile number given in KYC form
+for connected services and click on Next
+•
+OTP with a validity will be sent to the sent to the same
+mobile number
+•
+If OTP is not received, you can request the OTP again by
+clicking on "Resend OTP"
+•
+After entering valid OTP, click on “Verify My account”
+•
+On successful verification you will be notified with a
+message " Account Verified"
+•
+You will be directed to "Terms and Condition" with "I
+Agree" option on successful authentication
+General And Safety Information
+1-18
+© Copyright Mahindra Electric Automobile Ltd. 022025
+1.13.3 Forgot/Change Password and Change Pin
+This Feature allows the existing user to change Password
+and change PIN.
+In case the user forgets the Password and PIN below flow
+helps to create PIN and password.
+Forgot your password
+In case you forget your password:
+•
+Tap on the Forgot Password? link from login page
+•
+In forgot password page, enter the registered mobile
+number for connected services and click on Generate
+OTP
+•
+Enter the OTP and click on Submit button
+•
+Enter New Password and Confirm Password and tap on
+Save button
+Change your password
+To Change your password on app if you are already logged
+in:
+•
+Tap on the top Left corner from home screen to go to
+hamburger menu
+•
+Click on profile and tap on the profile settings Change
+Password
+•
+Tap
+on
+the
+Access
+protection
+and
+select
+Change
+password
+•
+Page will open with Old password, New password and
+Confirm password fields
+•
+Fill all the required field and tap on save button
+General And Safety Information
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2-1
+2 Overview
+2.1 Front Overview
+A
+Turn Indicator Sequential /DRL/Position
+B
+Bonnet
+C
+Front Windshield
+D
+Mars Roof*
+E
+ORVM Side Repeater
+F
+Electric Flush Door Handle*
+G
+Rear Door Handle
+H
+Charge port Lid
+I
+Carpet Lamp*
+J
+Head Lamp (Low/High)
+K
+DRL/Position*
+L
+Fog/ Cornering*
+M
+Front Tow Hook
+N
+Booster Lamp*
+O
+Front Camera*
+* – If equipped as per variant
+Overview
+2-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2.2 Rear Overview
+A
+Rear Windshield
+B
+Tailgate Tail Lamp
+C
+Rear Tow Hook
+D
+Reverse Lamp
+E
+Rear Camera
+F
+Rear Turn Indicator/Stop Lamp
+G
+Body side Tail Lamp*
+H
+Reverse Parking Assist Sensors*
+* – If equipped as per variant
+Overview
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2-3
+2.3 Interior Overview
+Overview
+2-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+A
+Side Vents
+K
+Hood Open Lever
+B
+Passenger Airbag
+L
+Dual – Wireless Charger*
+C
+Center Vents
+M
+“P” Mode
+D
+Center Information Display
+N
+Intelli Command Centre
+E
+Steering-Audio
+O
+Rear Vents
+F
+Steering Wheel
+P
+Center Console Storage
+G
+Driver Information Display
+Q
+Key Fob Try
+H
+VisionX Projector*
+R
+Start/Stop Button
+I
+Steering - ADAS
+S
+USB Ports
+J
+Driver Side Switch Bank
+T
+Shift By Wire Lever
+* – If equipped as per variant
+Overview
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2-5
+2.4 Steering Controls overview
+A
+Voice
+I
+Boost
+B
+Regen +
+J
+LCF/RESUME*
+C
+MODE
+K
+ACC SET +/-
+D
+ACC/CRUSIE SET*
+L
+Toggle - SEEK UP/DOWN
+E
+Regen –
+M
+Call Disconnect
+F
+Menu
+N
+One pedal
+G
+Menu Toggle up/down
+O
+Call Connect
+H
+Time Gap/ENTER*
+P
+Toggle-VOLUME +/- PUSH-MUTE
+* – If equipped as per variant
+MODE
+OK
+MENU
+RESUME
+B
+A
+I
+N
+H
+G
+M
+J
+K
+L
+O
+P
+E
+D
+F
+C
+Type 1
+MENU
+MODE
+OK
+B
+A
+I
+N
+H
+G
+M
+J
+K
+L
+O
+P
+E
+D
+F
+C
+Type 2
+Overview
+2-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2.5 Driver Information Display Overview
+Overview
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2-7
+Overview
+2-8
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2.6 Technical Specifications
+ELECTRIC POWER TRAIN SYSTEM
+Motor Type
+Interior Permanent Magnet Synchronous motor (IPMSM)
+Maximum Power
+170 kW / 210 kW
+Maximum Torque
+380 Nm
+HV Battery Capacity
+59 Kwh & 79 kWh
+Nominal Voltage
+307 V (59 kWh) / 409 V (79 kWh)
+Charger
+EVSE : 3 kW, Air Cooled
+Wall box : 7.2 kW & 11 kW, Air Cooled
+On Board Charger
+11 kW, Liquid Cooled
+TRANSMISSION
+Type
+Transmission (Single Speed)
+STEERING
+Type/Description
+Electric Power Steering (EPS)
+BRAKES
+Brake Type
+Hydraulic Brakes with Integrated Electronic Booster assisted
+with ABS and ESP
+Front/Rear
+Disc
+Parking Brake
+Electric Parking Brake (EPB)
+Overview
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2-9
+SUSPENSION
+Type
+Front: Independent Suspension with I-LINK technology and
+Semi-active MacPherson Strut*
+Rear: Independent Suspension with 5 Link and Semi-active
+shock absorber*
+WHEELS & TYRES
+Tyre Size
+245/60 R18 Opt: 245/55 R19; 245/50 R20
+Temp. Spare Tyre
+T135/80/R18
+Wheel Rim
+8Jx18 Opt: 8Jx19; 8Jx20
+Spare wheel: 3.5Jx18
+Laden Tyre Pressure
+Front & Rear: 36 Psi, Temp. Spare Wheel: 60 Psi
+-
+ELECTRICAL SYSTEM
+System Voltage
+12 V
+Battery Rating
+55 Ah
+* - If Equipped
+Overview
+2-10
+© Copyright Mahindra Electric Automobile Ltd. 022025
+2.7 Dimensions
+2.8 Vehicle Identification Number (VIN)
+VIN Plate Location: Vehicle
+Identification Number (VIN)
+is the legal identity of your
+vehicle.
+The
+vehicle
+identification
+number
+is
+stamped on the VIN Table
+riveted on to the bottom of
+the B-Pillar on the driver
+side. It is illegal to remove
+or alter the VIN
+VIN Punch Location: VIN
+number
+is
+also
+punched
+below the co–driver seat.
+Never modify data on the plates or remove them. It is illegal
+to remove or alter the numbers in the VIN plate.
+Overview
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3-1
+3 Convenience System
+3.1 Doors
+Doors can be unlocked using the following methods
+•
+Using Key fob
+•
+Using Key Blade
+Using Key fob - Press the unlock button on the key fob to
+activate the central door locking system and unlock the
+doors.
+Using Key Blade – If the key fob battery fails the door can
+be locked/unlocked manually using key blade.
+To access the key, push the handle slightly, allowing it to
+pop up. Once it does, pull it firmly outward, grip it, and
+continue pulling to gain access to the key.
+The key blade is bidirectional; you can insert it into the
+keyhole either way. Turn the key anti-clockwise to lock or
+clockwise to unlock the door.
+Convenience System
+3-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3.2 Child Safety Rear Door lock
+Your vehicle is equipped with left and right-side child safety
+rear door locks.
+A:Unlock
+B: Lock
+If the rear doors are not operable from inside, ensure that
+the child safety locks have been disabled.
+Mahindra strongly recommends that the child safety rear
+door locks be used whenever there are children travelling in
+the rear seat.
+3.3 Open /Close Tailgate
+To open the tailgate in the below types
+1. Driver side Switch Bank
+Short
+press
+the
+tailgate
+interior switch to open the
+tailgate
+2. Remote
+3. Tailgate Open Button
+Press the Tailgate release
+button for 3 second on the
+remote to open and close
+the tail gate.
+To open the tailgate, press
+the switch located on the
+inner side of the tailgate
+door
+A
+B
+Convenience System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3-3
+4. Kick Sensor
+Kick sensor position is in
+left.
+To close the tailgate:
+To close the tailgate, press
+the tailgate close button.
+3.3.1 Tailgate Emergency Release Lever
+Your vehicle is equipped with the tailgate emergency
+release lever located on the bottom of the tailgate. If
+someone
+is
+inadvertently
+locked
+in
+the
+luggage
+compartment, they can use the tailgate emergency release
+lever to open the tailgate from inside.
+1. Open the cover as shown
+image.
+To unlock the tailgate, push
+the
+tailgate
+emergency
+release lever inside the trim
+panel to right side and push
+the tail gate to open.
+Convenience System
+3-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3.4 Frunk Removal
+X
+1. Pull the lever twice to release the bonnet.
+2.  Lift the Bonnet.
+3.  Pull and lift the beauty cover from
+the snap locks by hand.
+4. Using 10 mm spanner to remove the bolts 
+from the frunk.
+5.  Lift the frunk and disconnect the electrical 
+connector from frunk lamp.
+6. Take out the frunk from the vehicle.
+X2
+Hood
+Caution: Avoid applying pressure on the red-marked areas, as this may cause dents or paint damage to the hood or fender.
+Convenience System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3-5
+3.5 Charging - Lid Opening and Closing
+To open the charging lid:
+•
+Press the unlock button on the Key fob/Mobile App/
+Central Door Lock (CDL) to unlock the vehicle.
+•
+Gently press the charging lid once to release and open it.
+•
+After completion of charging, make sure to close the lid.
+3.5.1 Charging lid Manual Override
+Manual override cable is located on the left-hand side of the
+rear trim. If unable to Open the Charging lid, follow these
+steps to open the Charging lid door.
+Remove the safety cover.
+To release the charging lid
+door
+when
+the
+electrical
+actuator is not functioning,
+pull the release cable. By
+pulling the cable, you can
+unlock the door to access
+the charging port without
+relying
+on
+the
+electrical
+system.
+Do not pull the release cable with high force or pull
+excessively as it may damage the locking mechanism.
+Convenience System
+3-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3.6 Luggage Compartment
+Frunk:
+A
+Frunk
+(short
+for
+"front
+trunk")
+is
+a
+front
+luggage
+compartment available in BE 6. It takes advantage of the
+absence of a traditional internal combustion engine under
+the hood, providing additional storage space.
+Frunk is accessible via the hood, which can be opened
+manually through hood open lever
+The
+frunk
+serves
+as
+an
+extra
+storage
+area,
+supplementing
+the
+rear
+trunk
+or
+other
+compartments
+in
+the
+vehicle
+It can be used for carrying
+smaller items, groceries, or
+tools
+that
+need
+quick
+access.
+Rear Luggage Compartment:
+The rear trunk can be opened for use as a luggage
+compartment. For additional storage, the second-row seats
+can be folded to create more space.
+Convenience System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3-7
+3.7 Smart Key Remote
+•
+To prevent relay attacks, store your key fob in an RFID-
+blocking pouch when not in use.
+•
+Do not leave the key fob inside the vehicle, as it may lead
+to unintended unlocking or theft.
+3.7.1 To Lock and Arm the Vehicle
+Press the LOCK button on the key fob for locking and
+arming the vehicle.
+Hazard lamps flash once - if all the doors in the vehicle are
+locked and armed successfully using keyfob.
+Hazard lamps flash five times along with an alarm - if
+any of the doors (including bonnet) in the vehicle are open.
+If alarm is in mute condition only the Hazard lamps will
+flash. To activate alarm, press lock and unlock button
+together. Now both Hazard lamps flash and alarm will
+work.
+Lock
+Unlock
+Indicator
+Park Out
+Park IN
+Remote Cooling
+Tailgate Open
+Convenience System
+3-8
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3.7.2 Unlock and Disarm the Vehicle
+Press the UNLOCK button on the RKE key fob to unlock and
+disarm the vehicle.
+Hazard lamps flash twice - if there was no theft attempt
+during the lock (armed) period.
+Front DRL & Tail lamps flash twice (If equipped) - if there
+was no theft attempt during the lock (armed) period.
+Hazard lamps flash four times along with an alarm - if
+there was a theft attempt during the lock (armed) period.
+Upon the remote lock, if any of the doors are not closed
+properly or left open, the hazard lamps will flash five times
+to indicate the same.
+3.7.3 Remote Cooling
+Your vehicle is equipped with a remote cooling function that
+can be activated using the key fob. This feature allows you
+to cool down the interior of the vehicle remotely, which can
+be especially useful in hot weather.
+Press the remote cooling
+button on the key fob. The
+vehicle’s cooling system will
+activate and begin lowering
+the cabin temperature.
+This remote cooling system is designed for added comfort,
+allowing
+the
+vehicle
+to
+reach
+a
+more
+comfortable
+temperature before you enter.
+3.7.4 Remote Key Status LED
+LED present on Remote would be indicating the user about
+the Remote lock/unlock/Tailgate button input.
+Convenience System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3-9
+3.8 Switches
+3.8.1 Control Switches
+The driver door switch bank is located on the driver door
+armrest/handle and controls and the various functions:
+A
+Right ORVM Select Switch
+B
+ORVM Fold
+C
+Driver Door Window Switch
+D
+Rear RH Window Switch
+E
+Door Center Locking Switch
+F
+Window Lock Switch
+G
+Rear LH Window Switch
+H
+Co–driver Door Window Switch
+I
+ORVM Adjustment Switch
+J
+Left ORVM Select Switch
+3.8.2 Roof Console Switches
+A
+Roof Lamp Door Auto
+Mode
+E
+360 deg Camera
+B
+Tailgate Open/Close
+Switch
+F
+SOS calling
+C
+Hazard Switch
+G
+Mars Roof Switch (If
+equipped)
+D
+Auto Park Assist
+Convenience System
+3-10
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3.8.3 Driver Side Switch Bank
+Driver side switch bank is located on the right side
+instrument panel below the right-side AC air vents.
+The following switches are available in the driver side switch
+bank:
+A
+HDC ON
+D
+Tailgate (Open/Close)* / VESS*
+B
+VisionX*
+E
+AUTO HOLD
+C
+ESC OFF
+F
+Charge Port Lid Open
+*-if equipped
+3.9 Intelli Command Center Switch (ICC)
+Intelli Command Center Switch (ICC) is located on the centre
+console near the gear shift lever.
+It is used to control the infotainment screen.
+A
+Climate Control
+B
+Rotary Knob (Clockwise/Anti-clockwise:
+Increase/Decrease or Up/Down)
+C
+Home/Back
+D
+My Vehicle
+E
+Enter/OK
+F
+Volume Control
+Convenience System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3-11
+3.10 Mobile Charging
+Front Row USB Type C
+Port
+Second row - USB Type C
+Ports
+A: LH - Fast Charge-65W
+B: RH - Data and Charge
+(15W) (if equipped)
+A
+65W
+'C'
+type
+charging
+port is available on both the
+rear of the front seats.
+12V Power Outlet
+The 12V Power outlet
+socket is available near the
+seat folding remote lever.
+Wireless Mobile Charging
+(If equipped)
+The vehicle is equipped
+with two wireless mobile
+charging units. These are
+located below the front of
+the USB ports.
+The wireless charging system is designed for one smart
+device confirming to QI standard only. Please refer to your
+smartphone’s
+user
+manual
+or
+the
+website
+of
+the
+manufacturer to check whether your smartphone supports
+QI wireless charging.
+If any metallic object such as coins is placed between the
+wireless charger and the smartphone, the charging will be
+stopped & a warning “Foreign object detected’ will be
+displayed on the cluster. Kindly remove the coin or the
+metallic object. This is done to stop heating of the metallic
+object which might hurt the driver or the passengers.
+Do not place misalign your phone from the charging pad. It
+may not charge or give a warning on the cluster.
+Do not keep any Debit/Credit card between the phone & the
+charger.
+Convenience System
+3-12
+© Copyright Mahindra Electric Automobile Ltd. 022025
+3.11 Electric Adjustable ORVM (If equipped)
+The electric exterior mirror adjustment switch is located on
+the driver door trim/handle. The switches on it can be used
+to select the left/right mirror and also to adjust the
+respective mirror.
+Fold Function: To fold ORVM assembly, when the ignition is
+on, press the button once to fold the mirrors and press it
+again to unfold them
+ORVM folds automatically when:
+•
+The doors are locked with the remote from outside the
+vehicle
+For Auto fold function, the switch should be in neutral
+position.
+Unfold Function: To unfold the ORVM assembly, select the
+respective side switch (R or L), then press mirror fold switch
+to fold ORVM when ignition is in ON condition.
+ORVM unfolds automatically when:
+•
+Mirror is already in folded condition and ORVM switch is
+neutral condition and IGN is turned ON
+ORVM Memory functions and settings are provided in Seats
+and Safety Chapter.
+Convenience System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-1
+4 Seats and Safety
+4.1 Important Safety Precautions
+Always wear your seat belt
+All occupants, including the driver, should always wear their
+seat belt no matter how short the trip is, in order to
+minimize the risk of severe injury in the event of a crash.
+Failure to wear a seat belt significantly increases the risk of
+serious injury or fatality in an accident.
+In an accident, an unbelted passenger can be projectiled,
+and
+can
+cause
+serious
+injury
+to
+himself
+or
+another
+passenger.
+Pregnant
+women
+must
+also
+wear
+seat
+belts
+after
+consultation with the doctor for specific recommendations.
+Airbag Hazards
+Airbags are critical safety devices, but they can lead to
+hazards if mishandled or improperly used. Airbags are
+supplementary safety systems and are not a substitute for
+seat belts. Rapid deployment with significant force can
+cause injuries, especially to occupants seated too close,
+unbelted, or improperly positioned, including children and
+shorter adults.
+Chemical exposure from deployment residues can irritate
+the skin, eyes, and respiratory system. To minimize hazards,
+always use seat belts, maintain proper seating positions,
+deactivate
+airbags
+during
+servicing,
+and
+follow
+safety
+protocols. Never place a rear-facing child seat in the front
+passenger seat unless the airbag is deactivated. Doing so
+can result in serious injury or death if the airbag deploys.
+Driver distraction
+Driver
+distraction
+occurs
+when
+a
+driver’s
+attention
+is
+diverted from the primary task of operating the vehicle,
+compromising safety. Driver distraction can lead to loss of
+vehicle control, collisions, serious injury, or death. It can
+stem from visual distractions like looking at a phone,
+manual distractions such as adjusting controls, or cognitive
+distractions like daydreaming or conversing.
+Common sources include mobile devices, infotainment
+systems, eating, and external events. Distracted driving
+increases the risk of accidents, as reaction times slow and
+situational awareness diminishes. To mitigate this risk,
+drivers should minimize in-vehicle distractions, use hands-
+free devices sparingly, and maintain focus on the road to
+ensure their safety and that of others.
+Mahindra is not liable for accidents resulting from driver
+distraction or failure to follow safe driving practices.
+Seats and Safety
+4-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Control your speed
+Controlling your speed is essential for safe driving, as
+excessive speed reduces reaction time, increases stopping
+distance, and magnifies the severity of collisions. Adhering
+to speed limits ensures better vehicle control, especially in
+adverse weather, heavy traffic, or around curves and
+intersections.
+Always adhere to posted speed limits and adjust speed
+based on weather, road conditions, and traffic flow. Driving
+at a safe and appropriate speed helps accommodate
+unexpected hazards, such as pedestrians or sudden stops,
+and improves fuel efficiency. Always adjust your speed
+based on road conditions, visibility, and traffic flow to
+protect yourself, passengers, and others on the road.
+Mahindra shall not be liable / responsible for any damages /
+injuries,
+including
+consequential
+damages
+/
+injuries,
+resulting from accidents caused by speeding or reckless
+driving.
+4.2 Child Restraint System (CRS)
+For complete instructions on installation and use of the CRS,
+please
+refer
+to
+the
+manual
+provided
+by
+the
+CRS
+manufacturer in conjunction with the Vehicle Manual.
+How to use the ISOFIX Lower Latch Anchor/ISOFIX Rods
+1.
+ISOFIX Marking
+2.
+Latch anchor/ISOFIX rod
+•
+The ISOFIX lower latch anchors (rods) are located in the
+rear seat’s bottom position. Their locations are shown in
+the illustration
+•
+Insert the child restraint attachments into the ISOFIX
+lower latch anchors (rods) until it clicks. Refer to the Child
+seat installation manual.
+•
+Do not use the seat belt for installing the ISOFIX child
+restraint
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-3
+ISOFIX system is a standardized method of fitting child seats
+that eliminates the need to use the standard adult Seat belt
+to secure the seat in the vehicle. This enables a more secure
+and positive location with the added benefit of easier and
+quicker installation.
+•
+When using the “ISOFIX” lower latch system (rod), all
+unused vehicle rear seat belt metal latch plates or tabs
+must be latched securely in their seat belt buckles and
+the seat belt webbing must be retracted behind the child
+restraint to prevent the child from reaching and taking
+hold of un-retracted seat belts. Unlatched metal latch
+plates or tabs may allow the child to reach the un-
+retracted seat belts which may result in strangulation
+and a serious injury or death to the child in the child
+restraint.
+•
+Child restraint anchorages are designed to withstand
+only
+those
+loads
+imposed
+by
+correctly-fitted
+child
+restraints. Under no circumstances are they to be used
+for adult seat belts, harnesses or for attaching other
+items or equipment to the vehicle
+How to use the Top Tether/Rear Anchor
+There are two top tether
+rods/rear anchors on the
+seat base back side of the
+rear row front facing seats.
+1.
+Remove
+the
+headrest
+from the rear row seat
+2. Place the child restraint
+on the rear row seat
+3. Connect the tether connector in child restraint to the top
+tether rod/ rear anchor. Securely tighten the child restraint
+by adjusting the webbing of the child restraint system (CRS)
+tether connector. Follow the clear instructions provided in
+the CRS manual
+•
+The top-tether/ rear anchor is the supplemental device to
+secure the child restraint system after engaging it by the
+ISOFIX rod/lower latches. Therefore, do not secure the
+child restraint system only with the seat back anchors.
+The increased load may cause the hooks or anchors to
+break, causing serious injury or death.
+•
+If a child restraint is not properly secured to the vehicle
+and a child is not properly restrained in the child
+Seats and Safety
+4-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+restraint, the child could be seriously injured or killed in
+a collision. Always follow the instructions provided by the
+child restraint manufacturer for installation
+•
+Make sure the latches of the child restraint system are
+Firmly latched to the ISOFIX rod/lower latches. In this
+case, you can hear the “click” sound/ latch indications
+provided on seat.
+•
+Incorrectly installed child restraint system may cause an
+unexpected personal injury. Additionally, a loose or
+improperly fitted child seat may not provide adequate
+protection.
+•
+Child restraint anchorages are designed to withstand
+only those loads imposed by correctly fitted child
+restraints and must never be used to secure other
+objects, equipment, or adult passengers. Misuse may
+cause serious injury or death.
+•
+The tether strap may not work properly if attached
+somewhere other than the correct top tether rod/rear
+anchor provided on seat back.
+•
+Don’t put the top tether strap over the head restraint of
+rear row seat which is not the correct method and may
+cause risk.
+•
+Rock the child restraint to check if it is securely installed.
+Refer to instructions provided by the manufacturer of the
+child restraint.
+•
+Do not install the child restraint of such size if it hinders
+the operations of the front seat and causes problems to
+the front occupants.
+•
+Never place a rear-facing child restraint in the front
+passenger seat unless the airbag is deactivated. Airbag
+deployment can cause serious injury or death to a child.
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-5
+Table of Information on Child Restraint Systems (CRS) Using The Seat Belt
+Mass group
+Restraint
+Device Figure
+Seating position
+Mounting
+method of
+vehicle
+Passenger Seat
+Second Row
+Third Row
+Activated front
+Passenger
+Airbag
+Deactivated
+front
+Passenger
+Airbag
+Left
+Cen-
+tre
+Right
+Left
+Right
+Group 0
+Up to 10 kg
+Rear Facing
+Child Seat
+X
+U
+U
+X
+U
+X
+X
+3 - Point Seat
+Belt
+Group 0+
+Up to 13 kg
+Rear Facing
+Child Seat
+X
+U
+U
+X
+U
+X
+X
+3 - Point Seat
+Belt
+Group I
+9 to 18 kg
+Forward
+Facing Child
+Seat
+U
+X
+U
+X
+U
+X
+X
+3 - Point Seat
+Belt
+Group II
+15 to 25 kg
+Booster Seat
+U
+X
+U
+X
+U
+X
+X
+3 - Point Seat
+Belt
+Group III
+22 to 36 kg
+Booster Seat
+U
+X
+U
+X
+U
+X
+X
+3 - Point Seat
+Belt
+Y4C048
+Y4C049
+TYPEA 
+Y4C050
+Y4C051
+TYPE B
+Seats and Safety
+4-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Table of Information on Child Restraint Systems (CRS) Using ISOFIX & Top Tether
+Mass group
+Restraint
+Device Figure
+Seating position
+Mounting
+method of
+vehicle
+First Row
+Second Row
+Third Row
+Left
+Left
+Centre
+Right
+Left
+Right
+Group 0 Up to
+10 kg
+Rear Facing
+Child Seat
+X
+IU
+X
+IU
+X
+X
+ISOFIX & Top
+Tether
+Group 0+ Up to
+13 kg
+Rear Facing
+Child Seat
+X
+IU
+X
+IU
+X
+X
+ISOFIX & Top
+Tether
+Group I 9 to 18
+kg
+Forward Facing
+Child Seat
+X
+IU/IUF
+X
+IU/IUF
+X
+X
+ISOFIX & Top
+Tether
+Group II 15 to
+25 kg
+Booster Seat
+X
+IUF
+X
+IUF
+X
+X
+ISOFIX & Top
+Tether
+Group III 22 to
+36 kg
+Booster Seat
+X
+IUF
+X
+IUF
+X
+X
+ISOFIX & Top
+Tether
+Y4C048
+Y4C049
+TYPEA 
+Y4C050
+Y4C051
+TYPE B
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-7
+Table of Information on ISOFIX Child Restraint Systems Installation Suitability for Various ISOFIX Positions
+Table of Vehicle Handbook Information on ISOFIX Child Restraint Systems Installation Suitability for Various ISOFIX
+Positions
+Mass group
+Size Class
+Fixture
+Vehicle ISOFIX Positions
+Rear outboard
+Carry cot (Newborn Baby)
+F
+ISO/L1
+X
+G
+ISO/L2
+X
+Group 0 : up to 10 kg (~9 months)
+E
+ISO/R1
+IU
+Group 0 +: up to 13 kg (~0 – 2 years)
+E
+ISO/R1
+IU
+D
+ISO/R2
+IU
+C
+ISO/R3
+IU
+Group I 09 to 18 kg (~9 months – 4 years)
+D
+ISO/R2
+IU
+C
+ISO/R3
+IU
+B
+ISO/F2
+IUF
+B1
+ISO/F2X
+IUF
+A
+ISO/F3
+X
+Y4C048
+Y4C049
+TYPEA 
+Y4C050
+Y4C051
+TYPE B
+Seats and Safety
+4-8
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Key of letters be inserted in the above table
+U: Suitable for “Universal” category restraint approved for
+use in this mass group
+UF:
+Suitable
+for
+forward-facing
+“Universal”
+category
+restraints approved for use in this mass group
+IUF: Suitable for ISOFIX forward child restraint systems of
+universal category approved for use in this mass group
+L: Suitable for particular child restraints given on attached
+list.
+These
+restraints
+may
+be
+of
+the
+“semi-universal”
+categories
+IL: Suitable for particular ISOFIX child restraint systems
+(CRS). These CRS may be are those of the ‘specific vehicle’,
+‘restricted’ or ‘semi-universal’ categories
+IU: Suitable for using rearward facing child restraint system
+with ISOFIX & Top-tether (or) ISOFIX Base with Support leg
+X: Seat position not suitable ISOFIX child restraint systems in
+this mass group and/or this size class
+A
+-
+ISO/F3:
+Full-Height
+Forward-Facing
+toddler
+Child
+Restraint System (height 720mm)
+B - ISO/F2: Reduced-Height Forward-Facing toddler Child
+Restraint System (height 650mm)
+B1 - ISO/F2X: Reduced-Height Second Version Back Surface
+Shape
+Forward-Facing
+toddler
+Child
+Restraint
+System
+(height 650mm)
+C - ISO/R3: Full-Size Rearward-Facing toddler Child Restraint
+System
+D - ISO/R2: Reduced-Size Rearward-Facing toddler Child
+Restraint System
+E - ISO/R1: Infant-Size Rearward-Facing Child Restraint
+System
+F -ISO/L1: Left Lateral Facing position Child Restraint System
+(carry-cot)
+G - ISO/L2: Right Lateral Facing position Child Restraint
+System (carry-cot)
+Use the manufacturer recommended Child Restraint System
+(CRS) and locations to fit in vehicle. Please read the
+installation instructions provided in manual carefully before
+use.
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-9
+Anchorage Location : Child restraint anchor fittings are
+installed at the points as shown in the figure.
+Unrestrained infants and small children could be injured
+•
+Never transport them unless they are properly restrained
+•
+Use restrained system which meet safety standard
+•
+Follow directions provided by the manufacturer
+Warning for Child Restraint
+•
+Use only the approved Child Restraint System (CRS) for
+better safety of your child.
+•
+Mahindra is not responsible for the personal injury and
+property damage due to the defect of child restraint
+system.
+•
+Use the proper type of child restraint system suitable for
+the weight and size for your baby.
+•
+Use the child restraint system at recommended seating
+location only and follow the instructions.
+•
+Child restraint has 5 categories based on the weight as
+below:
+1
+GROUP 0 : 0 ~ 10 KG
+4
+GROUP II : 15 ~ 25 KG
+2
+GROUP 0 + : 0 ~ 13 KG
+5
+GROUP III : 22 ~ 36 KG
+3
+GROUP I : 9 ~ 18 KG
+•
+Group 0 & 0 + : Rear-facing child restraint fitted on the
+rear seat (use of ISOFIX with Base & Support Leg is
+recommended).
+•
+Group I: Forward-facing child restraint fitted on the rear
+seat (use of ISOFIX & Top Tether is recommended).
+•
+Group II & III: Booster seat fitted on the rear seat with
+seat
+belt
+fastened.
+Always
+follow
+the
+installation
+procedure
+and
+use
+instructions
+provided
+by
+the
+manufacturer of the booster seat.
+Seats and Safety
+4-10
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Cautions for ISOFIX Seat usage
+•
+The anchor provided on rear seat base back is the
+supplemental device to secure the child restraint system
+after engaging it by the lower latches. Therefore, do not
+secure the child restraint system only with the seat back
+anchors. The increased load may cause the hooks or
+anchors to break, causing serious injury or death.
+•
+If a child restraint is not properly secured to the vehicle
+and a child is not properly restrained in the child
+restraint, the child could be seriously injured or killed in a
+collision. Always follow the instructions provided by the
+manufacturer for installation.
+•
+Make sure the latches of the child restraint system are
+latched to the lower latches. In this case, you can hear
+the “click” sound and color indications.
+•
+The child restraint seat strap may not work properly if
+attached somewhere other than the correct seat back
+anchor provided on the rear seat base back side behind
+the seat carpet. Follow the instructions provided on the
+seat back for the details of the anchor location.
+•
+Make sure that the child restraint system is firmly
+secured by rocking it in different directions.
+•
+Incorrectly installed child restraint system may cause an
+unexpected personal injury.
+4.3 Supplemental Restraint System (SRS)
+A: Curtain Airbag
+B: Side Airbag
+C: Passenger Airbag
+D: Driver Airbag
+E: Knee Airbag
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-11
+4.3.1 Airbag Deployment
+The images shown in this section are for illustrative purpose
+only. They may not look like your model/variant or vehicle.
+Front Airbag
+Front airbag are designed
+to
+inflate
+in
+a
+frontal
+collision depending on the
+intensity, speed or angles of
+impact of the front collision.
+4.3.2 Airbag Non-deployment
+Impacts below a pre-determined threshold level may not
+cause the airbag to deploy in the following cases:
+Collision with Utility Poles or Trees :
+Airbags may not inflate if
+the
+vehicle
+collides
+with
+objects such as utility poles
+or trees, where the point of
+impact is concentrated to
+one area and the full force
+of
+the
+impact
+is
+not
+delivered to the sensors.
+Frontal Impact :
+Frontal impact beyond 30º
+range from head-on to the
+vehicle.
+300
+300
+Seats and Safety
+4-12
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Frontal Side Swipe Impact:
+Frontal offset impact to the vehicle may not provide the
+deceleration force necessary for airbag deployment.
+In an angled collision, the
+force of impact may direct
+the occupants in a direction
+where the airbags would
+not be able to provide any
+additional benefit, and thus
+the sensors may not deploy
+any airbags.
+Under-ride Situations :
+Running
+under
+a
+truck's
+tailgate
+may
+not
+provide
+the decelerations necessary
+for airbag deployment.
+Airbags will not inflate in
+this “under-ride” situation
+where deceleration forces
+that
+are
+detected
+by
+sensors
+are
+significantly
+low.
+Rear-end Collisions :
+Frontal
+airbags
+are
+not
+designed to inflate in rear
+collisions, where occupants
+are moved backward away
+from the airbags by the
+force of the impact. In this
+case, inflated airbags would
+not be able to provide any
+additional benefit.
+Potholes or Stepped Surfaces :
+Driving into a big pothole,
+stepped surface or hitting
+the far side of a hole/incline
+will not inflate the airbag.
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-13
+Rollover:
+Airbags will not inflate in
+rollover
+accidents
+where
+airbag
+deployment
+would
+not provide protection to
+the
+occupants.
+However,
+side
+impact
+and
+curtain
+airbags
+may
+inflate
+only
+when severe side impact
+causes rollover.
+Side airbags and side curtain airbags may inflate in a
+strong impact.
+Side airbags and side curtain airbags may inflate even in a
+frontal collision, if there is a strong impact to the lateral
+direction.
+A
+frontal
+collision
+occurs
+when the front ends of two
+vehicles collide
+When a vehicle hits a curb
+or bump
+When a vehicle experiences
+a hard landing or fall
+Seats and Safety
+4-14
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Side airbags and side curtain airbags may not inflate
+In the event of a side impact to the vehicle body, excluding
+the passenger compartment, several areas of the vehicle
+are typically affected.
+When a vehicle is impacted
+from the side at an oblique
+angle
+When a vehicle is impacted
+from the side by a high-
+hood vehicle
+When a vehicle is impacted
+from
+the
+side
+by
+a
+motorcycle or bicycle
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+4-15
+4.3.3 Airbag Service
+Airbag Replacement: Self-servicing or tampering with the
+airbag system is dangerous. An airbag could accidentally
+deploy causing serious injuries, or will not deploy when
+there is a need. Always take your vehicle to a Mahindra
+Authorised Dealer for inspection and repairs.
+Removing SRS Related Parts: We do not recommend
+removing the instrument panel, steering wheel, seats or
+airbag related parts or sensors by any individual or garages
+which are not recommended. Airbags could accidentally
+activate and cause serious injuries, or they may not deploy
+when there is a need. Visit a Mahindra Authorised Dealer if
+these parts must be removed.
+Airbag Disposal: Improper disposal of an airbag or a
+vehicle with live airbags can be extremely dangerous.
+Approach a Mahindra Authorised Dealer to do these jobs.
+Airbag Repair: If the front airbag cover or instrument panel
+airbag cover shows signs of damage or having been
+removed, the vehicle should be towed to the nearest
+Mahindra Authorised Dealer for repair. Do not attempt to
+self repair or reinstall the cover.
+Airbag Maintenance: For cleaning the airbag covers/areas,
+use only a soft dry cloth or one which has been moistened
+with plain water. Solvents or cleaners could adversely affect
+the airbag covers and proper deployment of the system.
+An airbag is not designed to deploy in every type of crash.
+Depending on the type of accident or impact, the front
+airbags
+independently
+deploy
+thereby
+protecting
+the
+occupants. It is not necessary that ALL the airbags deploy
+during an accident.
+Seats and Safety
+© Copyright Mahindra Electric Automobile Ltd. 022025
+5-1
+5 Information Display
+5.1 Driver Information Display Overview
+A
+Time
+G
+ODO Meter
+B
+Gear Indicator
+H
+Current Drive Mode
+C
+Digital Speedo Meter
+I
+SOC
+D
+Outside Ambient Temperature
+J
+Range
+E
+Power and Regen gauge
+K
+Digital SOC
+F
+Recuperation Level
+When switching Drive Modes, changes the theme of the display
+5.2 Instrument Cluster Screen Flow
+Cluster Setting can be accessed by pressing MENU button in
+Steering wheel. Use Enter button to select the setting
+option. Cluster will display the Setting information.
+Information Display
+5-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+5.3 Driver Information Display telltale Overview
+Few Tell Tales grouped in to same slot and this will be cyclic based on tell tale status.
+Information Display
+© Copyright Mahindra Electric Automobile Ltd. 022025
+5-3
+5.4 Center Information Display
+Your
+vehicle
+is
+loaded
+with
+applications
+for
+your
+convenience.
+All
+applications
+are
+accessible
+through
+the
+Center
+Information Display (CID)
+Vehicle Apps
+Media and Entertainment
+Communication
+Information Display
+5-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+The apps can be selected by referring the below image.
+Information Display
+© Copyright Mahindra Electric Automobile Ltd. 022025
+6-1
+6 Starting and Driving
+6.1 START/STOP Button
+The Start/Stop button activates or deactivates the vehicle's
+electrical systems. Pressing the button powers up the
+vehicle's drivetrain and dashboard systems.
+Start/Stop button positions: To operate the start/stop
+switch to its intended function, smart key should be placed
+in the key slot.
+6.2 Shift Lever
+Shift lever enables you to choose your desired drive
+direction. Shift pattern is printed on the top finisher next to
+the shift lever.
+To change the gear, press the brake pedal and shift the
+lever to the desired position.
+A gear indicator is integrated in the gear shifter and selected
+gear is illuminated.
+Starting and Driving
+6-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+6.3 One Pedal Drive
+One Pedal Drive is controlled by the accelerator pedal,
+allowing you to control the vehicle's speed (acceleration,
+deceleration, and stopping) without the need to manually
+operate the paddle shifter.
+To operate:
+•
+Press the one pedal shifter in steering wheel to activate
+the one pedal drive function.
+•
+During ‘one pedal drive’ activation, the vehicle will come
+to a stop when the accelerator pedal is released, even if
+the brake pedal is not pressed.
+When the vehicle is stopped or parked using ‘one pedal
+drive’ on steep hills, be sure to press the brake pedal.
+6.4 Brakes
+Your vehicle is equipped with disc brakes in the front and
+rear wheels.
+Disc brakes offer good braking capability and reduced
+stopping distance. Wet brake discs result in reduced braking
+efficiency. After a vehicle wash or driving the vehicle
+through water, apply and release brake pedal mildly while
+driving to remove the film of water from the brake disc.
+Starting and Driving
+© Copyright Mahindra Electric Automobile Ltd. 022025
+6-3
+6.4.1 Electric Parking Brake_EPB
+The EPB (Electronic Parking
+Brake) is a safety feature
+with enhanced comfort, the
+parking brakes are applied/
+released by simple switch
+operation.
+The EPB system replaces
+the
+conventional
+manual
+parking
+brake
+which
+requires high effort to apply
+& release.
+6.4.2 Auto Vehicle Hold/Auto Hold (AVH)
+The AVH is a comfort feature offered with Electric parking
+brake.
+The function of AVH is to hold the vehicle in standstill with
+the applied driver brake pressure
+Once AVH switch is pressed, it remains in memory and thus
+driver doesn’t have to press AVH switch every time
+Do not rely solely on AVH to keep the vehicle stationary on
+steep slopes, slippery roads, or uneven surfaces.
+Never exit the vehicle without confirming that the AVH and
+parking brakes are fully engaged.
+Starting and Driving
+6-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+6.4.3 Anti-Lock Brake System (ABS)
+The Anti-lock Brake System (also called as ABS) is designed
+to help prevent lock-up of the wheels and stable stopping of
+vehicle during a sudden, panic emergency braking or
+braking on slippery road surfaces. The ABS system takes
+input from wheel speed sensors and brake pedal switch to
+control the brake fluid pressures at the wheels to avoid
+wheel lock-up. It allows vehicle to be steered during braking.
+The minimum speed for ABS to function is 12 kmph. ABS is
+activated only during wheel lock conditions where ABS takes
+over and prevents wheel lock.
+During the ABS operation, a slight pulsation may be felt in
+the brake pedal to indicate ABS is active. You may also hear
+motor
+noise
+from
+the
+motor
+compartment.
+It
+is
+recommended to hold the brake pedal firmly while the ABS
+is active rather than pumping the brake pedal.
+Depressing the brake pedal on slippery road surfaces as on
+a manhole cover, a steel plate at a construction site, a joint
+in a bridge, etc. on a rainy day, tends to activate the anti-lock
+brake system.
+The ABS warning lamp lights up when you
+switch ON the ignition and should go out after
+a few seconds. If the ABS warning lamp does
+not go out or if it comes ON while driving, it means there is a
+fault in the ABS system. In both cases, the normal braking
+system remains efficient, exactly as on a vehicle without
+ABS. The vehicle should be examined as soon as possible by
+an Mahindra Authorised Dealer.
+The ABS is not designed to shorten the stopping distance:
+Always drive at a moderate speed and maintain a safe
+distance from the vehicle in front of you. The stopping
+distance may be longer in the following cases:
+•
+Driving on rough, gravel or snow-covered roads
+•
+Driving with tyre chains installed
+•
+Driving over the steps such as the joints on the road
+•
+Driving on roads where the road surface is potholes or
+large differences in surface height
+Do not overestimate the Anti-lock Brake System: Although
+the Anti-lock Brake System assists in providing vehicle
+control, it is still important to drive with all due care and
+maintain a moderate speed and safe distance from the
+vehicle in front of you. There are limits to the vehicle
+stability and effectiveness of steering wheel operation even
+with ABS active.
+If tyre grip performance exceeds its capability, or if
+hydroplaning occurs during high speed driving in the rain,
+the Anti-lock Brake System will not be able to completely
+avoid wheel lock-up
+Starting and Driving
+© Copyright Mahindra Electric Automobile Ltd. 022025
+6-5
+6.4.4 Regenerative Braking System
+Regenerative braking (Paddle shifter)
+A
+regenerative
+braking
+system
+is
+an
+energy recovery
+mechanism used in your electric origin vehicles. It captures
+and converts the kinetic energy produced during braking
+into electrical energy, which is stored in the vehicle's battery
+for future use.
+The paddle shifter allows you to adjust the regenerative
+braking level from 0 to 3 while decelerating.
+•
+Left side (Regen +): Increases regenerative braking and
+enhances deceleration.
+•
+Right side (Regen —): Decreases regenerative braking
+and reduces deceleration.
+6.5 Drive Modes
+Drive Mode is a quick and easy way to change driving style
+of your vehicle. With Drive mode settings, you can instantly
+adjust driving dynamics and feel of your vehicle, all on the
+go.
+The
+drive
+modes
+can
+be
+selected
+through
+Centre
+Information Display (CID) in the below path:
+Go to Menu / Vehicle Apps /My Vehicle/Drive Modes
+Shortcut: Press drive mode button in ICC
+You can select from multiple drive modes options any time
+during your Drive, meaning you can switch to the perfect
+mode when the situation calls for it. Whether you're looking
+for an relaxed commute or a sporty back roads adventure,
+Drive Mode allows you to perfectly tailor your vehicle for
+your unique driving style.
+The system is incredibly easy to use, simply choose your
+choice of "Drive Mode" and experience 4 different vehicles
+in one.
+•
+Default Mode
+•
+Range Mode
+•
+Everyday Mode
+•
+Race Mode
+Starting and Driving
+6-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Once
+selected
+we
+would
+have
+a
+permanent
+indication in the DID.
+ON every IGNITION Cycle,
+vehicle will always start in
+DEFAULT mode
+Default Mode
+The Default Mode, which will be active during every ignition
+cycle, offers optimum performance.
+Range Mode
+Range
+Mode
+offers
+regular
+everyday
+city
+drive
+&
+is
+optimized for day-to-day use and maximum range.
+Starting and Driving
+© Copyright Mahindra Electric Automobile Ltd. 022025
+6-7
+Everyday mode: This mode is ideal for the normal city
+drives and normal highway.
+Race Mode: The Race mode is when you want the
+adrenaline rush. It is recommended to use this mode only in
+open roads and use it responsibly.
+Boost Option
+When boost switch is pressed additional reserve power will
+be available for next 10 secs.
+This option should be used during over taking another
+vehicle when you are in Default, Range or Everyday modes.
+Boost mode can’t be used continuously ON.
+Starting and Driving
+6-8
+© Copyright Mahindra Electric Automobile Ltd. 022025
+6.6 Virtual Engine Sound Simulators (VESS)
+Virtual engine sound simulators (VESS) in BE 6 is designed to
+enhance the driving experience and improve safety by
+generating artificial engine sounds. These sounds help
+pedestrians and other road users become aware of the
+otherwise silent EVs.
+The sound will be audible from interior and exterior of the
+vehicle.
+Steps to Activate VESS:
+In Centre Information Display (CID) Go to App Drawer / Settings /
+Audio/ Sonicsuite / Interior or Exterior / Sound ON or Sound OFF
+These systems not only make driving more enjoyable but also
+enhance safety by making EVs more audible to pedestrians and
+other drivers.
+Starting and Driving
+© Copyright Mahindra Electric Automobile Ltd. 022025
+7-1
+7 Advanced Driver Assistance System (If equipped)
+The BE 6 is equipped with ADAS Level2 + (The vehicle is
+capable of controlling steering, acceleration & deceleration.
+But it requires the driver to still be attentive at all times and
+remain in the drivers seat.) featuring 5 radars and one
+camera. This system is capable of detecting a variety of
+obstacles, including cows, pedestrians, barricades, and
+different types of vehicles. The system has been specifically
+tuned to handle the complexities of road conditions,
+offering enhanced safety and driving assistance.
+The
+ADAS
+system
+gives
+enormous
+benefits
+to
+driver,
+however the driver shall remain solely responsible for the
+safe maneuvering of the vehicle. He must remain vigilant
+throughout the drive.
+•
+ADAS is an assistive feature and at no time shall the
+driver leave control of the vehicle. ADAS does not act as a
+replacement for driver attention. The driver is always
+responsible for operating the vehicle as per the road
+regulations.
+•
+The ADAS functionality may be reduced or impaired in
+adverse weather conditions such as heavy rain or fog.
+Detection capabilities may also be affected by dirty,
+obstructed, or damaged sensors or cameras.
+•
+The system might not function properly on steep hills
+and poor illuminations.
+Advanced Driver Assistance System (If equipped)
+7-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Steps to Select Drive Assist:
+In Centre Information Display (CID), Go to Menu / Vehicle
+Apps / Drive Assist
+ADAS provides below features (If equipped):
+1.
+Adaptive Cruise Control (ACC)
+2.
+Speed Limit Assist (SLA)
+3.
+Rear Collision Warning (RCW)
+4.
+Collision mitigation System (AEBS/FCW)
+5.
+Traffic Sign Recognition (TSR)
+6.
+Lane Keep Assist System (LKA/LDW)
+7.
+Lane Centering Function (LCF)
+8.
+Smart Pilot Assist (SPA)
+9.
+High Beam Assist (HBA)
+10.
+Front Vehicle Start Alert (FVSA)
+ADAS can provide the following list of additional
+features with the help of four corner radars (If
+equipped):
+11.
+Blind spot detection (BSD)
+12.
+Rear cross traffic alert (RCTA)
+13.
+Door open alert (DOA)
+14.
+Highway assist (HWA)
+15.
+Emergency lane keep assist (ELK)
+16.
+Automatic emergency steering (AES)
+17.
+Emergency steering assist (ESA)
+Advanced Driver Assistance System (If equipped)
+© Copyright Mahindra Electric Automobile Ltd. 022025
+7-3
+7.1 ADAS Control Switches
+The ADAS switches on the steering wheel consists of five
+switches which are used for ACC Operation.
+SET+ : To set desired speed
+To increase Set speed when ACC is active
+SET- : To set desired speed
+To decrease Set speed when ACC is active
+Adaptive
+Cruise
+Control
+ON/OFF
+Switch:
+To
+Toggle
+between ACC ON and OFF
+TIME GAP: To select the time gap to the front preceding
+vehicle between Level 4 to Level 1.
+RESUME : To resume ACC to previous Set Speed.
+Limitations
+•
+ADAS
+does
+not
+function
+reliably
+in
+poor
+weather
+conditions, including fog, heavy rain and snow.
+•
+Lane-Keeping and adaptive cruise control may fail if road-
+markings are faded or obstructed.
+•
+Lane change assist and Emergency Lane keep assist, may
+fail if road-markings are faded or obstructed.
+•
+The ADAS functionality may be reduced or impaired in
+adverse weather conditions such as heavy rain or fog).
+Detection capabilities may also be affected by dirty,
+obstructed, or damaged sensors or cameras (remove
+from Caution)
+•
+If the vehicle has met with an accident or impact,
+influencing the system performance, then contact the
+Authorised Mahindra Service Centre to check for any
+damage to the front/corner radar units
+•
+The
+system
+performance
+may
+get
+affected
+if
+the
+windshield is not clean.
+•
+The system might not function properly on steep hills
+and poor illuminations.
+•
+The driver is always responsible for operating the vehicle
+as per the road regulations. Camera sensors can detect
+Advanced Driver Assistance System (If equipped)
+7-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+standard speed limit signs that are within the field of
+view
+•
+Failure to follow the warnings and instructions for
+proper use of the system could result in serious injury or
+death.
+•
+There are situations where the system may not detect a
+possible collision, driver has to take control of the vehicle
+always.
+•
+Never test Collision Mitigation System by driving toward
+a person or object. This could result in serious injury or
+death.
+•
+It is driver’s responsibility to stay alert and be in control
+of the vehicle throughout the drive.
+•
+Do not wait for system to provide Visual /audio alerts to
+hold the steering wheel. Driver is always responsible to
+have control of the vehicle.
+•
+Always keep your hands on the steering wheel so you can
+be ready to steer at any time. The driver is always
+responsible for staying in a lane and for assessing traffic
+situations.
+•
+The driver is always responsible for steering the vehicle
+and maintaining a suitable speed and distance to the
+vehicle ahead and must intervene if necessary, even if
+Smart Pilot Assist is being used.
+•
+The ADAS functionality may be reduced or impaired in
+adverse weather conditions such as heavy rain or fog).
+Detection capabilities may also be affected by dirty,
+obstructed, or damaged sensors or cameras.
+•
+Objects outside the camera or sensor field of view, such
+as small obstacles, pedestrians, or fast-moving vehicles,
+may not always be detected by the ADAS system.
+•
+Sudden road condition changes (construction zones,
+potholes,
+uneven
+surfaces)
+may
+not
+be
+accurately
+recognized by the system, requiring driver intervention.
+Advanced Driver Assistance System (If equipped)
+© Copyright Mahindra Electric Automobile Ltd. 022025
+8-1
+8 VisionX (If equipped)
+VisionX is a projection device used in vehicles to display
+real-time data on the windshield, enhancing the driver's
+experience
+by
+integrating
+digital
+information
+with
+the
+physical environment. it helps drivers maintain their focus
+on the road. By projecting important information directly
+onto the windshield.
+A
+Static Area
+B
+Augmented Reality Area
+Static Area
+S.No
+Static Features
+1
+Navigation or compass
+2
+Mini ADAS
+3
+Speed
+4
+ACC Speed
+5
+Sign Board Detection
+6
+Messages (Call, Media, Hands off warning,
+Thermal Warning, Emergency Braking, Blind Spot
+Warning, Cross traffic alert, EV specific warning)
+VisionX (If equipped)
+8-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Augmented Reality Area
+S.No
+Augmented Features
+1
+Left Blind Spot Warning (AR)
+2
+Left Forward Cross Traffic Alert (AR)
+3
+Navigation (AR)
+4
+Lane Change Assist (AR)
+5
+Right Blind Spot Warning (AR)
+6
+Right Forward Cross Traffic Alert (AR)
+7
+Right Lane Departure Warning (AR)
+8
+ACC (AR)
+9
+Left Lane Departure Warning Detected(AR)
+VisionX Enable or disabled with Center Information
+Display (CID)
+Option 1
+VisionX can be enabled or disabled from CID. Go To APP
+Drawer ->Vehicle Apps -> My Vehicle -> Interior -> VisionX
+Option 2
+VisionX can be enabled / disabled as well as position and
+brightness adjustment can be done from CID. Go To APP
+Drawer ->Vehicle Apps -> VisionX
+Enable or Disabled using Driver Side Switch Bank
+Push button is located in the driver side switch bank.
+VisionX (If equipped)
+© Copyright Mahindra Electric Automobile Ltd. 022025
+8-3
+System Limitations
+Visibility of VisionX display is influenced by the below
+factors:
+1.
+Driver Seat Position.
+2.
+Object, Dust or dirt on the Head-up displays protective
+glass.
+3.
+Windshield dirts both inside and outside.
+4.
+Sunglasses with certain polarization filters.
+5.
+Wet road.
+6.
+Unfavorable light conditions.
+If the vision of VisionX is unclear, please get it checked by
+the nearest Mahindra Authorised Service Centre.
+The driver is fully responsible for road safety. Always stay
+attentive to the road, even when VisionX is active.
+The white line detected the front of the vehicle may not be
+accurate in certain situations. Always focus on the actual
+driving scenario.
+VisionX (If equipped)
+© Copyright Mahindra Electric Automobile Ltd. 022025
+9-1
+9 Parking Assist System
+9.1 Parking Assist System (PAS) (If equipped)
+Parking Assist System
+9-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+•
+Obstacles may not be detected if they are too close to the
+Sensor
+•
+PAS may raise a false alarm during heavy rain, snow and
+heavy wind conditions
+9.2 Auto Park Assist (APA)
+The key fob Park In and Park Out features assist drivers to
+remotely move their vehicle in and out of tight parking
+spaces without being in the vehicle. This can be particularly
+useful in tight garages or narrow parking spots where it
+might be difficult to open the doors.
+Although the Auto Park Assist controls the vehicle movement
+during a parking maneuver, the driver must continually
+supervise the system. If the maneuver is not as expected,
+use the key Fob to take control and make any necessary
+adjustments.
+The APA is not applicable in all cases, and can not
+completely replace the driver in driving and judgment, even
+if the system is running, the driver must be careful in
+judgment, to avoid the risk of collision.
+The feature is typically activated by pressing the specific
+buttons on the key fob.
+Park In: Pressing the Park In button after initiating Virtual
+Parking using Key Fob in Center Information Display. On the
+key fob will make the vehicle move forward into a parking
+spot. The driver can stop the movement at any point by
+releasing the button.
+Park Out: This works only after Lock button is pressed and
+then press five times until ORVM are opened, to initiate the
+Park out.
+•
+The Driver is responsible when entering or exiting the
+parking space while using Auto Park Assist.
+Parking Assist System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+9-3
+•
+The system performance will be affected in construction
+sites, worn or poorly visible markings, diverging/merging
+roads, broken roads, near garbage filled roads/areas
+•
+Auto park is not recommended for usage in slots with
+kerbs or box type obstacles of small objects.
+•
+The performance of the system might get affected due to
+environmental conditions such as heavy rainfall road,
+heavy snowfall road, foggy conditions, icy road, wet
+conditions, dusty roads, etc. The detection performance
+of the sensors will be affected and might give false
+warnings
+•
+The system might not function properly on steep hills
+and poor illuminations.
+Frequent usage of key fob Auto parking will lead to faster
+reduction of Key fob battery.
+•
+During keyfob parking progress driver must be vigilant
+about surroundings of the vehicle and must immediately
+release the forward/backward button press to stop the
+vehicle. It is driver's responsibility to ensure safety of own
+vehicle and surrounding vehicles/ obstacles.
+•
+Although
+the
+Auto
+Park
+Asist
+controls
+the
+vehicle
+movement during a parking maneuver, the driver must
+continually supervise the system. If the maneuver is not
+as expected, use the key Fob to take control and make
+any necessary adjustments.
+•
+The APA is not applicable in all cases and cannot
+completely replace the driver in driving and judgment,
+even if the system is running, the driver must be careful
+in judgment and in control of the vehicle, at all times, to
+avoid the risk of collision.
+•
+The APA system cannot detect any moving vehicles or
+obstacles that could come into the collision area during
+the system operation.
+•
+The
+APA
+system
+performance
+will
+be
+affected
+in
+construction sites, worn or poorly visible markings,
+diverging/merging roads, broken roads, near garbage
+filled roads/areas, steep hills and areas with poor
+illumination.
+•
+The performance of the APA system might get affected
+due to environmental conditions such as heavy rainfall
+road, heavy snowfall road, foggy conditions, icy road,
+wet
+conditions,
+dusty
+roads,
+etc.
+The
+detection
+performance of the sensors will be affected and might
+give false warnings.
+Please note that these are not the complete list of Warnings
+in relation to the use of Auto Park Assist feature. The
+customer is strongly urged to review the more detailed
+warnings in the Vehicle Manuals available at the links listed
+out on Page 3 of this Quick Reference Vehicle Manual.
+Parking Assist System
+9-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+9.3 Rear View Camera (RVC) (if equipped)
+Rear
+View
+Camera
+is
+located near rear bumper
+of the vehicle.
+Rear View Camera system assists the driver while reversing
+and manoeuvring the vehicle at lower speeds.
+1.
+Normal Rear View
+2.
+Wide Rear View
+3.
+Zoomed in Rear View
+4.
+Zoomed in Wide Rear View
+5.
+Static & Dynamic Guidelines
+9.4 360° camera (If equipped)
+360° camera assists in parking and low speed maneuvering
+by providing views of vehicle’s surroundings with the help of
+4 cameras located in the front grille, rear bumper and on
+both exterior mirrors.
+Before using the system, Make sure that the camera lenses
+are clean and not covered by any dust or other obstructions
+that may impair the system.
+•
+The system performance may get affected, in adverse
+weather conditions such as rain, snow, dirt or an object
+adheres in front of the camera lens.
+•
+The system might not function properly on steep hills
+and poor illuminations.
+•
+Objects and obstacles above the camera height or out of
+the field of view of the cameras are not displayed.
+•
+The Rear View Camera is an aid, not a replacement for safe
+driving. Always check your surroundings manually before
+reversing.
+Parking Assist System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+9-5
+Low-light conditions, fog, heavy rain, snow, dirt or direct
+sunlight may impair visibility and reduce camera accuracy.
+The
+system
+may
+not
+detect
+small
+objects,
+moving
+pedestrians, or low-lying obstacles outside the camera’s
+field of view.
+The system might not function properly on steep hills and
+poor illuminations.
+Do not rely solely on the camera; always check your mirrors
+and blind spots before reversing.
+The
+system
+may
+not
+detect
+small
+objects,
+moving
+pedestrians, or low– lying obstacles outside the camera’s
+field of view.
+9.5 Driver Occupant Monitoring System (DOMS) (If
+equipped)
+Eyedentity - Driver Occupant Monitoring Systems (DOMS) is
+an advanced technology designed to enhance vehicle safety
+by monitoring the driver's drowsiness status within the
+vehicle.
+Parking Assist System
+9-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+The System is capable to do the below,
+Driver Occupant Monitoring - Monitor the Driver's Fatigue
+& Distraction level with the perception of Eye Closure, Head
+Pose, Eye Gaze. Also this will monitor the Mobile usage by
+the driver and alert him.
+Selfie - Click Image and Short Video with the perceptions of
+Human Face Detection, Facial Feature Key points Detection
+(Eye, Nose, Mouth)
+Secure360 (Digital Video Recording ) - Record Surrounding
+and Cabin on Emergency
+User Profile - Identify the Driver and Personalize Vehicle
+based on stored profile with the inputs of Face Detection,
+Facial Feature Key point Detection
+Video Calls (Zoom, Google Meet) - Enable Video Calling
+using popular video calling apps with Human Face Detection
+Limitations :
+•
+The effectiveness of DOMS can be affected by various
+factors such as lighting conditions, driver behaviour, and
+sensor calibration
+•
+Some drivers may find these systems annoying or
+intrusive, leading to resistance in using them. Kindly don't
+ignore the alerts.
+DOMS (In car camera) is always ON to detect driver
+behaviour and detecting user profile
+Parking Assist System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+10-1
+10 Climate Controls System
+HVAC system provided in the vehicle enables occupants to
+automatically/manually adjust air flow distribution pattern,
+air flow rate, air intake mode and air temperature inside
+passenger
+Touch screen
+By appropriately selecting the options provided on the
+HVAC infotainment touchscreen, located on center console,
+occupant’s comfort can be ensured.
+HVAC system also helps in defogging / de-misting the
+windshield and windows. Air flow direction can be further
+controlled by adjusting louvres of air vents. An air filter is
+provided at the inlet of HVAC blower.
+PTC HEATER
+PTC HEATER An air PTC heater is utilized to heat the cabin
+air. For cooling the cabin air, an air conditioning circuit
+based on the vapor compression refrigeration cycle is used.
+The air conditioning system uses a refrigerant along with a
+suitable lubricating oil.
+Although being non-ozone depleting, the refrigerant is a
+greenhouse gas, hence once allowed to escape in the
+atmosphere,
+it
+adversely
+affects
+the
+environment
+by
+contributing to global warming/climate change
+Refrigerant used in system is a hazardous liquified gas and
+is under high pressure.
+The refrigerant is colorless and has ethereal or faint
+sweetish odor. Exposure of refrigerant to skin or eyes may
+cause irritation and frostbite.
+They can also cause suffocation, dizziness and loss of
+concentration. When mixed with compressed air or certain
+other refrigerants, it may form flammable mixture. Never
+try to service HVAC system yourself which would involve
+refrigerant handling. Mahindra shall not be liable for any
+loss or damage result from such self-servicing. Further, such
+self-servicing will void the warranty.
+- If you sleep while operating the air conditioner or heater
+with all the windows closed, you may suffocate to death due
+to lack of ventilation. When you operate the air conditioner
+or heater, ventilate frequently.
+Multiple vents are provided for distributing the air, being
+force-circulated by HVAC blower, throughout the passenger
+compartment.
+Climate Controls System
+10-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+To ensure sufficient air flow and hence adequate HVAC
+system performance, air flow path should be kept free of
+obstructions. Keep system’s air intake, located near plenum
+appliqué, free of snow, leaves and other debris. Also keep
+the area in front of air vents free of any obstruction inside
+the cabin.
+During charging of the vehicle with ignition OFF condition,
+sometimes it can be observed that the A/C touch control
+panel lights getting ON. This is a normal behavior and
+happens since the A/ C compressor is active for battery
+cooling. However, cabin A/C will not turn ON unless it is
+turned ON by user either through the ICC switch input or
+through the app.
+10.1 Air Vents
+Front Centre/Side Vent
+Rear AC Vents
+Climate Controls System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+10-3
+10.2 Climate Control Through Infotainment Screen
+Press App Drawer→Select Climate Control→Classic/Smart
+Climate Controls – Classic
+Smart Mode
+Touch on smart option available at the top of HVAC screen
+to enable smart mode. Touching it will enable Smart mode
+and screen will be displayed as follows
+Climate Controls System
+10-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+10.3 Remote Cooling
+The Me4U app allows to
+control
+your
+vehicle's
+climate
+settings remotely,
+such
+as
+adjusting
+the
+temperature,
+turning
+on
+the
+air
+conditioning
+or
+heating, and managing the
+vents speed, all before you
+enter the vehicle
+Climate Controls System
+© Copyright Mahindra Electric Automobile Ltd. 022025
+11-1
+11 Charging and Energy Consumption
+Electric Vehicle:
+1.
+Power requirement: 3 kW, single phase AC
+2.
+Plug Point requirements: 230V AC, 16A, Single Phase,
+Normal electrical socket.
+Ensure to only use high-quality socket.
+3.
+Socket wiring should be a multi-stranded copper wire
+with a minimum cross-section of 2.5 sq. mm.
+Ensure installation of the charging point is done by an
+authorized electrician only.
+Ensure your domestic electrical system is in compliance with
+the applicable standards.
+Always ensure, that the Power socket (16A) used for
+charging your BE 6 has proper earthing, protected circuit
+breaker and a surge protection device.
+Do not open, tamper or modify the internal components of
+the charger.
+Do
+not
+use
+worn,
+damaged,
+or
+uncertified
+charging
+equipment, as this could result in fire, electrical shock, or
+damage to your vehicle.
+Before charging, always inspect the cable, plug, and socket
+for any signs of wear or damage.
+Do not store any combustible materials near the charger
+vicinity.
+Mahindra 3 kW EVSE (Electric Vehicle Supply Equipment)
+cable should not be used on 5A socket or extension cords
+taken from 5A socket
+Charging coupler receptacle must have proper grounding,
+electrical
+connection
+and
+should
+be
+equipped
+with
+protective device (residual current circuit breaker with
+overcurrent protection and surge protection device).
+Domestic plug point must be approved/ certified by a
+qualified electrician before using the charging gun
+11.1 Electric Vehicle
+An electric vehicle operates using a battery and an electric
+motor. Unlike conventional vehicles, which rely on an
+internal combustion engine and gasoline as fuel, electric
+vehicles are powered by electrical energy stored in a high-
+voltage
+battery.
+As
+a
+result,
+electric
+vehicles
+are
+environmentally friendly, as they do not require fossil fuels
+and produce no exhaust emissions.
+Charging and Energy Consumption
+11-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Electric vehicle characteristics:
+•
+EVs are powered by electrical energy stored in a high-
+voltage battery, eliminating the need for traditional fuels
+like
+gasoline.
+This
+method
+significantly
+reduces
+air
+pollution, as there are no exhaust emissions, making EVs
+a cleaner, more environmentally friendly transportation
+option.
+•
+EVs are equipped with high-performance motors that
+provide
+smooth,
+efficient
+power
+delivery.
+Unlike
+traditional ICE vehicles, EVs produce minimal engine
+noise
+and
+vibrations,
+offering
+a
+quieter
+and
+more
+comfortable driving experience. This contributes to a
+more serene ride, with less mechanical noise and less
+vibration felt inside the cabin
+•
+When decelerating or driving downhill, regenerative
+braking is utilized to charge the high voltage battery. This
+minimizes energy loss and increases the distance to
+empty
+•
+When the battery charge is low, there are several
+charging options available:
+AC Charging: This is the most common method. It is
+slower but convenient for home charging or public
+charging stations.
+DC Fast Charging: This method uses direct current (DC)
+to rapidly charge the battery at high power levels, often
+found at fast-charging stations. DC fast charging is ideal
+for long trips or quick recharges.
+Battery Information:
+•
+The vehicle is equipped with a high-voltage battery that
+powers the motor and systems like the air conditioning,
+while
+a
+separate
+12V
+auxiliary
+battery
+powers
+components such as the lights, wipers, and audio system.
+•
+The auxiliary battery is automatically charged when the
+vehicle is in the "Ready to Drive" mode or when the high-
+voltage battery is being charged
+11.2 Charging System
+A: Normal Charging Port-AC
+B: Charging Indications
+C: Fast Charging Port-DC
+Charging and Energy Consumption
+© Copyright Mahindra Electric Automobile Ltd. 022025
+11-3
+11.3 Combined Charging System 2 (CCS2) - Charge
+Port
+Charge Port is located on
+the rear left side of the
+vehicle,
+on
+the
+wheel
+housing assembly.
+Gently
+press
+on
+the
+charging port to open the
+charging lid.
+Normal Charging and Fast Charging are integrated in single
+port.
+Normal Charging Port
+Fast Charging Port
+Time to charge the battery pack varies based on the state of
+charge
+(SOC),
+ambient
+&
+battery
+temperature.
+Hence
+charging time specified is an estimate and may vary.
+Charging and Energy Consumption
+11-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+11.4 Charge Port LED indication
+The Charging port LED will indicates the charging status
+based on the charging condition.
+Indication
+Condition
+White (Continues ON)
+Battery Status
+White (Blinking )
+System Verification
+Blue (Blinking )
+Scheduled for charging
+Red (Continues ON)
+Low Battery SoC< 10%
+Red (Blinking)
+Charge Error
+Amber (Blinking)
+Gun Stuck
+Green (Animation)
+Charging in Progress
+11.5 Electric Vehicle Supply Equipment (EVSE) /
+Charger — 11 kW / 7.2 kW (if equipped)
+11 kW / 7.2 kW AC wall
+mounted
+charger
+comes
+along with selected variants
+only.
+Charging and Energy Consumption
+© Copyright Mahindra Electric Automobile Ltd. 022025
+11-5
+11.6 Electric Vehicle Supply Equipment (EVSE) –3 kW
+Charger
+A portable 3 kW 13A AC charger is provided along with the
+vehicle.
+Specification
+3 kW 13A AC
+Power
+Input
+Input voltage
+230 V 50 Hz AC
+Power
+Output
+Output Voltage Rating
+230 V
+Max. Output Current
+13A
+Power Rating
+3 kW
+Below is the different color LEDs provided for indicating the
+status of charging – 3 kW
+Charging and Energy Consumption
+11-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+11.7 Fast Charging
+Fast charging enables your
+BE 6 to recharge its battery
+quickly, allowing you to get
+back
+on
+the
+road
+in
+a
+shorter time
+Fast charging uses high-power chargers (DC chargers) to
+rapidly deliver energy to your EV's battery.
+The indicated charging time of 20 minutes (20% to 80%
+State of Charge - SOC) applies under optimal conditions
+depends on the battery pack variant and DC charger (175
+kW DC Fast charger)
+Charging duration may vary based on factors such as
+charger capacity, ambient temperature, battery condition,
+and power supply fluctuations. Charging with lower-rated
+DC or AC chargers will result in increased charging times.
+Use CCS type 2 fast chargers only for charging your vehicle
+Fast Charging in a vehicle can be achieved using same
+charging port. Fast charging can be availed at places where
+‘DC charging’ stations are available.
+Refer Vehicle Manual for more details
+11.8 Manual Plug Override
+Manual Plug override is a feature, that allows the user to
+disconnect the charging gun from the vehicle when the
+automatic locking mechanism fails.
+This feature ensures that users can safely remove the
+charger in situations such as system malfunctions, power
+outages, or emergency scenarios.
+Manual override cable is located in left-hand side of the rear
+luggage compartment.
+If you are unable to remove the charging gun, follow these
+steps to manually release it using the release cable:
+•
+Open
+the
+trunk
+and
+locate the trim cover on
+the LH side Quarter trim
+•
+Remove the safety cover
+Charging and Energy Consumption
+© Copyright Mahindra Electric Automobile Ltd. 022025
+11-7
+•
+To release the charger
+plug in case the electrical
+actuator
+is
+not
+functioning,
+pull
+the
+black
+handled
+release
+cable as shown in the
+image
+•
+After pulling the release
+cable, gently remove the
+charger plug
+•
+After removing the plug,
+make sure to close the
+lid.
+Do Not Force the Connector: Pulling forcibly without using
+the override can damage the port or the connector.
+Ensure Safety: Confirm that charging has stopped before
+attempting manual removal
+Do Not Touch The Connectors: Never touch the metal
+connectors during the manual override process, as doing so
+may result in burns, electrical shock, or serious injury.
+Charging and Energy Consumption
+© Copyright Mahindra Electric Automobile Ltd. 022025
+12-1
+12 Emergency Situations
+Follow the below steps to ensure your safety and resolve
+the emergency situation effectively. If the user does not
+follow the precautions as set out above in emergency
+situations, it will void the warranty.
+12.1 Hazard Warning Lamp
+The hazard warning lamp switch is located on the Roof
+console switch.
+Press this switch to turn ON the Hazard Warning Lamp. All
+the Turn Signal Lamps will start flashing. The DID turn
+indicator lamps also flash indicating the same. To turn OFF,
+push the switch again.
+Use
+the
+hazard
+warning
+lamp
+when
+your
+vehicle
+is
+stationary or to warn other road users to be cautious while
+passing your vehicle.
+The turn lamps will work when the hazard warning lamps
+are operational.
+Emergency Situations
+12-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Other Conditions for Auto Hazard Warning Lamp
+•
+Hazard lamps are turned on automatically during bonnet
+open in vehicle stationary condition.
+•
+Hazard lamps are turned on automatically for 10 seconds
+during panic braking condition to indicate following
+traffic.
+•
+Hazard lamps are turned on automatically in case of an
+unfortunate event of an accident where Airbags are
+deployed. In such a scenario, the hazard lamps will be on
+for 30 minutes or it can be turned off by operating
+Hazard switch (Off to On) or Ignition reset (Ignition Off
+and On)
+12.2 Towing
+Tow Hook: Tow hook provision is provided on the front and
+rear bumper.
+To remove a tow hook cap, insert a flat head screwdriver
+into the gap of the cap. press it gently to pop the cap off
+without damaging the surrounding surface
+Screw the tow hook and tighten clockwise
+Fasten a cable or chain specifically intended for use in
+towing vehicles to the towing hook.
+Front Tow Hook Provision
+Rear Tow Hook Provision
+Towing another vehicle can significantly impact a vehicle's
+performance, handling, braking, endurance, and overall
+driving dynamics.
+Emergency Situations
+© Copyright Mahindra Electric Automobile Ltd. 022025
+12-3
+12.2.1 Towing Equipment
+Only flatbed towing is allowed for BE 6 vehicles. This is the
+safest and best way of towing .
+Any other type of towing process may cause irreversible
+damage to high value components related to Electric Vehicle
+12.3 Emergency Assistance
+In case of emergencies, driver/customer can follow the
+below steps to connect with our Emergency assistance
+service either from the vehicle or through mobile phone.
+Emergency Assistance from Vehicle
+e-Call# :
+In an unfortunate event of your vehicle meeting with an
+accident, triggering the airbags, your vehicle will initiate the
+following actions -
+Call will be triggered automatically from your vehicle to 108*
+Ambulance Service for medical assistance
+Emergency Situations
+12-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+* [108] number is the default option. This number can be
+changed based on your preference/location . Contact a
+Mahindra Authorised Dealer
+24 x 7 Roadside Assistance
+MAHINDRA Assistance (RSA) program is a 24 x 7, 365 days,
+emergency support service provided in the event your
+vehicle is immobilized due to mechanical fault, electrical
+fault or collision and the vehicle may not be in a safely
+operable/ drivable condition.
+The Roadside Assistance services are provided by a third
+party business partner. Calls to the toll-free Roadside
+Assistance number will be answered by trained RSA service
+representatives.
+The Roadside assistance is covered initially for 3 years from
+the date of sale.
+TOLL FREE: 1800 266 7070
+Precautions in the Event of a Fire
+If your vehicle is on fire while driving on the road, then
+follow the below points:
+•
+Immediately bring the vehicle to a stop and turn off the
+ignition.
+•
+As soon as you can, exit the vehicle. You should also help
+the other passengers to exit the vehicle securely. In
+addition, you can unlock all the windows and doors
+before turning off the Ignition.
+•
+Move yourself away from the flaming vehicle. A vehicle
+could explode because it carries High Voltage Battery
+Pack. Keep distance from the flaming vehicle accordingly.
+Additionally, if at all possible, warn approaching vehicles
+of the hazard.
+•
+If the fire is small and slow, use a fire extinguisher ABC,
+or BC. If it is impossible to extinguish the fire in the early
+stage,
+keep
+a
+safe
+distance
+from
+the
+vehicle
+and
+immediately call the fire service. Also, inform them that
+an electric vehicle is involved.
+•
+Never open the hood or boot of a burning vehicle to try
+and put out the fire. If you attempt to open the boot or
+bonnet when there is a fire in the motor compartment or
+underneath the vehicle, the flames may flare up and
+cause
+burns.
+Immediately
+contact
+the
+fire
+service
+department.
+Emergency Situations
+© Copyright Mahindra Electric Automobile Ltd. 022025
+12-5
+•
+Never approach a burning vehicle to collect personal
+items. If you don't keep a safe distance from a burning
+vehicle, an explosion could hurt you since toxic vapours
+from the burning vehicle are harmful.
+•
+You can call the Mahindra Authorised Dealer once the
+fire has been extinguished. To help you move the
+damaged vehicle, describe the situation and extent of the
+damage to the service centre or Me4U.
+Precautions in the Event of an Accident
+•
+Make sure the vehicle is in park position "P", the parking
+brake is engaged, and the Ignition is off
+•
+Do not attempt to restart or move the vehicle if there is
+visible damage, smoke, or an unusual smell.
+•
+If you notice any coolant leaks and damage in refrigerant
+lines, do not drive the vehicle and contact Me4U
+•
+If your vehicle is being recovered by a Road Side
+Assistance (RSA), please contact Mahindra Authorised
+Dealer for further guidance
+•
+Mahindra is not responsible for any damage, injuries, or
+liabilities resulting from failure to follow these safety
+precautions.
+In case of an accident/ emergency crash, the rescuer/ first
+emergency responder may be prone to electric hazard.
+Precautions while driving the vehicle in water-logged
+and/ or flooded area
+Never attempt to start the vehicle
+•
+Never drive through water when it flows above the
+bottom portion of the bumper or above the tyre center
+line
+•
+The water surface should not be higher than the lower
+edge of the underbody
+•
+High
+voltage
+battery
+and
+electrical/electronics
+components will get damaged internally if attempts are
+made to cross through deep water
+•
+Wet brake discs have a lower coefficient of friction
+resulting in reduced braking efficiency. Tap the brake
+pedal while driving to remove the moisture in brake disc
+surface
+•
+You must slow down while driving through shallow
+water. Speeding may cause water to splash onto the
+windshield,
+obstructing
+your
+vision.
+In
+extreme
+conditions, you may get a water wedge formation
+Emergency Situations
+12-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+between the road and tyre causing loss of control in the
+vehicle.
+If any orange-colored cables (High voltage Cables) on the
+vehicle are visible, in order to prevent electric shock or even
+death, do not make any contact with any cable.
+If water enters inside the vehicle or fully submerged in
+water, do not drive the vehicle. Contact RSA / Mahindra
+Authorised Dealer immediately. Never touch the orange-
+colored cables because an electric shock may occur, causing
+injury or death.
+12.4 Spare wheel and Tool Kit location
+The spare wheel, toolkit organizer, warning triangle, and
+charger are located beneath the luggage compartment lid.
+Unlock the latch provided in
+the Luggage compartment
+lid to lift the lid.
+Lift the Luggage floor Lid as
+shown in the illustration
+Afterward, take the spare
+wheel,
+toolkit
+organizer,
+warning
+triangle,
+and
+charger from their storage
+location, and use each item
+as needed.
+Emergency Situations
+© Copyright Mahindra Electric Automobile Ltd. 022025
+12-7
+12.5 Tool Kit removal
+Refer to the 'Spare Wheel and Tool Kit Location' section for
+the procedure to remove the luggage lid.
+Lift and take out the tool kit organiser from the spare wheel
+The following tools are available in the toolkit organizer:
+A
+Jack
+E
+Stud
+B
+Jack Operating Lever
+F
+Screwdriver (+ and -)
+C
+Spanner
+G
+Wheel Spanner
+D
+Tow Bar
+12.6 Spare Wheel Removal
+Refer to the 'Spare Wheel and Tool Kit Location' section for
+the procedure to remove the floor mat.
+The spare wheel is mounted below the floor mat at the rear
+end of the vehicle
+•
+Take out the tool kit from the tool kit organiser (Refer
+Tool kit removal procedure)
+•
+Loosen
+the
+Lock
+nut
+from the Spare wheel
+•
+Lift
+the
+spare
+wheel
+upwards from inner side
+to vertical position and
+take it out
+•
+Place
+the
+punctured
+wheel
+in
+the
+luggage
+compartment using the
+vinyl cover and straps as
+shown in the image. Due
+to its larger size, the flat
+tire cannot be mounted
+in
+the
+spare
+wheel
+location.
+Emergency Situations
+12-8
+© Copyright Mahindra Electric Automobile Ltd. 022025
+The spare tyre is only for emergency situations. Never use it
+for normal driving. After installing the spare tyre on a wheel,
+take your vehicle to a Mahindra Authorised Service Centre
+to replace it with a new regular tyre.
+•
+When reinstalling the spare tyre, be sure to securely lock
+it with lock nut.
+•
+While your vehicle is being raised up with a jack, avoid
+any impact on your vehicle. Otherwise, you may get
+injured
+•
+When taking out the spare tyre, be careful not to damage
+the body of your vehicle
+Luggage Floor Lid to be fitted always at the lower position
+when removes and refits again.
+12.7 Warning Triangle
+The warning triangle is a
+necessary device for your
+safety.
+It is placed in the luggage
+compartment
+below
+the
+luggage floor lid.
+When you pull over your breaking down vehicle to a safe
+place, set up a warning triangle behind your vehicle.
+(Daytime: 100 Metres behind, Night: 200 Metres behind)
+When the Vehicle has a Serious Problem during Driving
+Turn on the hazard flasher and move the vehicle out of
+traffic to a safe place. Set up the warning triangle behind
+your vehicle (Daytime: 100 Metres, Night: 200 Metres) to
+warn other vehicles
+Have all passengers get out of the vehicle and stay away
+from the traffic. When your safety is secured, contact your
+Authorised Mahindra dealer for your emergency service
+Emergency Situations
+© Copyright Mahindra Electric Automobile Ltd. 022025
+12-9
+12.8 Jack Points
+Front jack up point - On the side sill in-between the groove
+available on the sill cladding just behind the front wheels.
+Rear jack up point - On the side sill in-between the groove
+available on the sill cladding just in front of the rear wheels.
+12.9 Wheel Bolt Loosening
+Wheel cap Removal (if equipped) : Please insert the screw
+driver given in the tool kit near the lugs of the wheel cap and
+pry the cap away from the wheel.
+Do not try to pry off the wheel cap by hand alone. Take due
+care in handling the wheel cap to avoid unexpected
+personal injury.
+Wheel Removal
+•
+Always loosen the wheel
+bolts before raising the
+vehicle. Turn the wheel
+bolts counter clockwise
+to
+loosen
+as
+per
+the
+sequence shown. To get
+maximum
+leverage,
+fit
+the spanner to the bolt,
+so that the handle is on
+the left side.
+Emergency Situations
+12-10
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Wheel Fixing
+•
+Vehicle has to be lifted
+•
+Once
+the
+bolts
+are
+loosened,
+remove
+all
+bolts
+completely
+from
+the wheel assembly to
+allow for easier removal
+of the wheel.
+•
+The stud needs to be
+installed
+in
+the
+designated hole.
+•
+The stud is available in
+the toolkit.
+•
+The stud acts as a guide
+to locate the wheel. This
+practice
+simplifies
+alignment,
+it
+also
+reduces the load/efforts
+while fitment.
+•
+Once
+the
+tyre
+is
+positioned, assemble the
+remaining bolts, leaving
+the
+stud
+hole
+empty.
+Hand-tighten
+all
+the
+bolts
+without
+using
+a
+spanner.
+•
+As the final step, remove
+the stud, replace it with a
+bolt,
+and
+securely
+tighten all bolts.
+•
+In
+the
+jacked
+up
+condition, do not torque
+tighten the wheel bolts.
+Emergency Situations
+© Copyright Mahindra Electric Automobile Ltd. 022025
+12-11
+•
+The vehicle can now be
+lowered to the ground
+from
+its
+jacked-up
+position and tighten the
+diagonally
+opposite
+wheel
+bolts
+using
+the
+wheel spanner.
+•
+Grab the spanner near the end of the handle and push
+down on the handle. Be careful that the spanner does
+not slip off the bolt. Do not remove the bolts, but loosen
+them by one or two turns.
+Do not apply force with your legs (or stand) on the wheel
+spanner while loosening/tightening the wheel bolts.
+Grab the spanner near the end of the handle and push
+down on the handle. Be careful that the spanner does not
+slip off the bolt. Do not remove the bolts, but loosen them
+by one or two turns.
+Do not lift alloy rims with aero bezels during handling.
+Lifting by the bezels may cause damage to the aero
+components and compromise the integrity of the wheel..
+Never use oil or grease on the bolts . Doing so may lead to
+over tightening of the bolts, wheel spanner slip, damage the
+bolts and also may cause personal injuries. Also, bolts may
+loosen and the wheels may fall off, which could cause a
+serious accident. If there is oil or grease on any bolt, clean
+before installing.
+Improperly or loosely tightened wheel bolts are dangerous.
+The wheel could wobble or come off. This could result in
+loss of vehicle control and cause a serious accident. Always
+make
+sure
+all
+the
+wheel
+bolts
+are
+properly/securely
+tightened to the specified torque.
+When lowering the vehicle, make sure all portions of your
+body are clear off the vehicle as it is lowered to the ground.
+Have the wheel bolts tightened with the torque spanner
+to140 Nm , as soon as possible after changing wheels.
+If you have rotated, repaired, changed your tyres or
+changed the wheel rims, check the wheel bolts are still tight
+after driving about 1,000 km (Torque 140 Nm).
+Put the wheel cap (if equipped) into position aligning the
+nozzle on the wheel to the nozzle clearance on the wheel
+Emergency Situations
+12-12
+© Copyright Mahindra Electric Automobile Ltd. 022025
+cover. Tap it firmly on the sides with your hand to snap it
+into place.
+Check the air pressure of the replaced tyre. If the pressure is
+lower than recommended, drive slowly to the nearest
+service station and inflate to the correct pressure. If it is too
+high, adjust it until it is correct. Always reinstall the valve cap
+after checking or adjusting tyre pressure. If the cap is not
+replaced, dirt and moisture could get into the valve core and
+cause air leakage. If you lose a valve cap, buy another and
+instal it as soon as possible.
+Emergency Situations
+© Copyright Mahindra Electric Automobile Ltd. 022025
+13-1
+13 Maintenance
+13.1 Motor Compartment
+A
+Electric
+Power
+Train
+Cooling
+Degassing Tank
+C
+High Voltage Battery Cooling System
+Degassing Tank
+E
+Motor Compartment Fuse Box
+B
+Brake Fluid Reservoir
+D
+Auxiliary / Low voltage (LV) Battery
+(12V)
+F
+Windshield Washer Filler Neck
+G
+Frunk
+* - Frunk to be removed for accessing
+Maintenance
+13-2
+© Copyright Mahindra Electric Automobile Ltd. 022025
+13.2 Fuses & Relays
+A fuse is the most common electric protection device. A fuse
+is placed in an electrical circuit, so that when current flow
+exceeds the rating of the fuse, it blows off.
+The element in the fuse melts, opening the circuit and
+preventing other components of the circuit from being
+damaged by the over current. The size of the metal fuse
+element determines the rating. Once a fuse blows off, it
+must be replaced with a new one.
+Fuse puller is available at the motor compartment fuse box.
+Before handling any fuses, always switch off the ignition,
+lights, and all electrical equipment to prevent the risk of
+electrical shock or short circuits
+Never replace a fuse with one of a different rating, as this
+may cause electrical damage or create a fire hazard.
+Fuse replacements or electrical repairs should only be
+performed by a Mahindra Authorized Service Center or a
+qualified workshop. Improper handling may result in
+serious damage to the vehicle’s electrical system
+GOOD
+BLOWN
+FUSE PULLER
+Maintenance
+© Copyright Mahindra Electric Automobile Ltd. 022025
+13-3
+13.2.1 Motor Compartment Fuse Box
+Motor compartment fuse box is located adjacent to LV
+battery on the Left side of the vehicle.
+To open the fuse box cover, press the lock and push the
+cover back and lift it.
+Spare fuses are provided in the fuse box for replacement of
+blown fuses. Ensure the correct rating fuse is replaced with
+the blown fuse.
+Fuse Layout :
+STEERING WHEEL SWITCH
+(B+)
+SPARE
+ACCESSORY
+HUD & ESCL(B+)
+SPARE
+HPC-C, HVAC
+(IGN 1)
+REAR POWER WINDOW  
+MID ZONAL ECU BATT 
+2 & 3  (BATT SAVER)
+10 A
+15 A
+20 A
+  POWER WIN LIN & 
+ SUB SW (BATT SAVER)
+5 A
+30 A
+5 A
+10 A
+15 A
+30 A
+10 A
+5 A
+7.5 A
+10 A
+5 A
+F3 8
+F1 3
+F5 1
+F1 5
+F1 7
+F5 3
+F5 4
+F3 9
+F4 0
+F4 1
+F4 2
+F4 3
+20 A
+15 A
+15 A
+15 A
+20 A
+10 A
+IGN RELAY 2 F/B
+      (IGN 2)
+HUD, APAS, FRONT
+WLC, REAR WLC, ADAS
+5R1V, 1R1V (IGN 2)
+SPARE
+F 9
+F1 0
+F1 1
+F1 2
+F1 4
+F1 8
+F2 6
+F2 7
+F2 8
+F2 9
+F3 0
+F1 6
+F1 9
+F2 0
+F5 2
+F2 1
+F2 2
+F3 1
+F3 2
+F3 3
+F3 4
+F5 0
+F4 4
+F4 5
+F4 6
+F4 7
+F4 8
+     FRONT, REAR
+POWER USB (IGN 2)
+RVC (IGN 1
+)
+ MID ZONAL, ICC
+,
+ VESS SW (IGN 1
+)
+REAR FOG (EXPORT)
+ 
+   (IGN 1
+)
+SBW (IGN 1
+)
+30 A
+30 A
+10 A
+5 A
+5 A
+10 A
+25 A
+20 A
+25 A
+25 A
+10 A
+10 A
+5 A
+7.5A  
+TAIL LAMP BSO LH,
+ TSO (BATT SAVER)
+SPARE
+POWER WINDOW RH
+ (BATT SAVER)
+FRONT WLC, REAR WLC,
+POWER SEAT VENT,
+EC (BATT SAVER)
+5 A
+5 A
+7.5 A
+5 A
+10 A
+15 A
+25 A
+7.5 A
+10 A
+30 A
+5 A
+5 A
+5 A
+30 A
+20 A
+5 A
+5 A
+F 1
+F 2
+F 3
+F 4
+F 5
+F 6
+F 7
+F 8
+SPARE
+SPAR E
+SPAR E
+SPAR E
+SPARE
+SPARE
+POWER WINDOW LH
+(BATT SAVER)
+AMPLIFIER (B+)
+5 A
+F4 9
+F3 7
+F3 5
+F3 6
+F2 3
+F2 4
+F2 5
+SPARE
+TAIL BSO RH 
+(BATT SAVER)
+FRONT ZONAL BATT 1 (B+)
+HPC-C,CID,DID (B+)
+SPARE
+ROOF LAMP 
+(BATT SAVER)
+AMBIENT LIGHT, MARS
+ROOF,AHD CAMERA 
+(RALE - E) (BATT SAVER)
+SPARE
+FRONT
+MID ZONAL 
+BATT 1 (B+)
+LV-MSD (B+
+)
+AIRBAG (B+)
+KICK SENSOR,
+SSB CAPSENSE, VESS 
+SW(B+) SBW&ICC(B+) 
+SPARE
+GATEWAY CONTROLLER,
+DRIVER SIDE SWITCH, IGN 
+RELAY 1 F/B(IGN 1)
+FRONT ZONAL BATT 2 (B+) 
+FRONT ZONAL BATT 3 (B+)
+GATEWAY
+MID ZONAL
+BATT 4(B+)
+EC IGN (VCU, BMS,
+MCU, ABS, HL, IEB,
+Cooling Fan) (IGN 1)
+AIRBAG (IGN 1)
+REAR BLOWER(B+)
+(NOT APPLICABLE)
+ADAS 5R1V &
+1R1V & RLS OHC (B+)
+SPARE
+ OBD 16P, POWER SEAT SW, 
+NFC, PWR WIN LIN, HVAC (B+)
+SPARE
+7.5 A
+5 A
+4(B+)
+BATT
+ZONAL
+BATT SAVER 
+CONTROLLER (B+) 
+Maintenance
+13-4
+© Copyright Mahindra Electric Automobile Ltd. 022025
+FUSE
+NO.
+Circuit
+FUSE
+RATING
+F1
+Spare
+20A
+F2
+Rear Power Window Mid Zonal Ecu Bat
+2 & 3 (Batt Saver)
+30A
+F3
+Power Window Rh (Batt Saver)
+30A
+F4
+Spare
+15A
+F5
+Tail Lamp Bso Lh, Tso (Batt Saver)
+15A
+F6
+Power Window Lh (Batt Saver)
+30A
+F7
+Front Wlc, Rear Wlc, Power Seat Vent,
+Batt Saver Ec (Batt Saver)
+10A
+F8
+Spare
+5A
+F9
+Tail Bso Rh (Batt Saver)
+5A
+F10
+Ambient Light,Mars Roof, Ahd Camera
+(Rall-E) (Batt Saver)
+15A
+F11
+Roof Lamp (Batt Saver)
+5A
+F12
+Spare
+10A
+F13
+Spare
+10A
+F14
+Hpc-C,Cid,Did (B+)
+20A
+F15
+Mid Zonal Batt 1 (B+)
+25A
+F16
+Front Zonal Batt 1 (B+)
+25A
+F17
+Lv-Msd (B+)
+10A
+FUSE
+NO.
+Circuit
+FUSE
+RATING
+F18
+Airbag (B+)
+10A
+F19
+Kick Sensor , Ssb Capsense,Vess Sw (B
++) Sbw&Icc (B+)
+10A
+F20
+Spare
+5A
+F21
+Hpc-C, Hvac (Ign 1)
+5A
+F22
+Gateway Controller, Driver Side Switch,
+Ign Relay 1 F/B(Ign 1)
+5A
+F23
+Front Zonal Batt 3 (B+)
+20A
+F24
+Front Zonal Batt 2 (B+)
+30A
+F25
+Gateway Controller (B+)
+5A
+F26
+Spare
+7.5A
+F27
+Steering Wheel Switch (B+)
+10A
+F28
+Obd 16p, Power Seat Sw, Nfc, Pwr Win
+Lin, Hvac (B+)
+7.5A
+F29
+Adas 5r1v & 1r1v , Rls & Ohc (B+)
+5A
+F30
+Rear Blower(B+) (Not Applicable)
+10A
+F31
+Accessory
+15A
+F32
+Spare
+20A
+F33
+Spare
+10A
+F34
+Hud & Escl(B+)
+7.5A
+Maintenance
+© Copyright Mahindra Electric Automobile Ltd. 022025
+13-5
+FUSE
+NO.
+Circuit
+FUSE
+RATING
+F35
+Ec Ign (Vcu, Bms, Mcu, Abs, Hl, Ieb,
+Cooling Fan) (Ign 1)
+10A
+F36
+Airbag (Ign 1)
+5A
+F37
+Rvc (Ign 1)
+5A
+F38
+Spare
+5A
+F39
+Sbw (Ign 1)
+5A
+F40
+Spare
+7.5A
+F41
+Spare
+5A
+F42
+Mid Zonal, Icc, Vess Sw (Ign 1)
+5A
+F43
+Rear Fog (Export) (Ign 1)
+10A
+F44
+Hud, Apas, Front Wlc, Rear Wlc, Adas
+5r1v, 1r1v (Ign 2)
+7.5A
+FUSE
+NO.
+Circuit
+FUSE
+RATING
+F45
+Spare
+25A
+F46
+Front, Rear Power Usb (Ign 2)
+20A
+F47
+Spare
+15A
+F48
+Power Win Lin & Sub Sw (Batt Saver)
+5A
+F49
+Ign Relay 2 F/B (Ign 2)
+5A
+F50
+Spare
+5A
+F51
+Front Zonal Batt 4 (B+)
+25A
+F52
+Spare
+30A
+F53
+Mid Zonal Batt 4 (B+)
+15A
+F54
+Amplifier (B+)
+30A
+*– Based on Applicability
+Maintenance
+13-6
+© Copyright Mahindra Electric Automobile Ltd. 022025
+13.2.2 Instrument Panel Fuse Box Opening
+Procedure
+Wide open the driver door and slide the driver seat
+backwards. This fuse box as located below the Instrument
+Panel on the driver side
+Follow the below procedure to access the IP fuse box,
+•
+Partially detach the front
+RHS
+side
+door
+static
+panel seal.
+•
+Pull & remove the IP RH
+side cover.
+•
+Using a star screw driver, loosen and remove the IP
+driver lower trim bottom mounting star screws.
+•
+Partially detach the IP driver lower trim assembly.
+•
+Remove all the electrical connectors from IP driver lower
+trim and outward the panel to access the Instrument
+Panel fuse box.
+Maintenance
+© Copyright Mahindra Electric Automobile Ltd. 022025
+13-7
+Fuses
+Fuse
+No.
+Circuit
+Fuse
+Rating
+F1
+Spare
+_
+F2
+Ip Batt 1
+60A
+F3
+Spare
+_
+F4
+Vcu Main Relay
+30A
+F5
+Ieb Motor
+40A
+F6
+Ip Batt 2
+60A
+F7
+Ip Batt 3
+60A
+F8
+Ieb Ecu & Solenoid
+40A
+F9
+Spare
+_
+F10
+Front Blower
+40A
+F11
+Spare
+_
+F12
+Ip Batt 4
+60A
+F13
+Front Wiper
+20A
+F14*
+Adas 5r1v Apas
+10A
+F15
+Horn Batt
+20A
+F16
+Bms Batt
+_
+F17
+Spare
+_
+F18
+Vcu Permbatt
+10A
+F19
+Spare
+_
+R3
+R4
+R1
+R2
+F44
+-USE THE DESIGNATED
+FUSES AND RELAYS ONLY.
+F46
+F45
+BATT+
+VEHICLE FRONT
+F7
+F8
+F9
+F10
+F11
+F12
+F22
+F14
+F16
+F15
+F17 F18 F19
+F21
+F20
+F32
+F31
+F6
+F4
+F3
+F5
+F2
+F1
+F42
+F43
+F41 F40 F39 F38 F37 F36
+F35
+F34
+F33
+R5
+F13
+*
+*
+*
+F23 F24 F25 F26 F27 F28 F29 F30
+Maintenance
+13-8
+© Copyright Mahindra Electric Automobile Ltd. 022025
+Fuses
+Fuse
+No.
+Circuit
+Fuse
+Rating
+F20
+Hl Batt Saver
+30A
+F21
+Spare
+_
+F22
+Spare
+_
+F23
+Lv Compressor
+5A
+F24
+Spare
+_
+F25*
+Rear Wiper
+15A
+F26
+Solenoid Valve Front
+5A
+F27
+Spare
+_
+F28
+Lv Bms Sensor Batt (Ibs)
+5A
+F29
+Ocdc Batt & Mcu
+10A
+F30
+Spare
+_
+F31
+Batt Heater & Charge Port Lamp
+Chiller & Solenoid Valve Coil
+10A
+F32
+Hl Ign
+5A
+F33
+Bms, Mcu, Eps Cooling Fan (Ign)
+5A
+F34
+Ieb Ecu (Ign)
+5A
+F35
+Vcu Wake Up (Ign)
+5A
+F36
+Ept Cooling Pump
+5A
+Fuses
+Fuse
+No.
+Circuit
+Fuse
+Rating
+F37
+4 Way Coolant Valve, 3 Way Coolant
+Valve & Ags
+10A
+F38
+Spare
+_
+F39
+Battery Cooling Pump
+20A
+F40
+Brake Sw
+10A
+F41
+Head Lamp Lh/ Signature Lamp/
+Carpet Lamp Lh
+20A
+F42
+Vcu Batt (Main O/P)
+30A
+F43
+Head Lamp Rh/Carpet Lamp Rh
+20A
+F44
+Eps Motor
+125A
+F45
+Radiator Fan
+80A
+F46
+Spare
+_
+* - If equipped
+Relays
+Relay
+No.
+Relay Type
+Application Detail
+R1
+12V 20A MICRO RLY 4P
+Front Solenoid
+Valve Relay
+R2
+12V 35A MICRO RLY 4P
+Batt Saver Relay
+Maintenance
+© Copyright Mahindra Electric Automobile Ltd. 022025
+13-9
+Relays
+Relay
+No.
+Relay Type
+Application Detail
+R3
+12V 20A MICRO RLY 4P
+Horn Relay
+R4*
+12V 20A MICRO RLY 5P
+Rear Wiper Relay
+Relays
+Relay
+No.
+Relay Type
+Application Detail
+R5
+12V 40A MINI RLY 4P
+Vcu Main Relay
+* - If equipped
+Maintenance

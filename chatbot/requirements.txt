@@ -1,0 +1,21 @@
+fastapi
+uvicorn
+python-multipart
+aiofiles
+sqlalchemy
+mysql-connector-python
+jinja2
+python-dotenv
+itsdangerous
+pinecone
+openai
+azure-identity
+PyMuPDF
+langchain
+
+
+
+## 1)venv/Scripts/Activate
+# 2)uvicorn backend.main:app --reload
+
+##local host  --127.0.0.1:8000

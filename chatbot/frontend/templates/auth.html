@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Auth | Login & Signup</title>
+
+  <!-- Bootstrap & Font Awesome -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet"/>
+
+  <!-- AOS (Animation on Scroll) -->
+  <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet"/>
+
+  <!-- Lottie -->
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+
+  <!-- Particles.js -->
+  <script src="https://cdn.jsdelivr.net/npm/particles.js@2.0.0/particles.min.js"></script>
+
+  <style>
+    :root {
+      --primary-color: #6366f1;
+      --primary-dark: #4f46e5;
+      --secondary-color: #f8fafc;
+      --text-primary: #1e293b;
+      --text-secondary: #64748b;
+      --border-color: #e2e8f0;
+      --success-color: #10b981;
+      --danger-color: #ef4444;
+    }
+
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      min-height: 100vh;
+      overflow-x: hidden;
+      position: relative;
+      background: #f9fafb;
+    }
+
+    #particles-js {
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      z-index: -1;
+    }
+
+    .auth-container {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .auth-left {
+      background: linear-gradient(135deg, rgba(99, 102, 241, 0.9), rgba(139, 92, 246, 0.9));
+      color: white;
+      padding: 4rem 2rem;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      position: relative;
+    }
+
+    .auth-branding {
+      z-index: 2;
+      text-align: center;
+    }
+
+    .brand-title {
+      font-size: 2.5rem;
+      font-weight: 700;
+      margin-bottom: 1rem;
+      animation: fadeInDown 1s ease-in-out;
+    }
+
+    .feature-list {
+      margin-top: 2rem;
+    }
+
+    .feature-item {
+      margin: 1rem 0;
+      font-size: 1.1rem;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+    }
+
+    .auth-right {
+      background: #fff;
+      padding: 2rem;
+      animation: fadeInRight 1s ease-in-out;
+    }
+
+    .form-control:focus {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 0.2rem rgba(99, 102, 241, 0.25);
+    }
+
+    .btn-primary {
+      background: var(--primary-color);
+      border: none;
+    }
+
+    .btn-primary:hover {
+      background: var(--primary-dark);
+    }
+
+    lottie-player {
+      position: absolute;
+      top: 20px;
+      right: 20px;
+      width: 100px;
+      height: 100px;
+    }
+
+    @keyframes fadeInDown {
+      from {
+        opacity: 0;
+        transform: translateY(-30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    @keyframes fadeInRight {
+      from {
+        opacity: 0;
+        transform: translateX(30px);
+      }
+      to {
+        opacity: 1;
+        transform: translateX(0);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div id="particles-js"></div>
+
+  <!-- Auth Container -->
+  <div class="auth-container">
+    <div class="container">
+      <div class="row shadow-lg rounded-4 overflow-hidden flex-column flex-lg-row">
+
+        <!-- Left Column -->
+        <div class="col-lg-6 auth-left" data-aos="fade-right">
+          <div class="auth-branding">
+            <h1 class="brand-title">Welcome Back</h1>
+            <p>Join thousands who trust our platform.</p>
+            <div class="feature-list">
+              <div class="feature-item"><i class="fas fa-shield-alt"></i> Secure & Protected</div>
+              <div class="feature-item"><i class="fas fa-rocket"></i> Fast & Reliable</div>
+              <div class="feature-item"><i class="fas fa-users"></i> Trusted by Millions</div>
+            </div>
+          </div>
+          <!-- Lottie Animation -->
+          <lottie-player src="https://lottie.host/14f3953a-a77b-4d57-b727-9cf5e06b8356/9N3OYBInH4.json" background="transparent" speed="1" loop autoplay></lottie-player>
+        </div>
+
+        <!-- Right Column (Forms) -->
+        <div class="col-lg-6 auth-right" data-aos="fade-left">
+          <div id="loginForm">
+            <h2 class="mb-3 text-center">Sign In</h2>
+            <form id="loginFormElement" action="/login" method="post">
+              <div class="mb-3">
+                <label for="loginEmail" class="form-label">Email</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+                  <input type="email" class="form-control" id="loginEmail" name="email" required/>
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label for="loginPassword" class="form-label">Password</label>
+                <div class="input-group">
+                  <span class="input-group-text"><i class="fas fa-lock"></i></span>
+                  <input type="password" class="form-control" id="loginPassword" name="password" required/>
+                </div>
+              </div>
+
+              <button type="submit" class="btn btn-primary w-100">Sign In</button>
+            </form>
+            <p class="text-center mt-4">Don't have an account? <a href="#" id="showSignup">Sign up here</a></p>
+          </div>
+
+          <div id="signupForm" class="d-none">
+            <h2 class="mb-3 text-center">Create Account</h2>
+            <form id="signupFormElement" action="/signup" method="post">
+              <div class="mb-3">
+                <label for="signupEmail" class="form-label">Email</label>
+                <input type="email" class="form-control" id="signupEmail" name="email" required/>
+              </div>
+
+              <div class="mb-3">
+                <label for="username" class="form-label">Username</label>
+                <input type="text" class="form-control" id="username" name="username" required/>
+              </div>
+
+              <div class="mb-3">
+                <label for="signupPassword" class="form-label">Password</label>
+                <input type="password" class="form-control" id="signupPassword" name="password" required/>
+              </div>
+
+              <div class="mb-3">
+                <label for="confirmPassword" class="form-label">Confirm Password</label>
+                <input type="password" class="form-control" id="confirmPassword" name="confirm_password" required/>
+              </div>
+
+              <button type="submit" class="btn btn-primary w-100">Create Account</button>
+            </form>
+            <p class="text-center mt-4">Already have an account? <a href="#" id="showLogin">Sign in here</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+  <!-- AOS -->
+  <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+  <script>AOS.init();</script>
+
+  <!-- Particles Config -->
+  <script>
+    particlesJS("particles-js", {
+      particles: {
+        number: { value: 60 },
+        size: { value: 3 },
+        color: { value: "#6366f1" },
+        line_linked: {
+          enable: true,
+          distance: 150,
+          color: "#aaa",
+          opacity: 0.4,
+          width: 1
+        },
+        move: {
+          enable: true,
+          speed: 2
+        }
+      },
+      interactivity: {
+        events: {
+          onhover: { enable: true, mode: "repulse" }
+        }
+      }
+    });
+  </script>
+
+  <!-- Form Toggle -->
+  <script>
+    document.getElementById("showSignup").onclick = function(e) {
+      e.preventDefault();
+      document.getElementById("loginForm").classList.add("d-none");
+      document.getElementById("signupForm").classList.remove("d-none");
+    };
+
+    document.getElementById("showLogin").onclick = function(e) {
+      e.preventDefault();
+      document.getElementById("signupForm").classList.add("d-none");
+      document.getElementById("loginForm").classList.remove("d-none");
+    };
+  </script>
+</body>
+</html>
